@@ -181,21 +181,21 @@ public class Builder
 			File tFile 	= new File("./data/trigrams.map");
 			
 			// Write the unigrams table
-			uFile.create();
+			uFile.createNewFile();
 			FileOutputStream ufos = new FileOutputStream(uFile);
 			ObjectOutputStream uoos = new ObjectOutputStream(ufos);
 			uoos.writeObject(unigrams);
 			uoos.close();
 			
 			// Write the bigrams table
-			bFile.create();
+			bFile.createNewFile();
 			FileOutputStream bfos = new FileOutputStream(bFile);
 			ObjectOutputStream boos = new ObjectOutputStream(bfos);
 			boos.writeObject(bigrams);
 			boos.close();
 			
 			// Write the trigrams table
-			tFile.create();
+			tFile.createNewFile();
 			FileOutputStream tfos = new FileOutputStream(tFile);
 			ObjectOutputStream toos = new ObjectOutputStream(tfos);
 			toos.writeObject(trigrams);
