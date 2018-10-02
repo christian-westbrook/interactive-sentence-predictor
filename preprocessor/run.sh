@@ -1,5 +1,13 @@
 #!/bin/sh
 
+# =================================================================================================
+# Program		: Language Model Predictor Preprocessor
+# Script		: run.sh
+# Developer		: Christian Westbrook
+# Abstract		: This script facilitates the execution of the preprocessor for the language
+# 				  model predictor.
+# =================================================================================================
+
 # Configures this shell script to exit immediately if an error occurs.
 # This includes any program returning an exit code other than 0
 set -e
@@ -25,8 +33,15 @@ mkdir data
 cd ./tokenizer
 javac PS2Tokenizer.java
 
+# Move back into the root directory and execute PS2Tokenizer.java. The input
+# directory is ./training-data and the output directory is ./data.
+cd ..
+java ./tokenizer/PS2Tokenizer ./training-data ./data
+
 # After the script completes execution, remove each of the files generated when compiling the
 # tokenizer.
+
+cd ./tokenizer
 
 rm ParseException.java
 rm ParseException.class
