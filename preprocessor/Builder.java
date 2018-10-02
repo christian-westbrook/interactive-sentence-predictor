@@ -104,7 +104,8 @@ public class Builder
 			else
 			{
 				int count = unigrams.get(u);
-				unigrams.put(u, count++);
+				count++;
+				unigrams.put(u, count);
 			}
 		}
 		
@@ -118,7 +119,8 @@ public class Builder
 			else
 			{
 				int count = bigrams.get(b);
-				bigrams.put(b, count++);
+				count++;
+				bigrams.put(b, count);
 			}
 		}
 		
@@ -132,7 +134,8 @@ public class Builder
 			else
 			{
 				int count = trigrams.get(t);
-				trigrams.put(t, count++);
+				count++;
+				trigrams.put(t, count);
 			}
 		}
 		
