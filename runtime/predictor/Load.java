@@ -33,42 +33,50 @@ public class Load
 	
 	public Load()
 	{
-		// Load unigram table
-		FileInputStream ufis = new FileInputStream("./data/unigrams.map");
-		ObjectInputStream uois = new ObjectInputStream(ufis);
-		unigrams = (HashMap<String, Integer>) uois.readObject();
-		uois.close();
+		try
+		{
+			// Load unigram table
+			FileInputStream ufis = new FileInputStream("./data/unigrams.map");
+			ObjectInputStream uois = new ObjectInputStream(ufis);
+			unigrams = (HashMap<String, Integer>) uois.readObject();
+			uois.close();
 		
-		// Load bigram table
-		FileInputStream bfis = new FileInputStream("./data/bigrams.map");
-		ObjectInputStream bois = new ObjectInputStream(bfis);
-		bigrams = (HashMap<String, Integer>) bois.readObject();
-		bois.close();
+			// Load bigram table
+			FileInputStream bfis = new FileInputStream("./data/bigrams.map");
+			ObjectInputStream bois = new ObjectInputStream(bfis);
+			bigrams = (HashMap<String, Integer>) bois.readObject();
+			bois.close();
 		
-		// Load trigram table
-		FileInputStream tfis = new FileInputStream("./data/trigrams.map");
-		ObjectInputStream tois = new ObjectInputStream(tfis);
-		trigrams = (HashMap<String, Integer>) tois.readObject();
-		tois.close();
+			// Load trigram table
+			FileInputStream tfis = new FileInputStream("./data/trigrams.map");
+			ObjectInputStream tois = new ObjectInputStream(tfis);
+			trigrams = (HashMap<String, Integer>) tois.readObject();
+			tois.close();
 		
-		// Load metrics
-		File mFile = new File("./data/metrics.dat");
-		FileReader mfr = new FileReader(mFile);
-		BufferedReader bfr = new BufferedReader(mfr);
+			// Load metrics
+			File mFile = new File("./data/metrics.dat");
+			FileReader mfr = new FileReader(mFile);
+			BufferedReader bfr = new BufferedReader(mfr);
 		
-		String[] metrics = bfr.readLine().split(",");
+			String[] metrics = bfr.readLine().split(",");
 		
-		n = Integer.parseInt(metrics[0]);
-		v = Integer.parseInt(metrics[1]);
+			n = Integer.parseInt(metrics[0]);
+			v = Integer.parseInt(metrics[1]);
 		
-		unigramsN = Integer.parseInt(metrics[2]);
-		unigramsV = Integer.parseInt(metrics[3]);
+			unigramsN = Integer.parseInt(metrics[2]);
+			unigramsV = Integer.parseInt(metrics[3]);
 		
-		bigramsN = Integer.parseInt(metrics[4]);
-		bigramsV = Integer.parseInt(metrics[5]);
+			bigramsN = Integer.parseInt(metrics[4]);
+			bigramsV = Integer.parseInt(metrics[5]);
 		
-		trigramsN = Integer.parseInt(metrics[6]);
-		trigramsV = Integer.parseInt(metrics[7]);
+			trigramsN = Integer.parseInt(metrics[6]);
+			trigramsV = Integer.parseInt(metrics[7]);
+		}
+		catch (Exception ex)
+		{
+			ex.printStackTrace();
+			System.exit(1);
+		}
 	}
 	
 	// Getters
@@ -131,7 +139,9 @@ public class Load
 	{
 		Load load = new Load();
 		
-		for (HashMap.Entry<String, Integer> entry : load.getUnigrams().entrySet()) 
+		HashMap<String, Integer> unigrams = load.getUnigrams();
+		
+		for (HashMap.Entry<String, Integer> entry : unigrams.entrySet()) 
 		{
 			String key = entry.getKey();
 			Integer value = entry.getValue();
