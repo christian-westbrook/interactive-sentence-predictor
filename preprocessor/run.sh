@@ -59,6 +59,7 @@ rm Token.class
 # Merge each of the output files into a single file of output
 cat output/*.out > ./output/tokens.out
 
-# Compute and sort the frequency of each token and store the generated output in
-# frequency.txt
-tr -sc 'A-Za-z0-9' '\n' < ./output/tokens.out | tr A-Z a-z | sort | uniq -c | sort -n -r > ./output/frequency.txt
+# Move back to the root directory to compile and execute the Builder class
+cd ..
+javac Builder.java
+java Builder
