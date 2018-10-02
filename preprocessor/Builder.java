@@ -209,6 +209,7 @@ public class Builder
 			mbw.write(n + "," + v + "," + unigramsN + "," + unigramsV + ","
 				      + bigramsN + "," + bigramsV + "," + trigramsN + "m"
 					  + trigramsV + "\n");
+			mbw.close();
 		}
 		catch (IOException ex)
 		{

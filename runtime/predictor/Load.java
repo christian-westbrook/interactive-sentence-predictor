@@ -57,9 +57,8 @@ public class Load
 			File mFile = new File("./data/metrics.dat");
 			FileReader mfr = new FileReader(mFile);
 			BufferedReader bfr = new BufferedReader(mfr);
-			
-			String line = bfr.readLine();
-			String[] metrics = line.split(",");
+		
+			String[] metrics = bfr.readLine().split(",");
 		
 			n = Integer.parseInt(metrics[0]);
 			v = Integer.parseInt(metrics[1]);
