@@ -8,7 +8,7 @@ File Manifest
 |-------------- preprocessor
 |               |-------------- run.sh
 |       	      |-------------- tokenizer
-|		            |   		        |-------------- PS2.jj
+|		            |               |-------------- PS2.jj
 |		            |		 
 |       	      |-------------- builder
 |
