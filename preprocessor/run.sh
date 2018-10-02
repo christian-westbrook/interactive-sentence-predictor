@@ -28,8 +28,6 @@ javac PS2Tokenizer.java
 # After the script completes execution, remove each of the files generated when compiling the
 # tokenizer.
 
-cd ./tokenizer
-
 rm ParseException.java
 rm ParseException.class
 
