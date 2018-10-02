@@ -19,3 +19,14 @@ then
 fi
 
 mkdir data
+
+# After the script completes execution, remove each of the files generated when compiling the
+# tokenizer. 
+
+rm ParseException.java
+rm PS2TokenizerConstants.java
+rm PS2TokenizerTokenManager.java
+rm TokenMgrError.java
+rm PS2Tokenizer.java
+rm SimpleCharStream.java
+rm Token.java
