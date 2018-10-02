@@ -32,7 +32,7 @@ javac PS2Tokenizer.java
 # output will be directed to ./tokenizer/output.
 java PS2Tokenizer training-data output
 
-# After the script completes execution, remove each of the files generated when compiling the
+# After the tokenizer completes execution, remove each of the files generated when compiling the
 # tokenizer.
 
 rm ParseException.java
@@ -55,3 +55,10 @@ rm SimpleCharStream.class
 
 rm Token.java
 rm Token.class
+
+# Merge each of the output files into a single file of output
+cat output/*.out > ./output/tokens.out
+
+# Compute and sort the frequency of each token and store the generated output in
+# frequency.txt
+tr -sc 'A-Za-z0-9' '\n' < ./output/tokens.out | tr A-Z a-z | sort | uniq -c | sort -n -r > ./output/frequency.txt
