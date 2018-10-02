@@ -15,24 +15,30 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 public class Builder
-{
-	private File frequency;
+{	
+	private ArrayList<String> unigramList;
+	private ArrayList<String> bigramList;
+	private ArrayList<String> trigramList;
 	
-	private ArrayList<String> unigrams;
-	private ArrayList<String> bigrams;
-	private ArrayList<String> trigrams;
+	private HashMap<String, Integer> unigrams;
+	private HashMap<String, Integer> bigrams;
+	private HashMap<String, Integer> trigrams;
 	
 	public Builder()
 	{
-			// Input the  frequency file
-			frequency = new File("./tokenizer/output/tokens.out");
-		
 			// Initialize ngram ArrayLists
-			unigrams = new ArrayList<String>();
-			bigrams = new ArrayList<String>();
-			trigrams = new ArrayList<String>();
+			unigramList = new ArrayList<String>();
+			bigramList = new ArrayList<String>();
+			trigramList = new ArrayList<String>();
 			
+			// Initialize HashMaps
+			unigrams = new HashMap<String, Integer>();
+			bigrams = new HashMap<String, Integer>();
+			trigrams = new HashMap<String, Integer>();
+			
+			// Functions
 			ngramBuilder();
+			mapBuilder();
 	}
 	
 	private void ngramBuilder()
@@ -59,13 +65,15 @@ public class Builder
 			
 				//If all three words are filled, add a trigram
 				if(!w1.equals("") && !w2.equals("") && !w3.equals(""))
-					trigrams.add(new String(w1 + " " + w2 + " " + w3));
+					trigramList.add(new String(w1 + " " + w2 + " " + w3));
 			
+				// If the last two words are filled, add a bigram
 				if(!w2.equals("") && !w3.equals(""))
-					bigrams.add(new String(w2 + " " + w3));
+					bigramList.add(new String(w2 + " " + w3));
 			
+				// If the last word is filled, add a unigram
 				if(!w3.equals(""))
-					unigrams.add(new String(w3));
+					unigramList.add(new String(w3));
 			}
 		
 			br.close();
@@ -81,6 +89,61 @@ public class Builder
 			ex.printStackTrace();
 			System.exit(1);
 		}
+	}
+	
+	private void mapBuilder()
+	{
+		// Build unigram map
+		for(String u : unigramList)
+		{
+			if(unigrams.get(u) == null)
+			{
+				unigrams.put(u, 1);
+			}
+			else
+			{
+				int count = unigrams.get(u);
+				unigrams.put(u, count++);
+			}
+		}
+		
+		// Build bigram map
+		for(String b : bigramList)
+		{
+			if(bigrams.get(b) == null)
+			{
+				bigrams.put(b, 1);
+			}
+			else
+			{
+				int count = bigrams.get(b);
+				bigrams.put(b, count++);
+			}
+		}
+		
+		// Build trigram map
+		for(String t : trigramList)
+		{
+			if(trigrams.get(t) == null)
+			{
+				trigrams.put(t, 1);
+			}
+			else
+			{
+				int count = trigrams.get(t);
+				trigrams.put(t, count++);
+			}
+		}
+		
+		// ===================== TEMPORARY ===============================
+		for (Map.Entry<String, Integer> entry : unigrams.entrySet()) 
+		{
+			String key = entry.getKey();
+			Integer value = entry.getValue();
+			
+			System.out.println(key + " " + value);
+		}
+		// ===================== TEMPORARY ===============================
 	}
 	
 	public static void main(String[] args)
