@@ -1,3 +1,10 @@
+//=================================================================================================
+// Program		: Language Model Predictor Preprocessor
+// Class		: PS3.jj
+// Developers	: Renae Fischer, Christian Westbrook
+// Abstract		:
+//=================================================================================================
+
 options
 {
 	static = false;
