@@ -62,7 +62,7 @@ public class Builder
 				// Shift words back through the variables
 				w1 = w2;
 				w2 = w3;
-				w3 = line;
+				w3 = line.toLowerCase();
 			
 				//If all three words are filled, add a trigram
 				if(!w1.equals("") && !w2.equals("") && !w3.equals(""))
