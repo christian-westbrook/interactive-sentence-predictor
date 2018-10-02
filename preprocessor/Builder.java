@@ -25,6 +25,18 @@ public class Builder
 	private HashMap<String, Integer> bigrams;
 	private HashMap<String, Integer> trigrams;
 	
+	private int n;
+	private int v;
+	
+	private int unigramsN;
+	private int unigramsV;
+	
+	private int bigramsN;
+	private int bigramsV;
+	
+	private int trigramsN;
+	private int trigramsV;
+	
 	public Builder()
 	{
 			// Initialize ngram ArrayLists
@@ -40,6 +52,7 @@ public class Builder
 			// Functions
 			ngramBuilder();
 			mapBuilder();
+			computeMetrics();
 	}
 	
 	private void ngramBuilder()
@@ -138,16 +151,20 @@ public class Builder
 				trigrams.put(t, count);
 			}
 		}
+	}
+	
+	private void computeMetrics()
+	{
+		unigramsN = unigramList.size();
+		bigramsN = bigramList.size();
+		trigramsN = trigramList.size();
 		
-		// ===================== TEMPORARY ===============================
-		for (HashMap.Entry<String, Integer> entry : unigrams.entrySet()) 
-		{
-			String key = entry.getKey();
-			Integer value = entry.getValue();
-			
-			System.out.println(key + " " + value);
-		}
-		// ===================== TEMPORARY ===============================
+		unigramsV = unigrams.size();
+		bigramsV = bigrams.size();
+		trigramsV = trigrams.size();
+		
+		n = unigramsN + bigramsN + trigramsN;
+		v = unigramsV + bigramsV + trigramsV;
 	}
 	
 	public static void main(String[] args)
