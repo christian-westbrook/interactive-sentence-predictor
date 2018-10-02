@@ -53,13 +53,13 @@ public class Builder
 			ngramBuilder();
 			mapBuilder();
 			computeMetrics();
+			write();
 	}
 	
 	private void ngramBuilder()
 	{
 		try
 		{
-			
 			// Open the tokens file
 			File tokens = new File("./tokenizer/output/tokens.out");
 			FileReader fr = new FileReader(tokens);
@@ -165,6 +165,52 @@ public class Builder
 		
 		n = unigramsN + bigramsN + trigramsN;
 		v = unigramsV + bigramsV + trigramsV;
+	}
+	
+	private void write()
+	{
+		try
+		{
+			// Create three object output files
+			File uFile 	= new File("./data/unigrams.map");
+			File bFile 	= new File("./data/bigrams.map");
+			File tFile 	= new File("./data/trigrams.map");
+			
+			// Write the unigrams table
+			uFile.create();
+			FileOutputStream ufos = new FileOutputStream(uFile);
+			ObjectOutputStream uoos = new ObjectOutputStream(ufos);
+			uoos.writeObject(unigrams);
+			uoos.close();
+			
+			// Write the bigrams table
+			bFile.create();
+			FileOutputStream bfos = new FileOutputStream(bFile);
+			ObjectOutputStream boos = new ObjectOutputStream(bfos);
+			boos.writeObject(bigrams);
+			boos.close();
+			
+			// Write the trigrams table
+			tFile.create();
+			FileOutputStream tfos = new FileOutputStream(tFile);
+			ObjectOutputStream toos = new ObjectOutputStream(tfos);
+			toos.writeObject(trigrams);
+			toos.close();
+			
+			// Write metrics to disk
+			File mFile = new File("./data/metrics.dat");
+			mFile.create();
+			FileWriter mfw = new FileWriter(mFile);
+			BufferedWriter mbw = new BufferedWriter(mfw);
+			mbw.write(n + "," + v + "," + unigramsN + "," + unigramsV + ","
+				      + bigramsN + "," + bigramsV + "," + trigramsN + "m"
+					  + trigramsV + "\n");
+		}
+		catch (IOException ex)
+		{
+			ex.printStackTrace();
+			System.exit(1);
+		}
 	}
 	
 	public static void main(String[] args)

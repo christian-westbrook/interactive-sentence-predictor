@@ -17,10 +17,10 @@ cd ./tokenizer
 javacc PS3.jj
 
 # Check if the output folder exists. If the output folder exists, remove 
-# it. Either way, create a new output file.
+# it. Either way, create a new output folder.
 if [ -d output ]
 then
-	rm -r output
+	rm -rf output
 fi
 
 mkdir output
@@ -59,7 +59,23 @@ rm Token.class
 # Merge each of the output files into a single file of output
 cat output/*.out > ./output/tokens.out
 
-# Move back to the root directory to compile and execute the Builder class
+# Move back a directory and check if the data folder exists. 
+# If the data folder exists, remove it. Either way, create a new data folder.
 cd ..
+
+if [ -d data ]
+then
+	rm -rf data
+fi
+
+mkdir data
+
+# Compile and execute the Builder class
 javac Builder.java
 java Builder
+
+# Move back to the root directory for the repository. Remove the existing data directory
+# and replace it with the new data.
+cd ..
+rm -rf data
+mv ./preprocessor/data/ ./data/
