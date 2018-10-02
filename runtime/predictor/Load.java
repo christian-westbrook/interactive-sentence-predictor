@@ -80,57 +80,57 @@ public class Load
 	}
 	
 	// Getters
-	private HashMap getUnigrams()
+	public HashMap getUnigrams()
 	{
 		return unigrams;
 	}
 	
-	private HashMap getBigrams()
+	public HashMap getBigrams()
 	{
 		return bigrams;
 	}
 	
-	private HashMap getTrigrams()
+	public HashMap getTrigrams()
 	{
 		return trigrams;
 	}
 	
-	private int getN()
+	public int getN()
 	{
 		return n;
 	}
 	
-	private int getV()
+	public int getV()
 	{
 		return v;
 	}
 	
-	private int getUnigramsN()
+	public int getUnigramsN()
 	{
 		return unigramsN;
 	}
 	
-	private int getUnigramsV()
+	public int getUnigramsV()
 	{
 		return unigramsV;
 	}
 	
-	private int getBigramsN()
+	public int getBigramsN()
 	{
 		return bigramsN;
 	}
 	
-	private int getBigramsV()
+	public int getBigramsV()
 	{
 		return bigramsV;
 	}
 	
-	private int getTrigramsN()
+	public int getTrigramsN()
 	{
 		return trigramsN;
 	}
 	
-	private int getTrigramsV()
+	public int getTrigramsV()
 	{
 		return trigramsV;
 	}
