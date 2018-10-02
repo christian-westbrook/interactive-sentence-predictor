@@ -36,7 +36,7 @@ javac PS2Tokenizer.java
 # Move back into the root directory and execute PS2Tokenizer.java. The input
 # directory is ./training-data and the output directory is ./data.
 cd ..
-java ./tokenizer/PS2Tokenizer ./training-data ./data
+java /tokenizer/PS2Tokenizer ./training-data ./data
 
 # After the script completes execution, remove each of the files generated when compiling the
 # tokenizer.
