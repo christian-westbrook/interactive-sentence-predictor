@@ -137,7 +137,7 @@ public class Builder
 		}
 		
 		// ===================== TEMPORARY ===============================
-		for (Map.Entry<String, Integer> entry : unigrams.entrySet()) 
+		for (HashMap.Entry<String, Integer> entry : unigrams.entrySet()) 
 		{
 			String key = entry.getKey();
 			Integer value = entry.getValue();
