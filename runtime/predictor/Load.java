@@ -139,9 +139,9 @@ public class Load
 	{
 		Load load = new Load();
 		
-		HashMap<String, Integer> unigrams = load.getUnigrams();
+		HashMap<String, Integer> bigrams = load.getBigrams();
 		
-		for (HashMap.Entry<String, Integer> entry : unigrams.entrySet()) 
+		for (HashMap.Entry<String, Integer> entry : bigrams.entrySet()) 
 		{
 			String key = entry.getKey();
 			Integer value = entry.getValue();
@@ -149,7 +149,7 @@ public class Load
 			System.out.println(key + " " + value);
 		}
 		
-		System.out.println("N: " + load.getN());
-		System.out.println("V: " + load.getV());
+		System.out.println("uN: " + load.getUnigramsN());
+		System.out.println("uV: " + load.getUnigramsV());
 	}
 }
