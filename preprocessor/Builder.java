@@ -48,19 +48,10 @@ public class Builder
 			// Create three word variables for building ngrams
 			String w1 = "", w2 = "", w3 = "";
 		
-			// ========================= TEMPORARY ==================================
-			System.out.println("Tokens");
-			System.out.println("------------------------");
-			// ========================= TEMPORARY ==================================
-		
 			// Iterate through lines in the tokens file
 			String line = "";
 			while((line = br.readLine()) != null)
 			{
-				// ========================= TEMPORARY ==================================
-				System.out.println(line);
-				// ========================= TEMPORARY ==================================
-			
 				// Shift words back through the variables
 				w1 = w2;
 				w2 = w3;
@@ -90,34 +81,6 @@ public class Builder
 			ex.printStackTrace();
 			System.exit(1);
 		}
-		
-		// ========================= TEMPORARY ==================================
-		System.out.println();
-		
-		System.out.println("Unigrams");
-		System.out.println("------------------------");
-		for(String u : unigrams)
-		{
-				System.out.println(u);
-		}
-		System.out.println();
-		
-		System.out.println("Bigrams");
-		System.out.println("------------------------");
-		for(String b : bigrams)
-		{
-				System.out.println(b);
-		}
-		System.out.println();
-		
-		System.out.println("Trigrams");
-		System.out.println("------------------------");
-		for(String t : trigrams)
-		{
-				System.out.println(t);
-		}
-		System.out.println();
-		// ========================= TEMPORARY ==================================
 	}
 	
 	public static void main(String[] args)
