@@ -24,8 +24,6 @@ public class Builder
 	
 	public Builder()
 	{
-		try
-		{
 			// Input the  frequency file
 			frequency = new File("./tokenizer/output/tokens.out");
 		
@@ -35,6 +33,51 @@ public class Builder
 			trigrams = new ArrayList<String>();
 			
 			ngramBuilder();
+	}
+	
+	private void ngramBuilder()
+	{
+		try
+		{
+			
+			// Open the tokens file
+			File tokens = new File("./tokenizer/output/tokens.out");
+			FileReader fr = new FileReader(tokens);
+			BufferedReader br = new BufferedReader(fr);
+		
+			// Create three word variables for building ngrams
+			String w1 = "", w2 = "", w3 = "";
+		
+			// ========================= TEMPORARY ==================================
+			System.out.println("Tokens");
+			System.out.println("------------------------");
+			// ========================= TEMPORARY ==================================
+		
+			// Iterate through lines in the tokens file
+			String line = "";
+			while((line = br.readLine()) != null)
+			{
+				// ========================= TEMPORARY ==================================
+				System.out.println(line);
+				// ========================= TEMPORARY ==================================
+			
+				// Shift words back through the variables
+				w1 = w2;
+				w2 = w3;
+				w3 = line;
+			
+				//If all three words are filled, add a trigram
+				if(!w1.equals("") && !w2.equals("") && !w3.equals(""))
+					trigrams.add(new String(w1 + " " + w2 + " " + w3));
+			
+				if(!w2.equals("") && !w3.equals(""))
+					bigrams.add(new String(w2 + " " + w3));
+			
+				if(!w3.equals(""))
+					unigrams.add(new String(w3));
+			}
+		
+			br.close();
 		
 		}
 		catch (FileNotFoundException ex)
@@ -47,48 +90,6 @@ public class Builder
 			ex.printStackTrace();
 			System.exit(1);
 		}
-	}
-	
-	private void ngramBuilder()
-	{
-		// Open the tokens file
-		File tokens = new File("./tokenizer/output/tokens.out");
-		FileReader fr = new FileReader(tokens);
-		BufferedReader br = new BufferedReader(fr);
-		
-		// Create three word variables for building ngrams
-		String w1 = "", w2 = "", w3 = "";
-		
-		// ========================= TEMPORARY ==================================
-		System.out.println("Tokens");
-		System.out.println("------------------------");
-		// ========================= TEMPORARY ==================================
-		
-		// Iterate through lines in the tokens file
-		String line = "";
-		while((line = br.readLine()) != null)
-		{
-			// ========================= TEMPORARY ==================================
-			System.out.println(line);
-			// ========================= TEMPORARY ==================================
-			
-			// Shift words back through the variables
-			w1 = w2;
-			w2 = w3;
-			w3 = line;
-			
-			//If all three words are filled, add a trigram
-			if(!w1.equals("") && !w2.equals("") && !w3.equals(""))
-				trigrams.add(new String(w1 + " " + w2 + " " + w3));
-			
-			if(!w2.equals("") && !w3.equals(""))
-				bigrams.add(new String(w2 + " " + w3));
-			
-			if(!w3.equals(""))
-				unigrams.add(new String(w3));
-		}
-		
-		br.close();
 		
 		// ========================= TEMPORARY ==================================
 		System.out.println();
