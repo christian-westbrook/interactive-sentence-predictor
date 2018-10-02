@@ -4,7 +4,6 @@ options
 }
 
 PARSER_BEGIN(PS2Tokenizer)
-package tokenizer;
 
 import java.io.*;
 
