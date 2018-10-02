@@ -77,5 +77,5 @@ java Builder
 # Move back to the root directory for the repository. Remove the existing data directory
 # and replace it with the new data.
 cd ..
-rm -rf data
-mv ./preprocessor/data/ ./data/
+rm -rf ./runtime/predictor/data
+mv ./preprocessor/data/ ./runtime/predictor/data
