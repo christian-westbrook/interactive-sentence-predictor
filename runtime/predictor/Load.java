@@ -59,11 +59,6 @@ public class Load
 			BufferedReader bfr = new BufferedReader(mfr);
 		
 			String[] metrics = bfr.readLine().split(",");
-			
-			// ========== TEMPORARY ==============
-			for(String s : metrics)
-				System.out.println(s);
-			// ========== TEMPORARY ==============
 		
 			n = Integer.parseInt(metrics[0]);
 			v = Integer.parseInt(metrics[1]);

@@ -207,7 +207,7 @@ public class Builder
 			FileWriter mfw = new FileWriter(mFile);
 			BufferedWriter mbw = new BufferedWriter(mfw);
 			mbw.write(n + "," + v + "," + unigramsN + "," + unigramsV + ","
-				      + bigramsN + "," + bigramsV + "," + trigramsN + "m"
+				      + bigramsN + "," + bigramsV + "," + trigramsN + ","
 					  + trigramsV + "\n");
 			mbw.close();
 		}
