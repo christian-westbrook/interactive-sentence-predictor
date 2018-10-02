@@ -203,7 +203,7 @@ public class Builder
 			
 			// Write metrics to disk
 			File mFile = new File("./data/metrics.dat");
-			mFile.create();
+			mFile.createNewFile();
 			FileWriter mfw = new FileWriter(mFile);
 			BufferedWriter mbw = new BufferedWriter(mfw);
 			mbw.write(n + "," + v + "," + unigramsN + "," + unigramsV + ","
