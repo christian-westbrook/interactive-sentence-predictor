@@ -134,22 +134,4 @@ public class Load
 	{
 		return trigramsV;
 	}
-	
-	public static void main(String[] args)
-	{
-		Load load = new Load();
-		
-		HashMap<String, Integer> bigrams = load.getBigrams();
-		
-		for (HashMap.Entry<String, Integer> entry : bigrams.entrySet()) 
-		{
-			String key = entry.getKey();
-			Integer value = entry.getValue();
-			
-			System.out.println(key + " " + value);
-		}
-		
-		System.out.println("uN: " + load.getUnigramsN());
-		System.out.println("uV: " + load.getUnigramsV());
-	}
 }
