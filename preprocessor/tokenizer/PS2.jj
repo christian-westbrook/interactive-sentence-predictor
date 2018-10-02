@@ -4,6 +4,8 @@ options
 }
 
 PARSER_BEGIN(PS2Tokenizer)
+package tokenizer;
+
 import java.io.*;
 
 public class PS2Tokenizer
