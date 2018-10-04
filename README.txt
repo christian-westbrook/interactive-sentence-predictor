@@ -14,6 +14,12 @@ Developers: Renae Fisher, Zachary Rowton, Christian Westbrook
 
 2. RUNTIME
 
+	To load the runtime application, find run.sh in the predictor directory and execute it. 
+	If you only want to compile all files in the predictor directory, execute build.sh.
+
+	The run.sh script will launch a GUI. Press the 'listen' button to start SST recognition. 
+	Once the application recognizes a long enough sentence, it will begin to build a sentence.
+
 3. FILE MANIFEST
 
 .
