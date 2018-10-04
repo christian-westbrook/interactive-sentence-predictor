@@ -1,6 +1,6 @@
 
 //=================================================================================================
-// Program		: Language Model Predictor
+// Program		: Interactive Sentence Predictor
 // Class		: Load.java
 // Developer	: Christian Westbrook
 // Abstract		: This program loads a HashMap of unigrams, bigrams, and trigrams for use by the
