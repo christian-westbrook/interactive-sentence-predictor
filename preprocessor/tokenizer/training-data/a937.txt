@@ -1,0 +1,21 @@
+<page>
+<title>Africa/History</title>
+<ns>0</ns>
+<id>1855</id>
+<redirect title="History of Africa" />
+<revision>
+<id>15900317</id>
+<parentid>1648326</parentid>
+<timestamp>2003-10-30T12:13:29Z</timestamp>
+<contributor>
+<username>Andre Engels</username>
+<id>300</id>
+</contributor>
+<minor />
+<comment>removing 'see also' from redirect page</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[History of Africa]]</text>
+<sha1>d1v55v2hd7c2510r2ezomjtkbw1qyal</sha1>
+</revision>
+</page>

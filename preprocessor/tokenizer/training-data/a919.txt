@@ -1,0 +1,21 @@
+<page>
+<title>Antarctic-Environmental Protocol</title>
+<ns>0</ns>
+<id>1831</id>
+<redirect title="Protocol on Environmental Protection to the Antarctic Treaty" />
+<revision>
+<id>528906597</id>
+<parentid>15900294</parentid>
+<timestamp>2012-12-20T04:05:54Z</timestamp>
+<contributor>
+<username>MZMcBride</username>
+<id>212624</id>
+</contributor>
+<minor />
+<comment>[[bugzilla:42616]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Protocol on Environmental Protection to the Antarctic Treaty]]</text>
+<sha1>jll5i8avtbtizo5ue2t0kaylfgb2o8t</sha1>
+</revision>
+</page>

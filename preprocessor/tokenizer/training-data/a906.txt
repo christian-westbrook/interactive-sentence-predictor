@@ -1,0 +1,20 @@
+<page>
+<title>Aquinas</title>
+<ns>0</ns>
+<id>1809</id>
+<redirect title="Thomas Aquinas" />
+<revision>
+<id>137812738</id>
+<parentid>134846572</parentid>
+<timestamp>2007-06-13T02:29:59Z</timestamp>
+<contributor>
+<username>M. Frederick</username>
+<id>2924091</id>
+</contributor>
+<comment>[[WP:AES|←]]Redirected page to [[Thomas Aquinas]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Thomas Aquinas]]</text>
+<sha1>drz5u6r5gnom20sruernjaqaym46i06</sha1>
+</revision>
+</page>

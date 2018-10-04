@@ -1,0 +1,100 @@
+<page>
+<title>Alarums and Excursions</title>
+<ns>0</ns>
+<id>1866</id>
+<revision>
+<id>797173791</id>
+<parentid>797173743</parentid>
+<timestamp>2017-08-25T11:01:29Z</timestamp>
+<contributor>
+<username>Hohenloh</username>
+<id>7374882</id>
+</contributor>
+<comment>No longer a stub</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">'''''Alarums and Excursions''''' ('''''A&amp;E''''') is an [[amateur press association]] started in June 1975 by [[Lee Gold]] (at the request of [[Bruce Pelz]], who felt that discussion of ''[[Dungeons &amp; Dragons]]'' was taking up too much space in APA-L, the APA of Los Angeles's SF Fandom, usually collated at the [[Los Angeles Science Fantasy Society]]).&lt;ref&gt;[http://www.arielarchives.com/Brett/magazines/alarumsandexcursions.html Bretts RPG Magazine and Zine Index] {{webarchive |url=https://web.archive.org/web/20061024220743/http://www.arielarchives.com/Brett/magazines/alarumsandexcursions.html |date=October 24, 2006 }}, entry on Alarums &amp; Excursions, retrieved September 2007&lt;/ref&gt; It was the first publication to focus solely on [[role-playing game]]s. The initial aim of the publication was to prevent the playing styles to become so divergent that people couldn't participate in games together.&lt;ref&gt;{{cite news
+| last         = Mason
+| first        = Paul
+| date         = 2012
+| title        = A history of RPGs: Made by fans; played by fans
+| url          = http://journal.transformativeworks.org/index.php/twc/article/view/444/350
+| work         = Transformative Works and Cultures
+| volume       = 11
+| access-date  = 2016-06-19
+| issn         = 1941-2258
+| doi          = 10.3983/twc.2012.0444
+}}&lt;/ref&gt; &lt;ref&gt;{{cite book
+| last1         = Mason
+| first1        = Paul
+| date         = 2004
+| title        = In Search of the Self: A Survey of the First 25 Years of Anglo-American Role-Playing Game Theory
+| page         = 2
+| editor1-last = Montola
+| editor1-first= Markus
+| editor2-last = Stenros
+| editor2-first= Jaakko
+| contribution  = Beyond Role and Play
+| location     = Helsinki
+| publisher    = Ropecon ry
+| url          = https://nordiclarp.org/w/images/8/84/2004-Beyond.Role.and.Play.pdf
+| access-date  = 2016-06-19
+| isbn         = 952-91-6842-X
+}}&lt;/ref&gt;
+
+Each issue is a collection of contributions from different authors, often featuring game design discussions, rules variants, write-ups of game sessions, reviews, and comments on others contributions. It was a four-time winner of the [[Charles Roberts Award|Charles Roberts]]/[[Origins Award]], winning &quot;Best Amateur Adventure Gaming Magazine&quot; in 1984,&lt;ref&gt;{{Cite web|url=https://www.gama.org/OriginsAwards/OriginsAwardsWinnersThe1980s/The1984OriginsAwards/tabid/3227/Default.aspx|title=The 1984 Origins Awards - Presented ad Origins 1985|publisher=GAMA|archiveurl=https://web.archive.org/web/20141007022304/http://www.gama.org/OriginsAwards/OriginsAwardsWinnersThe1980s/The1984OriginsAwards/tabid/3227/Default.aspx|archivedate=7 October 2014|access-date=22 April 2016}}&lt;/ref&gt; &quot;Best Amateur Game Magazine&quot; in 1999,&lt;ref&gt;{{Cite web|url=https://www.gama.org/OriginsAwards/OriginsAwardsWinnersThe1990s/The1999OriginsAwards/tabid/3243/Default.aspx|title=The 1999 Origins Awards - Presented ad Origins 2000|publisher=GAMA|archiveurl=https://web.archive.org/web/20141006174818/http://www.gama.org/OriginsAwards/OriginsAwardsWinnersThe1990s/The1999OriginsAwards/tabid/3243/Default.aspx|archivedate=6 October 2014|access-date=22 April 2016}}&lt;/ref&gt; and &quot;Best Amateur Game Periodical&quot; in 2000&lt;ref name = &quot;hbdhyg&quot;&gt;{{Cite web|url=https://www.gama.org/OriginsAwards/OriginsAwardsWinnersThe2000s/The2000OriginsAwards/tabid/3245/Default.aspx|title=The 2000 Origins Awards - Presented ad Origins 2001|publisher=GAMA|archiveurl=https://web.archive.org/web/20141007005721/http://www.gama.org/OriginsAwards/OriginsAwardsWinnersThe2000s/The2000OriginsAwards/tabid/3245/Default.aspx|archivedate=7 October 2014|access-date=22 April 2016}}&lt;/ref&gt; and 2001.&lt;ref name = &quot;hbdhyg&quot;/&gt;
+
+Although game reports and social reactions are common parts of many ''A&amp;E'' contributions, it has also, over the years, become a testing ground for new ideas on the development of the RPG as a genre and an art form. The idea that role-playing games ''are'' an art form took strong root in this zine, and left a lasting impression on many of the RPG professionals who contributed.
+
+The June 2017 collation of ''Alarums and Excursions'' was #500, with a color cover drawn by [[Lee Moyer]] and printed by [[Rob Heinsoo]].
+
+Over the years, contributors have included: {{div col|4}}
+* [[Wilf K. Backhaus]]
+* [[Greg Costikyan]]
+* [[John M. Ford]]
+* [[E. Gary Gygax]]
+* [[David A. Hargrave]]
+* [[Rob Heinsoo]]
+* [[John Eric Holmes]]
+* [[Robin Laws]]
+* [[Steve Marsh (role-playing game designer)|Steve Marsh]]
+* [[Phil McGregor]]
+* Dave Nalle
+* [[Mark Rein·Hagen]]
+* [[John T. Sapienza, Jr.]]
+* [[Edward E. Simbalist]]
+* [[Jonathan Tweet]]
+* [[Erick Wujcik]]
+* [[John Nephew]]
+* [[Spike Y Jones]]
+* [[Doc Cross]]
+* [[Scott Bennie]]
+* [[Ken Rolston]]
+* [[Nicole Lindroos]]
+* [[Terry K. Amthor]]
+* [[Wes Ives]]
+{{div col end}}
+
+The role-playing game ''[[Over the Edge (role-playing game)|Over the Edge]]'' was inspired by discussions in ''A&amp;E''.&lt;ref&gt;{{Cite book|author=Shannon Appelcline|title=Designers &amp; Dragons: The '90s|publisher=Evil Hat Productions|year=2014|edition=2|volume=3|ISBN=978-1-61317-084-7|p=55}}&lt;/ref&gt;
+
+&quot;''Alarums and excursions''&quot; is a stage direction for the moving of soldiers across a stage, used in [[Elizabethan drama]].&lt;ref&gt;{{Cite web|url=http://www.m-w.com/dictionary/alarums+and+excursions|title=alarums and excursions|work=Merriam-Webster Online Dictionary}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.conchord.org/xeno/aande.html Alarums and Excursions page]
+* [http://www.greyhawkonline.com/grodog/temp/apa-l&amp;roleplaying-lee_gold.doc [[Lee Gold]]'s index of APA-L's pre-A&amp;E D&amp;D-related content]
+
+{{WargameMag}}
+
+{{DEFAULTSORT:Alarums And Excursions}}
+[[Category:Role-playing game magazines]]
+[[Category:Origins Award winners]]
+[[Category:Charles S. Roberts Award winners]]
+[[Category:Science fiction organizations]]
+[[Category:Organizations established in 1975]]
+[[Category:Magazines established in 1975]]</text>
+<sha1>hh5rmrx3gjkkdzen6mp15dvavkrza86</sha1>
+</revision>
+</page>

@@ -1,0 +1,20 @@
+<page>
+<title>Astronomical aberration</title>
+<ns>0</ns>
+<id>1906</id>
+<redirect title="Aberration of light" />
+<revision>
+<id>15900366</id>
+<parentid>1448533</parentid>
+<timestamp>2003-09-18T12:14:21Z</timestamp>
+<contributor>
+<username>Ap</username>
+<id>122</id>
+</contributor>
+<comment>redirect [[Aberration of light]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Aberration of light]]</text>
+<sha1>hqvfgrrbbextuv0rmjt2ed20c4yqbud</sha1>
+</revision>
+</page>

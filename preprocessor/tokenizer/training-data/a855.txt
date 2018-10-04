@@ -1,0 +1,25 @@
+<page>
+<title>Anastasius II</title>
+<ns>0</ns>
+<id>1743</id>
+<revision>
+<id>539419905</id>
+<parentid>539115585</parentid>
+<timestamp>2013-02-21T14:11:06Z</timestamp>
+<contributor>
+<username>TexasAndroid</username>
+<id>271376</id>
+</contributor>
+<comment>Long Comment</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">'''Anastasius II''' or '''Anastasios II''' could refer to:
+*[[Anastasios II (emperor)]]
+*[[Pope Anastasius II]]
+
+{{disambiguation}}
+
+{{Short pages monitor}}&lt;!-- This long comment was added to the page to prevent it from being listed on Special:Shortpages. It and the accompanying monitoring template were generated via Template:Long comment. Please do not remove the monitor template without removing the comment as well.--&gt;</text>
+<sha1>h6elz3vhnruaydaf7taa0v3ye5xe73g</sha1>
+</revision>
+</page>

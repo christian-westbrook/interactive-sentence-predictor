@@ -1,0 +1,62 @@
+<page>
+<title>ATP</title>
+<ns>0</ns>
+<id>1799</id>
+<revision>
+<id>800737601</id>
+<parentid>800737598</parentid>
+<timestamp>2017-09-15T10:49:28Z</timestamp>
+<contributor>
+<username>ClueBot NG</username>
+<id>13286072</id>
+</contributor>
+<minor />
+<comment>Reverting possible vandalism by [[Special:Contribs/212.39.89.117|212.39.89.117]] to version by Bkonrad. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3126249) (Bot)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">'''ATP''' may refer to:
+
+{{TOC right}}
+
+==Commerce==
+* [[Available-to-promise]], a business function that provides a response to customer order enquiries
+
+==Companies and organizations==
+* [[Association of Tennis Professionals]], international men's professional tennis association
+* [[American Technical Publishers]], an employee-owned publishing company located in Orland Park, Illinois
+* ''{{lang|da|[[Arbejdsmarkedets Tillægspension]]}}'', the largest pension program in Denmark
+* [[Armenia Tree Project]], a non-profit organization promoting Armenia's socioeconomic development through reforestation
+* [[Associated Talking Pictures]], a British film studio of the 1930s later renamed as Ealing Studios
+* [[Association for Transpersonal Psychology]], a psychological organization
+* [[ATP architects engineers]], an international architecture and engineering office for integrated design
+* [[ATP Oil and Gas]], a Texas-based oil and gas company that operates in the Gulf of Mexico and the North Sea
+
+==Geography==
+* [[Anantapur, Andhra Pradesh]], a city in Andhra Pradesh, India
+* [[Anantapur district]], a district in Andhra Pradesh, India
+
+==Music and theater==
+* [[Adenosine Tri-Phosphate (band)]], a Japanese alternative rock/pop band
+* [[All Tomorrow's Parties (music festival)]], a music festival which takes place in Great Britain
+* [[Alberta Theatre Projects]], a Canadian theatre production company
+* [[ATP Recordings]], a record label affiliated with the All Tomorrow's Parties festival
+
+==Science and technology==
+* [[Adenosine triphosphate]], coenzyme used as an energy carrier in the cells of all known organisms; an integral part of the process by which energy is moved throughout the cell
+* Accidental Tech Podcast (atp.fm), hosted by [[Marco Arment]], John Siracusa and Casey Liss
+* [[Automated theorem proving]], the proving  of mathematical theorems by a computer program
+* [[Advanced Technology Program]], a United States government program
+* [[Alberta Taciuk process]], thermal retorting technology for extracting oil from oil sands, oil shale, and oil contaminated soils / sludges
+
+==Transport==
+* [[Airline Transport Pilot License]], a type of pilot's license
+* [[ATP Flight School]], a flight training school with multiple locations throughout the United States.
+* [[ATP (treaty)]], the 1970 Agreement on the International Carriage of Perishable Foodstuffs and on the Special Equipment to be used for such Carriage
+* [[Automatic Train Protection]], a British train protection system
+* [[BAe ATP]], a British Aerospace turboprop passenger aircraft designed for the short range market
+* [[Aitape Airport]] in Papua New Guinea, IATA airport code &lt;code&gt;ATP&lt;/code&gt;
+
+{{disambiguation}}</text>
+<sha1>12tesxd3qvvtdi6xi77upgj6yxhpw6c</sha1>
+</revision>
+</page>

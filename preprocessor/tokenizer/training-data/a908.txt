@@ -1,0 +1,21 @@
+<page>
+<title>Amide hydrolysis</title>
+<ns>0</ns>
+<id>1811</id>
+<redirect title="Hydrolysis" />
+<revision>
+<id>196845580</id>
+<parentid>195353511</parentid>
+<timestamp>2008-03-08T20:36:19Z</timestamp>
+<contributor>
+<username>V8rik</username>
+<id>195918</id>
+</contributor>
+<minor />
+<comment>redirected</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Hydrolysis#Hydrolysis_of_amide_links]]</text>
+<sha1>9gazbuqknmfs6xf9rib33m5zs9mza1u</sha1>
+</revision>
+</page>

@@ -1,0 +1,59 @@
+<page>
+<title>Amalric</title>
+<ns>0</ns>
+<id>1870</id>
+<revision>
+<id>795537885</id>
+<parentid>792318751</parentid>
+<timestamp>2017-08-14T21:36:10Z</timestamp>
+<contributor>
+<username>WPF2008</username>
+<id>7871016</id>
+</contributor>
+<minor />
+<comment>additional language</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">'''Amalric''' or '''Amalaric''' (also Americ, Almerich, Emeric, Emerick and other variations) is a personal name derived from the tribal name ''Amal'' (referring to the Gothic [[Amali]]) and ''ric'' ([[Gothic language|Gothic]] ''reiks'') meaning &quot;ruler, prince&quot;.
+
+Equivalents in different languages include:
+*[[French language|French]]: Amaury (surname/given name), Amalric (surname), Amaurich (surname), Maury (surname)
+*[[German language|German]]: Amalrich, Emmerich
+
+*[[Italian language|Italian]]: [[Amerigo (disambiguation)|Amerigo]], [[Arrigo]]
+*[[Hungarian language|Hungarian]]: Imre
+*[[Latin]]: Amalricus, Americus, Almericus, Emericus
+*[[Greek language|Greek]]: Emerikos
+*[[Polish language|Polish]]: Amalaryk, Amalryk, Emeryk
+*[[Dutch language|Dutch]]: Emmerik, Amerik,
+*[[Portuguese language|Portuguese]]: Amauri, Américo, América
+*[[Spanish language|Spanish]]: Américo
+*[[Serbian language|Serbo-Croatian]]: Mirko
+
+==Given name==
+* [[Amalaric]] (502–531), King of the Visigoths from 526 to 531
+* [[Malaric]] (fl. 585), King of the Suevi
+* [[Amalric of Nesle]] (fl. 1151–1180), Patriarch of Jerusalem from 1158 to 1180
+* [[Amalric I of Jerusalem]] (1136–1174), King of Jerusalem from 1162 to 1174
+* [[Amalric II of Jerusalem]] (fl. 1155–1205), King of Jerusalem from 1197 to 1205
+* [[Amalric of Bena]] (f. 1200–1204), French theologian
+* [[Arnaud Amalric]] (fl. 1196–1225), seventeenth abbot of Citeaux
+* [[Amaury VI of Montfort]] (1195–1241), crusader
+* [[Amalric, Lord of Tyre]] (c. 1272 – 1310), Governor of Cyprus from 1306 to 1310
+* [[Amalric Gérard]] (born 1980), French actor
+
+==Surname==
+* [[Mathieu Amalric]] (born 1965), French actor and director
+* [[Leonid Amalrik]] (1905–1997), Soviet animator
+* [[Andrei Amalrik]] (1938–1980), Soviet dissident
+
+==See also==
+* [[Amaury (disambiguation)|Amaury]], a French alternative spelling
+* [[Emery (name)]]
+
+{{given name|type=both}}
+
+[[Category:Masculine given names]]</text>
+<sha1>9wiwnwseh65i6fachn71ea7h3oersr7</sha1>
+</revision>
+</page>

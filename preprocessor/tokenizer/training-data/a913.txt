@@ -1,0 +1,20 @@
+<page>
+<title>A roll</title>
+<ns>0</ns>
+<id>1824</id>
+<redirect title="Footage" />
+<revision>
+<id>15900287</id>
+<parentid>14030416</parentid>
+<timestamp>2005-05-21T18:19:15Z</timestamp>
+<contributor>
+<username>Kelly Martin</username>
+<id>158241</id>
+</contributor>
+<comment>changed to redirect</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Footage]]</text>
+<sha1>cjz6g5eqt588yamhy4u8d051fcdmsyx</sha1>
+</revision>
+</page>
