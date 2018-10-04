@@ -1,8 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+//=================================================================================================
+// Program		: Language Model Predictor Preprocessor
+// Class		: Predictor.java
+// Developer	: Renae Fisher
+// Abstract		: This class works with the Predictor and Voce.
+//=================================================================================================
 
 import java.util.HashMap;
 
@@ -19,7 +20,7 @@ public class NatLangPredGUI extends javax.swing.JFrame {
     HashMap<String, Integer> bigrams;
     HashMap<String, Integer> trigrams;
     Load l;
-    Predictor p;
+    static Predictor p;
     int row;
 
     public NatLangPredGUI() {
@@ -27,20 +28,18 @@ public class NatLangPredGUI extends javax.swing.JFrame {
         initComponents();
 
         l = new Load();
-        
+
         unigrams = l.getUnigrams();
         bigrams = l.getBigrams();
         trigrams = l.getTrigrams();
 
-        /*
-        TEST DATA USING HAND WRITTEN CSV
-        unigrams = TestLoad.loadNGrams("./data/unigrams.csv");
-        bigrams = TestLoad.loadNGrams("./data/unigrams.csv");
-        trigrams = TestLoad.loadNGrams("./data/unigrams.csv");
-        */
+        //TEST DATA USING HAND WRITTEN CSV
+        //unigrams = TestLoad.loadNGrams("./data/unigrams.csv");
+        //bigrams = TestLoad.loadNGrams("./data/bigrams.csv");
+        //trigrams = TestLoad.loadNGrams("./data/trigrams.csv");
 
         p = new Predictor(unigrams, bigrams, trigrams);
-        
+
         row = 0;
 
     }
@@ -128,7 +127,7 @@ public class NatLangPredGUI extends javax.swing.JFrame {
         String bRes = "";
         String tRes = "";
 
-        voce.SpeechInterface.init("voce/", false, true, "voce/", "final");
+        voce.SpeechInterface.init("data/", false, true, "data/", "final");
 
         boolean quit = false;
         while (!quit) {
@@ -137,17 +136,17 @@ public class NatLangPredGUI extends javax.swing.JFrame {
             // here.  For this sample, we'll just sleep for a little bit.
             try {
 
-                Thread.sleep(200);
+                Thread.sleep(50);
 
             } catch (InterruptedException e) {
-
+                
             }
 
             while (voce.SpeechInterface.getRecognizerQueueSize() > 0) {
-
+ 
                 speech = voce.SpeechInterface.popRecognizedString();
 
-                if (speech.split(" ").length >= 2) {
+                if (speech.split(" ").length >= 3) {
 
                     bRes = p.bigramSentence(speech);
                     tRes = p.trigramSentence(speech);
@@ -164,23 +163,28 @@ public class NatLangPredGUI extends javax.swing.JFrame {
         }
 
         voce.SpeechInterface.destroy();
+
         //System.exit(0);
 
-        if(row > 50) {
-            
+        if (row > 50) {
+
             row = 0;
-            
+
             jTextArea2.setText("");
             jTextArea1.setText("");
             jTextArea1.setText("");
-            
+
         }
-        
+
         jTextArea2.append("VOCE RECOGNIZED: " + speech + "\n");
         jTextArea1.append("BIGRAM MODEL: " + bRes + "\n");
         jTextArea1.append("TRIGRAM MODEL: " + tRes + "\n");
         row++;
-        
+
+    }
+
+    public static void commandLineTest() {
+
     }
 
     /**
@@ -211,12 +215,15 @@ public class NatLangPredGUI extends javax.swing.JFrame {
         //</editor-fold>
 
         /* Create and display the form */
+
         java.awt.EventQueue.invokeLater(new Runnable() {
+
             public void run() {
                 new NatLangPredGUI().setVisible(true);
             }
+
         });
-        
+
     }
 
     // Variables declaration - do not modify                     
