@@ -1,0 +1,63 @@
+<page>
+<title>Acropolis</title>
+<ns>0</ns>
+<id>1536</id>
+<revision>
+<id>802894911</id>
+<parentid>802894740</parentid>
+<timestamp>2017-09-29T03:23:30Z</timestamp>
+<contributor>
+<username>Bdoreynoso</username>
+<id>31918024</id>
+</contributor>
+<comment>/* Metaphorical use in modern times */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">{{about||the most famous example of an acropolis|Acropolis of Athens|the Greek newspaper|Akropolis (newspaper)|other uses|}}
+{{Refimprove|article|date=March 2008}}
+
+[[File:AthensAcropolisDawnAdj06028.jpg|thumb|right|upright=1.5|The [[Acropolis of Athens]]]]
+
+An '''acropolis''' ([ancient Greek]]: ἀκρόπολις, &lt;small&gt;[[Romanization of Ancient Greek|tr.]]&lt;/small&gt; ''Akrópolis''; from ''ákros'' (άκρος) or ''ákron'' (άκρον) &quot;highest, topmost, outermost&quot; and ''pólis'' &quot;city&quot;; plural in English: ''acropoles'', ''acropoleis'' or ''acropolises'')&lt;ref&gt;{{OEtymD|acropolis}}&lt;/ref&gt;&lt;ref&gt;{{LSJ|a)kro/polis|acropolis}}, {{LSJ|a)/kros|akros}},  {{LSJ|a)/kron|akron|ref}}.&lt;/ref&gt; is a [[Human settlement|settlement]], especially a [[citadel]], built upon an area of elevated ground&amp;mdash;frequently a hill with [[precipice|precipitous]] sides, chosen for purposes of defense. In many parts of the world, acropoleis became the nuclei of large cities of [[classical antiquity]], such as [[ancient Rome]], and for this reason they are sometimes prominent landmarks in modern cities with ancient pasts, such as modern [[Rome]].
+
+== Use in antiquity ==
+[[File:Via Tecta acropolis Pergamum 487 detail.jpg|thumb|right|upright=1.2|View of the Acropolis of [[Pergamon]] in the background, as seen from Via Tecta at the entrance to the [[Asclepeion]].]]
+[[File:AssosBurgberg.jpg|thumb|upright=1.2|Acropolis of [[Assos]]]]
+[[File:Acropolis in Athen, Greece.jpg|thumb|upright|View of the Acropolis in [[Athens]], Greece]]
+
+The word ''acropolis'' literally means in Greek &quot;upper city,&quot; and though associated primarily with the [[Greece|Greek]] cities [[Athens]], [[Argos]] ( with [[Larissa (Argos)|Larissa]]), [[Thebes, Greece|Thebes]] (with [[Cadmea]]), and [[Ancient Corinth|Corinth]] (with its [[Acrocorinth]]), may be applied generically to all such citadels, including Rome, [[Jerusalem]], Celtic [[Bratislava]], many in [[Asia Minor]], or even [[Castle Rock, Edinburgh|Castle Rock]] in [[Edinburgh]]. An example in Ireland is the [[Rock of Cashel]]. Acropolis is also the term used by archaeologists and historians for the urban [[Castro culture]] settlements located in Northwestern Iberian hilltops.
+
+The most famous example is the [[Acropolis of Athens]],&lt;ref&gt;[http://whc.unesco.org/en/list/404 World Heritage: Acropolis, Athens ]&lt;/ref&gt; which, by reason of its historical associations and the several famous buildings erected upon it (most notably the [[Parthenon]]), is known without qualification as ''the Acropolis''. Although originating in the mainland of Greece, use of the acropolis model quickly spread to Greek colonies such as the [[Dorians|Dorian]] [[Lato]] on [[Crete]] during the [[Archaic period in Greece|Archaic Period]].
+
+== Metaphorical use in modern times ==
+
+Because of its classical [[Hellenistic]] style, the ruins of [[Mission San Juan Capistrano|Mission San Juan Capistrano's]] Great Stone Church in [[California|California, United States]] has been called the &quot;American Acropolis&quot;.&lt;ref name=&quot;Davis&quot;&gt;{{cite book|last1=Davis|first1=Erik|title=The visionary state : a journey through California's spiritual landscape|date=2006|publisher=Chronicle Books|location=San Francisco|isbn=0811848353|page=20}}&lt;/ref&gt;
+
+Other parts of the world developed other names for the high citadel or [[alcázar]], which often reinforced a naturally strong site. In Central [[Italy]], many small rural [[comune|communes]] still cluster at the base of a fortified habitation known as ''La Rocca'' of the commune.
+
+The term ''acropolis'' is also used to describe the central complex of overlapping structures, such as plazas and pyramids, in many [[Maya city|Maya cities]], including [[Tikal]] and [[Copán]].
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{commonsinline}}
+* [http://odysseus.culture.gr/h/3/eh351.jsp?obj_id=2384 The Acropolis of Athens] (Greek Government website)
+* [http://ysma.culture.gr/ The Acropolis Restoration Project] (Greek Government website)
+* [http://whc.unesco.org/en/list/404 UNESCO World Heritage Centre — Acropolis, Athens]
+* [http://www.i-live.gr/news-akropolis-museum-internet/ Acropolis Museum]
+* [http://www.parthenonfrieze.gr The Parthenon Frieze] (Hellenic Ministry of Culture web site)
+* [http://travels.co.ua/engl/greece/athens/acropolis/index.html Acropolis: description, photo album]
+
+{{Ancient Greece topics}}
+
+{{Authority control}}
+[[Category:Acropoleis in Greece| ]]
+[[Category:Classical studies]]
+[[Category:Ancient Greek architecture]]
+[[Category:Greek culture]]
+[[Category:Archaeological terminology]]
+[[Category:Ancient Greek fortifications]]</text>
+<sha1>ogp9jvhrjekvwym0l754d9j5zdqrlgq</sha1>
+</revision>
+</page>

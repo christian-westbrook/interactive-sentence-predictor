@@ -1,0 +1,20 @@
+<page>
+<title>Apache webserver</title>
+<ns>0</ns>
+<id>1345</id>
+<redirect title="Apache HTTP Server" />
+<revision>
+<id>15899834</id>
+<parentid>551181</parentid>
+<timestamp>2003-01-02T03:20:13Z</timestamp>
+<contributor>
+<username>Wapcaplet</username>
+<id>6264</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Apache HTTP Server]]</text>
+<sha1>a26zc9p90k91g59ab7oqt7eimr65x5h</sha1>
+</revision>
+</page>

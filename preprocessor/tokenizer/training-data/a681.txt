@@ -1,0 +1,240 @@
+<page>
+<title>Ahmed III</title>
+<ns>0</ns>
+<id>1529</id>
+<revision>
+<id>802440601</id>
+<parentid>800437899</parentid>
+<timestamp>2017-09-26T04:54:13Z</timestamp>
+<contributor>
+<username>Cydebot</username>
+<id>1215485</id>
+</contributor>
+<minor />
+<comment>Robot - Moving category Ottoman Turks to [[:Category:Turks of the Ottoman Empire]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2017 September 13]].</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">{{Infobox royalty
+| name         = Ahmed III&lt;br /&gt;احمد ثالث
+| title        = [[Sultan of the Ottoman Empire]]&lt;br/&gt;[[Caesar (title)#Ottoman Empire|Kayser-i Rûm]]&lt;br/&gt;[[Custodian of the Two Holy Mosques]]&lt;br/&gt;[[Ottoman Caliphate|Caliph of Islam]]
+| titletext    =
+| more         =
+| type         =
+| image        =  III. Ahmet.jpg
+| alt          =
+| caption      =
+| moretext     =
+| succession   = 23rd [[List of sultans of the Ottoman Empire|Ottoman Sultan]] ([[Padishah|Emperor]])
+| reign        = 22 August 1703{{snd}}1 October 1730
+| coronation   =
+| cor-type     =
+| predecessor  = [[Mustafa II]]
+| regent       =
+| reg-type     =
+| successor    = [[Mahmud I]]
+| spouse       = [[Mihrişah Kadın]]&lt;br&gt;[[Şermi Kadın]]&lt;br&gt;among [[Ahmed III#Consorts|others]]
+| spouse-type  = Consorts
+| issue        = see [[Ahmed III#Marriages and issue|below]]
+| full name    = Ahmed bin Mehmed
+| house        = [[Ottoman dynasty|Ottoman]]
+| house-type   = Dynasty
+| father       = [[Mehmed IV]]
+| mother       = [[Emetullah Rabia Gülnuş Sultan]]
+| birth_date   = 30/31 December 1673
+| birth_place  = [[Dobrich|Hacıoğlu Pazarcık]], [[Dobruja]], [[Ottoman Empire]]
+| death_date   = {{death date and age|1736|7|1|1673|12|30|df=yes}}
+| death_place  = [[Constantinople]], Ottoman Empire
+| burial_date  =
+| burial_place =
+| signature_type = [[Tughra]]
+| religion     = [[Sunni Islam]]
+| signature    = Tughra of Ahmed III.JPG
+}}
+'''Ahmed III''' ([[Ottoman Turkish language|Ottoman Turkish]]: احمد ثالث, ''Aḥmed-i &lt;u&gt;s&lt;/u&gt;āli&lt;u&gt;s&lt;/u&gt;'') &lt;span dir=&quot;ltr&quot;&gt;(30/31 December 1673{{snd}}1 July 1736)&lt;/span&gt; was [[Sultan]] of the [[Ottoman Empire]] and a son of Sultan [[Mehmed IV]] (r. 1648–87). His mother was [[Emetullah Rabia Gülnuş Sultan]], originally named Evmania Voria, who was an ethnic Greek.&lt;ref&gt;{{cite book |author = Freely, John |title=The lost Messiah |publisher=Viking |year=2001 |page=132 |isbn=0-670-88675-0 |quote= He set up his harem there, his favourite being Rabia Giilniis Ummetiillah, a [[Greeks|Greek]] girl from Rethymnon on Crete }}&lt;/ref&gt;&lt;ref&gt;{{cite book |author = Bromley, J. S. |title= The New Cambridge Modern History |publisher= University Press |location= University of California |year= 1957 |page=554 |isbn=0-521-22128-5 |quote= the mother of Mustafa II and Ahmed III was a [[Greeks|Greek]] }}&lt;/ref&gt;&lt;ref&gt;{{cite book |author = Sardo, Eugenio Lo |title=Tra greci e turchi: fonti diplomatiche italiane sul Settecento ottomano |publisher=Consiglio nazionale delle ricerche |year=1999 |page=82 |isbn= 88-8080-014-0 |quote= Their mother, a [[Greeks|Greek]], lady named Rabia Gülnûş, continued to wield influence as the [[Valide Sultan]] - mother of the reigning sultan  }}&lt;/ref&gt;&lt;ref&gt;{{cite book |authors = Library Information and Research Service |title= The Middle East |publisher= Library Information and Research Service |year= 2005 |page= 91 |quote= She was the daughter of a [[Greeks|Greek]] family and she was the mother of Mustafa II (1664–1703), and Ahmed III (1673–1736). }}&lt;/ref&gt;&lt;ref&gt;{{cite book |authors = Baker, Anthony E - Freely, John |title=The Bosphorus |publisher=Redhouse Press |year=1993 |page=146 |isbn=975-413-062-0 |quote= The Valide Sultan was born Evmania Voria, daughter of a [[Greeks|Greek]] priest in a village near [[Rethymnon]] on Crete. She was captured by the Turks when they took [[Rethymnon]] in 1645. }}&lt;/ref&gt;{{overcite|date=March 2017}} He was born at [[Dobrich|Hacıoğlu Pazarcık]], in [[Dobruja]]. He succeeded to the throne in 1703 on the abdication of his brother [[Mustafa II]] (1695–1703).&lt;ref name=&quot;EB1911&quot;&gt;{{EB1911|inline=1|wstitle=Ahmed III.|volume=1|page=431}}&lt;/ref&gt; [[Nevşehirli Damat İbrahim Pasha]] and the Sultan's daughter, [[Fatma Sultan (daughter of Ahmed III)|Fatma Sultan]] (wife of the former) directed the government from 1718 to 1730, a period referred to as the ''[[Tulip Era in the Ottoman Empire|Tulip Era]]''.
+
+== Biography ==
+Ahmed III cultivated good relations with France, doubtless in view of [[Imperial Russia|Russia]]'s menacing attitude. He afforded refuge in Ottoman territory to [[Charles XII of Sweden]] (1682–1718) after the Swedish defeat at the hands of [[Peter I of Russia]] (1672–1725) in the [[Battle of Poltava]] of 1709.{{sfn|Chisholm|1911}} In 1710 Charles XII convinced Sultan Ahmed III to declare war against Russia, and the Ottoman forces under [[Baltacı Mehmet Pasha]] won a major victory at the [[Pruth River Campaign|Battle of Prut]]. In the aftermath, Russia returned [[Azov]] back to the Ottomans, agreed to demolish the fortress of [[Taganrog]] and others in the area, and to stop interfering in the affairs of the [[Polish–Lithuanian Commonwealth]].
+
+Forced against his will into war with Russia, Ahmed III came nearer than any Ottoman [[sovereign]] before or since to breaking the power of his northern rival, whose armies his [[grand vizier]] [[Nevşehirli Damat İbrahim Pasha]] succeeded in completely surrounding at the Pruth River Campaign in 1711.&lt;ref name=&quot;EB1911&quot;/&gt; The subsequent Ottoman victories against Russia enabled the Ottoman Empire to advance to Moscow, had the Sultan wished. However, this was halted as a report reached [[Istanbul]] that the [[Safavid dynasty|Safavids]] were invading the Ottoman Empire, causing a period of panic, turning the Sultan's attention away from Russia.
+
+Sultan Ahmed III had become unpopular by reason of the excessive pomp and costly luxury in which he and his principal officers indulged; on September 20, 1730, a mutinous riot of seventeen [[Janissaries]], led by the [[Albanians|Albanian]] [[Patrona Halil]], was aided by the citizens as well as the military until it swelled into an insurrection in front of which the Sultan was forced to give up the throne.
+
+Ahmed voluntarily led his nephew [[Mahmud I]] (1730–54) to the seat of sovereignty and paid allegiance to him as Sultan of the Empire. He then retired to the [[Kafes]] previously occupied by Mahmud and died at [[Topkapı Palace]] after six years of confinement.
+
+== Ahmed III's rule ==
+{{unreferenced section|date=October 2016}}
+[[File:Jean-Baptiste van Mour 006.jpg|thumb|Sultan Ahmed III receives French ambassador Vicomte d'Andrezel at [[Topkapı Palace]].]]
+[[File:Marquis de Bonnac being received by Sultan Ahmed III.jpg|thumb|French ambassador [[Marquis de Bonnac]] being received by Sultan Ahmed III.]]
+[[File:Ahmet III 1720.jpg|thumb|Sultan Ahmed III at a reception, painted in 1720]]
+The reign of Ahmed III lasted for twenty-seven years and was not unsuccessful. The recovery of [[Azov]] and the [[Morea]], and the conquest of part of [[Persia]], managed to counterbalance the [[Balkans|Balkan]] territory ceded to the [[Habsburg Monarchy]] through the [[Treaty of Passarowitz]], after the Ottoman Empire was defeated in [[Austro-Turkish War of 1716–18]]. In 1716, he sent an army of 33,000 men to capture [[Corfu]] from the [[Republic of Venice]] but that expedition eventually failed,
+
+Ahmed III left the finances of the [[Ottoman Empire]] in a flourishing condition, which had remarkably been obtained without excessive taxation or extortion procedures. He was a cultivated [[Patronage|patron]] of literature and art, and it was in his time that the first [[printing press]] authorized to use the Arabic or Turkish languages was set up in Istanbul, operated by [[Ibrahim Muteferrika]] (while the printing press had been introduced to Constantinople in 1480, all works published before 1729 were in Greek, Armenian, or Hebrew).
+[[File:Levni 002 detail.jpg |thumb|A [[Portrait miniature|miniature]] of Sultan Ahmed III by [[Abdulcelil Levni|Levni]]]]
+It was in this reign that an important change in the government of the [[Danubian Principalities]] was introduced: previously, the [[Ottoman Porte|Porte]] had appointed [[Hospodar]]s, usually native [[Moldavia]]n and [[Wallachia]]n [[boyar]]s, to administer those provinces; after the [[Pruth River Campaign|Russian campaign]] of 1711, during which [[Peter I of Russia|Peter the Great]] found an ally in [[Moldavia]] [[List of rulers of Moldavia|Prince]] [[Dimitrie Cantemir]], the Porte began overtly deputizing [[Phanariotes|Phanariote]] [[Greeks]] in that region, and extended the system to [[Wallachia]] after [[List of rulers of Wallachia|Prince]] [[Stefan Cantacuzino]] established links with [[Prince Eugene of Savoy|Eugene of Savoy]]. The Phanariotes constituted a kind of ''[[Dhimmi]]'' nobility, which supplied the Porte with functionaries in many important departments of the state.
+
+==Relations with the Mughal Empire==
+
+===Jahandar Shah===
+In the year 1712, the [[Mughal Emperor]] [[Jahandar Shah]], a grandson of [[Aurangzeb]] sent gifts to the [[Ottoman Empire|Ottoman]] [[Sultan]] [[Ahmad III]] and referred to himself as the Ottoman Sultan's devoted admirer.&lt;ref name=&quot;google&quot;&gt;{{cite book|title=Mughal-Ottoman relations: a study of political &amp; diplomatic relations between Mughal India and the Ottoman Empire, 1556-1748|author =Farooqi, N.R.|date=1989|publisher=Idarah-i Adabiyat-i Delli|url=https://books.google.com/books?id=uB1uAAAAMAAJ}}&lt;/ref&gt;
+
+===Farrukhsiyar===
+The [[Mughal Emperor]] [[Farrukhsiyar]] a grandson of [[Aurangzeb]], is also known to have sent a letter to the [[Ottoman Empire|Ottomans]] but this time it was received by the [[Grand Vizier]] [[Nevşehirli Damad Ibrahim Pasha]] providing a graphic description of the efforts of the [[Mughal Empire|Mughal]] commander [[Sayyid Brothers|Syed Hassan Ali Khan Barha]] against the [[Rajput]] and [[Maratha]] rebellion.&lt;ref&gt;{{cite book|url=https://books.google.com/books?id=uB1uAAAAMAAJ&amp;q=Farrukhsiyar |title=Mughal-Ottoman relations: a study of political &amp; diplomatic relations ... - Naimur Rahman Farooqi |publisher=Books.google.com |date= |accessdate=2012-04-29|year=1989 }}&lt;/ref&gt;
+
+== Marriages and issue ==
+=== Consorts ===
+#Emetullah Kadın&lt;ref&gt;Necdet Sakaoğlu, ''Bu Mülkün Kadın Sultanları'', Alfa Publications, p. 415&lt;/ref&gt; (d. 1732)
+#[[Mihrişah Kadın]],&lt;ref&gt;Necdet Sakaoğlu, ''Bu Mülkün Kadın Sultanları'', Alfa Publications, p. 416&lt;/ref&gt; mother of [[Mustafa III]]
+#[[Şermi Kadın]],&lt;ref&gt;Necdet Sakaoğlu, ''Bu Mülkün Kadın Sultanları'', Alfa Publications, p. 418&lt;/ref&gt; mother of [[Abdul Hamid I]]
+#Ümmügülsüm Kadın&lt;ref name=&quot;:1&quot;&gt;Necdet Sakaoğlu, ''Bu Mülkün Kadın Sultanları'', Alfa Publications, p. 421&lt;/ref&gt; (d. 1768)
+#Hatem Kadın&lt;ref name=&quot;:0&quot; /&gt;
+#Hüsnüşah Kadın&lt;ref name=&quot;:2&quot;&gt;Necdet Sakaoğlu, ''Bu Mülkün Kadın Sultanları'', Alfa Publications, p. 420&lt;/ref&gt; (d. 1733)
+#Hatice Kadın&lt;ref name=&quot;:2&quot; /&gt; (d. 1712)
+#Zeynep Kadın&lt;ref name=&quot;:1&quot; /&gt; (d. 1757)
+#Şahin Kadın&lt;ref name=&quot;:1&quot; /&gt; (d. 1723)
+#Şayeste Kadın&lt;ref name=&quot;:1&quot; /&gt;
+#Ayşe Behri Kadın&lt;ref name=&quot;:0&quot;&gt;Necdet Sakaoğlu, ''Bu Mülkün Kadın Sultanları'', Alfa Publications, p. 419&lt;/ref&gt;
+#Fatıma Hümaşah Kadın&lt;ref name=&quot;:2&quot; /&gt; (d. 1732)
+#Muslihe Kadın&lt;ref name=&quot;:0&quot; /&gt; (d. 1750)
+#Gülşen Kadın&lt;ref name=&quot;:2&quot; /&gt; (d. 1731)
+#Hürrem Kadın&lt;ref name=&quot;:2&quot; /&gt;
+#Meyli Kadın&lt;ref name=&quot;:2&quot; /&gt;
+#Rukiye Kadın&lt;ref name=&quot;:0&quot; /&gt; (d. 1738)
+#Nazife Kadın&lt;ref name=&quot;:2&quot; /&gt;
+#Nejat Kadın&lt;ref name=&quot;:2&quot; /&gt;
+#Sadık Kadın&lt;ref name=&quot;:2&quot; /&gt;
+#Hanife Kadın&lt;ref name=&quot;:1&quot; /&gt;
+
+{{Unreferenced section|date=June 2017}}
+
+=== Sons ===
+• Şehzade Musa (5 January 1696 - 26 May 1730):
+* Şehzade Mehmed (1 March 1697{{snd}}June 1703).
+* Şehzade İbrahim (1704{{snd}}bef. 1720).
+* Şehzade Alaeddin (25 November 1705{{snd}}20 June 1706).
+* Şehzade Murad (January 1706{{snd}}5 April 1708).
+* Şehzade İsa (23 February 1706{{snd}}25 May 1706), son of Hürrem Kadın
+* Şehzade Ali (18 June 1706{{snd}}12 September 1706).
+* Şehzade Yahya (6 September 1707{{snd}}4 May 1708), son of Hürrem Kadın
+* Şehzade Alemşah (17 November 1707{{snd}}died young).
+* Şehzade Abdurrahman (4 February 1708{{snd}}1 April 1708).
+* Şehzade Abdülmecid (12 December 1709{{snd}}8 March 1710), twin with Abdülmelik.
+* Şehzade Abdülmelik (12 December 1709{{snd}}7 March 1711), twin with Abdülmecid.
+* Şehzade Bilal (born 1710{{snd}}died young).
+* Şehzade Süleyman (25 August 1710{{snd}}11 December 1732), son of Mihrişah Kadın
+* Şehzade Osman (17 October 1712{{snd}}15 July 1713), son of Hürrem Kadın
+* Şehzade Cihangir (1712{{snd}}11 July 1715).
+* Şehzade Mahmud (17 October 1713{{snd}}22 December 1756).
+* Şehzade Selim  (20 April 1715{{snd}}February 1718), twin with Saliha Sultan; son of Hatem Kadın
+* Şehzade Ishak (1 December 1715{{snd}}died young).
+* Şehzade Hamza (1 January 1717{{snd}}murdered 22 December 1756), Crown Prince since 13 December 1754.
+* [[Mustafa III]] (28 January 1717{{snd}}21 January 1774), son of Mihrişah Kadın
+* Şehzade Bayezid (4 October 1718{{snd}}25 January 1771), Crown Prince since 30 January 1757; son of Mihrişah Kadın
+* Şehzade Hasan [28 August 1719, 29 September 1721];
+* Şehzade Orhan (6 December 1718{{snd}}died young).
+* Şehzade Yonus (September 1719{{snd}}12 December 1719).
+* Şehzade Abdullah (18 December 1719{{snd}}19 December 1719), son of Hürrem Kadın
+* Şehzade İsmail (9 January 1721{{snd}}5 April 1721).
+* Şehzade Davud (born and died 4 April 1721).
+* Şehzade Yosuf (born and died 20 August 1722).
+* Şehzade Ömer (born 1722{{snd}}died young), son of Hürrem Kadın
+* Şehzade Numan (22 February 1723{{snd}}29 December 1764), Second Crown Prince since 30 January 1757.
+* Şehzade Korkut (1723 died aft. 1774).
+* [[Abdul Hamid I]] (20 March 1725{{snd}}7 April 1789), son of Şermi Kadın
+* Şehzade Seyfeddin (3 February 1728{{snd}}1732).
+* Şehzade Ahmed (8 March 1728{{snd}}1728).
+• Şehzade suleiman
+
+=== Daughters ===
+
+* [[Fatma Sultan (daughter of Ahmed III)|Fatma Sultan]] (22 October 1704{{snd}}3 January 1733), daughter of Emetullah Kadın.
+* Ayşe Sultan (1705–1706).
+* Hatice Sultan (22 December 1706{{snd}}21 January 1708), daughter of Rukiye Kadın.
+* Rukiye Sultan (2 May 1707{{snd}}4 May 1708).
+* Zeynep Sultan (7 February 1708{{snd}}14 November 1708), twin with Ümmügülsüm Sultan; daughter of Mihrişah Kadın.
+* [[Ümmügülsüm Sultan]] (7 February 1708{{snd}}November 1732), twin with Zeynep Sultan; daughter of Mihrişah Kadın.
+* Kosem Sultan (5 January 1710{{snd}}1 August 1710).
+* Hurem Sultan (8 February 1710{{snd}}died young).
+* Mihiriban Sultan (28 September 1710{{snd}}1738).
+* Atike Sultan (28 February 1712{{snd}}1737).
+* Akile Sultan (7 March 1712{{snd}}1 October 1714).
+* Nurbanu Sultan (8 April 1714{{snd}}25 March 1774), daughter of Şermi Kadın;
+* [[Saliha Sultan (daughter of Ahmed III)|Saliha Sultan]] (20 April 1715{{snd}}11 October 1778), twin with Şehzade Selim; daughter of Hatem Kadin
+* Ayşe Sultan (11 October 1715{{snd}}9 July 1775).
+* Ferdane Sultan (1718{{snd}}died young).
+* Ümmüselma Sultan (born and died 26 December 1718).
+* Ümmüselma Sultan (born and died 1719).
+* Nazife Sultan (1719–1721).
+* Rabia Sultan (19 November 1719{{snd}}1721).
+* Hatice Sultan (20 November 1719{{snd}}1738).
+* Reyhan Sultan (born and died 12 December 1719).
+* Beyhan Sultan (born and died 1720).
+* Emine Sultan (1720–1723).
+* Rukiye Sultan (born and died 30 January 1720).
+* Emetullah Sultan (23 December 1719{{snd}}5 February 1720).
+* Naile Sultan (1722{{snd}}10 December 1726).
+* Rabia Sultan (1722–1729).
+* Emetullah Sultan (17 September 1723{{snd}}28 January 1724)
+* Ümmüselma Sultan (1725–1732).
+* Musta Sultan (May 1725{{snd}}29 December 1764]
+* Sabiha Sultan (26 November 1726{{snd}}3 December 1726]
+* Zübeyde Sultan (29 March 1728{{snd}}4 June 1756), daughter of Hatem Kadın.
+* Ümmühabibe Sultan (1729–1730).
+* Akile Sultan (1730–1737).
+
+==In fiction==
+In [[Voltaire]]'s ''[[Candide]]'', the eponymous main character meets the deposed Ahmed III on a ship from [[Venice]] to [[Constantinople]]. The Sultan is in the company of five other deposed European monarchs, and he tells Candide, who initially doubts his credentials:
+
+&lt;blockquote&gt;I am not jesting, my name is Achmet III. For several years I was Sultan; I dethroned my brother; my nephew dethroned me; they cut off the heads of my viziers; I am ending my days in the old seraglio; my nephew, Sultan Mahmoud, sometimes allows me to travel for my health, and I have come to spend the Carnival at Venice.&quot; [https://archive.org/stream/candideotherroma00voltuoft/candideotherroma00voltuoft_djvu.txt]&lt;/blockquote&gt;
+
+This episode was taken up by the modern Turkish writer [[Nedim Gürsel]] as the setting of his 2001 novel ''Le voyage de Candide à Istanbul''.
+
+In fact, there is no evidence of the deposed Sultan being allowed to make such foreign travels, nor did Voltaire (or Gürsel) assert that it had any actual historical foundation.
+
+== See also ==
+* [[Fountain of Ahmed III]]
+* [[Fountain of Ahmed III (Üsküdar)]]
+* [[Ibrahim Muteferrika]]
+* [[Esma Sultan (1726-1788)|Esma Sultan]], daughter of Ahmed III
+
+== References ==
+{{Reflist}}
+
+==Sources==
+* This article incorporates text from the ''History of Ottoman Turks'' (1878)
+* {{EB1911|wstitle=Ahmed III.}}
+
+== External links ==
+{{Commonscat-inline}}+
+
+{{wikisource author-inline}}
+
+{{s-start}}
+{{s-hou|[[Ottoman Dynasty|House of Osman]]||30 December 1673||1 July 1736}}[aged 62]
+{{s-reg|}}
+{{s-bef|before=[[Mustafa II]]}}
+{{s-ttl|title=[[List of sultans of the Ottoman Empire|Sultan of the Ottoman Empire]]|years=22 August 1703{{snd}}1/2 October 1730}}
+{{s-aft|after=[[Mahmud I]]}}
+{{s-rel|su}}
+{{s-bef|before=[[Mustafa II]]}}
+{{s-ttl|title=[[List of caliphs|Caliph of Islam]]|years=22 August 1703{{snd}}1/2 October 1730}}
+{{s-aft|after=[[Mahmud I]]}}
+{{s-end}}
+
+{{Sultans of the Ottoman Empire}}
+{{Sons of the Ottoman Sultans}}
+
+{{Authority control}}
+
+[[Category:People of Turkic descent]]
+[[Category:Turkic rulers]]
+[[Category:Turkish poets]]
+[[Category:1673 births]]
+[[Category:1736 deaths]]
+[[Category:18th-century Ottoman sultans]]
+[[Category:Ottoman sultans born to Greek mothers]]
+[[Category:Turks of the Ottoman Empire]]
+[[Category:Custodian of the Two Holy Mosques]]
+[[Category:Ottoman dynasty]]</text>
+<sha1>2b0tc64fzqbodyap683ya18xkpv9sa5</sha1>
+</revision>
+</page>

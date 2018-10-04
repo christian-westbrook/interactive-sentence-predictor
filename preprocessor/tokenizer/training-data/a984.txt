@@ -1,0 +1,73 @@
+<page>
+<title>Argo Navis</title>
+<ns>0</ns>
+<id>1924</id>
+<revision>
+<id>791431049</id>
+<parentid>791430464</parentid>
+<timestamp>2017-07-20T06:34:54Z</timestamp>
+<contributor>
+<username>Arianewiki1</username>
+<id>6163295</id>
+</contributor>
+<comment>Added Canopus plus other needed qualifyers</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">[[Image:Argo Navis Hevelius.jpg|thumb|The constellation Argo Navis drawn by [[Johannes Hevelius]]]]
+'''Argo Navis''' (the Ship Argo), or simply '''Argo''', was a large [[constellation]] in the [[Southern Celestial Hemisphere|southern sky]] that has since been divided into the three constellations of [[Carina (constellation)|Carina]], [[Puppis (constellation)|Puppis]] and [[Vela (constellation)|Vela]]. The genitive was &quot;Argus Navis&quot;, abbreviated &quot;Arg&quot;.{{cn|date=July 2017}} [[John Flamsteed|Flamsteed]] and other early modern astronomers called the constellation just '''Navis''' (the Ship), genitive &quot;Navis&quot;, abbreviated &quot;Nav&quot;.
+
+It was identified in [[Greek mythology]] with the ''[[Argo]]'', the ship used by [[Jason]] and the [[Argonauts]] that sailed to Colchis in search of the Golden Fleece.&lt;ref name=&quot;Ridpath&quot; /&gt; The original constellation is presently found near the southern horizon of the Mediterranean sky, becoming visible in springtime and sailed westward, skimming along the southern horizon. Due to [[precession|precession of the equinoxes]], many of the stars of Argo have been shifted farther south since Classical times, and far fewer of its stars are visible today from the latitudes of the Mediterranean.&lt;ref&gt;{{cite web
+|last=Eastlick |first=P.
+|title=Argo Navis
+|url=http://www.astro.wisc.edu/~dolan/constellations/extra/ArgoNavis.html}}&lt;/ref&gt; This includes its brightest 1st-magnitude star, [[Canopus]] or α Carinae. All the stars of Argo Navis are easily visible south of the equator, and pass near zenith from southern temperate latitudes.
+
+Argo Navis is the only one of the 48 constellations listed by the 2nd century astronomer [[Ptolemy]] that is no longer officially recognized as a constellation. It was unwieldy due to its enormous size. In his ''Coelum Australe Stelliferum'', published in 1763, the French astronomer [[Nicolas Louis de Lacaille]] explained that there were more than a hundred and sixty stars clearly visible to the naked eye in Navis, and so he used the set of lowercase and uppercase Latin letters three times on portions of the constellation referred to as &quot;Argûs in carina&quot; ([[Carina (constellation)|Carina]], the [[keel]] or hull), &quot;Argûs in puppi&quot; ([[Puppis (constellation)|Puppis]], the [[poop deck]] or [[stern]]), and &quot;Argûs in velis&quot; ([[Vela (constellation)|Vela]], the [[sail]]s). Lacaille replaced Bayer's [[Bayer designation|designations]] with new ones that followed stellar magnitudes more closely, but used only a single Greek-letter sequence and described the constellation for those stars as &quot;Argûs&quot;. Similarly, faint non-lettered stars were listed only as in &quot;Argûs&quot;.&lt;ref name=lacaille/&gt;
+
+The final breakup and abolition of Argo Navis was proposed by [[Sir John Herschel]] in 1841 and again in 1844,&lt;ref&gt;{{cite journal
+|last1=Herschel |first1=J. F. W.
+|year=1844
+|title=Further remarks on the revision of the constellations
+|journal=Monthly Notices of the Royal Astronomical Society
+|volume=6 |pages=60
+|bibcode=1844MNRAS...6...60H
+|doi=10.1093/mnras/6.5.60}}&lt;/ref&gt; but it was not formalised until 1930 when the IAU defined the [[88 modern constellations]].&lt;ref name=iau&gt;{{cite book
+|last1=Delporte
+|first1=E.
+|year=1930
+|title=Delimitation scientifique des constellations (tables et cartes)
+|bibcode=1930dsct.book.....D |publisher=Cambridge University Press}}&lt;/ref&gt; Lacaille's designations were kept in the three separate constellations, so Carina has α, β and ε, Vela has γ and δ, Puppis has ζ, and so on.&lt;ref name=&quot;Wagman&quot;&gt;{{cite book |last=Wagman |first=M. |year=2003
+|title=Lost Stars: Lost, Missing, and Troublesome Stars from the Catalogues of Johannes Bayer, Nicholas-Louis de Lacaille, John Flamsteed, and Sundry Others |url=https://books.google.com/books?id=TYLvAAAAMAAJ |publisher=McDonald &amp; Woodward Publishing Company |isbn=978-0-939923-78-6}}&lt;/ref&gt;{{rp|82}}
+
+The constellation [[Pyxis]] (the [[mariner's compass]]) occupies an area which in antiquity was considered part of Argo's mast. Some authors state that Pyxis was part of the Greek conception of Argo Navis,&lt;ref&gt;{{cite book |author=John Scalzi |title=Rough Guide to the Universe |url=https://books.google.com/books?id=cYEHkTXKTCYC |date=1 May 2008 |publisher=Rough Guides Limited |isbn=978-1-84353-800-4}}&lt;/ref&gt;&lt;ref&gt;{{cite book |author1=David H. Kelley |author2=Eugene F. Milone |title=Exploring Ancient Skies: A Survey of Ancient and Cultural Astronomy |url=https://books.google.com/books?id=ILBuYcGASxcC |date=16 February 2011 |publisher=Springer Science &amp; Business Media |isbn=978-1-4419-7624-6}}&lt;/ref&gt; but magnetic compasses were unknown in ancient Greek times. Lacaille considered it a separate constellation, representing one of the modern scientific instruments he placed among the constellations (like [[Microscopium]] and [[Telescopium]]). Pyxis was listed separately, among his 14 new constellations. Lacaille assigned Bayer designations to Pyxis separate from those of Argo, and his illustration shows an isolated instrument not related to the figure of the ship.&lt;ref name=lacaille&gt;{{cite book |last=de la Caille |first=N. L. |year=1763  |title=Coelum australe stelliferum |url=https://books.google.com/books?id=LIo_AAAAcAAJ&amp;pg=PP7 |publisher=H L Guerin &amp; L F Delatour |pages=7–}}&lt;/ref&gt;&lt;ref name=&quot;Wagman&quot; /&gt;{{rp|262}}  In 1844, John Herschel suggested formalizing the mast as a new constellation, [[Malus (constellation)|Malus]], to replace Lacaille's Pyxis, but the idea did not catch on.&lt;ref name=&quot;Ridpath&quot;&gt;{{cite web
+|url=http://www.ianridpath.com/startales/argo.htm
+|title=Argo Navis
+|author=Ian Ridpath
+|author-link=Ian Ridpath
+|website=Star Tales
+|accessdate=27 Jan 2015
+}}&lt;/ref&gt;
+
+The [[Māori people|Māori]] had several names for what was the constellation Argo, including ''Te Waka-o-Tamarereti'', ''Te Kohi-a-Autahi'', and ''Te Kohi''.&lt;ref&gt;{{cite book |author=Maud Worcester Makemson |title=The Morning Star Rises: An Account of Polynesian Astronomy |url=https://books.google.com/books?id=Pj0eAAAAIAAJ |year=1941 |publisher=Yale University Press}}&lt;/ref&gt;
+
+==See also==
+*[[Asterism (astronomy)]]
+*[[List of stars in Argo Navis]]
+
+==References==
+{{reflist}}
+
+== External links ==
+{{Commons category|Argo Navis}}
+*[http://www.starrynightphotos.com/constellations/argo_navis.htm Starry Night Photography : Argo Navis Image]
+*[http://www.ianridpath.com/startales/argo.htm Star Tales – Argo Navis]
+*[http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=9&amp;cat_2=71&amp;cat_3=32&amp;cat_4=1317&amp;cat_5=991 Warburg Institute Iconographic Database – Argo (Navis)] (over 160 medieval and early modern images of Argo Navis)
+
+{{navconstel-historic}}
+{{Stars of Argo Navis}}
+
+[[Category:Argo Navis (constellation)| ]]
+[[Category:Constellations listed by Ptolemy]]
+[[Category:Southern constellations]]</text>
+<sha1>8v870r7c875re1ukc55ez20eqghe5ui</sha1>
+</revision>
+</page>

@@ -1,0 +1,21 @@
+<page>
+<title>Albert I of Hapsburg</title>
+<ns>0</ns>
+<id>1511</id>
+<redirect title="Albert I of Germany" />
+<revision>
+<id>125909415</id>
+<parentid>123526166</parentid>
+<timestamp>2007-04-25T18:51:13Z</timestamp>
+<contributor>
+<username>Scepbot</username>
+<id>1559905</id>
+</contributor>
+<minor />
+<comment>Robot: Fixing double redirect</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Albert I of Germany]]</text>
+<sha1>hppxwh8c1l9bjwmuk6tnbwdb21nxra1</sha1>
+</revision>
+</page>

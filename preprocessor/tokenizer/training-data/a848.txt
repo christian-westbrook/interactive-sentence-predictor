@@ -1,0 +1,19 @@
+<page>
+<title>Anacreon (poet)</title>
+<ns>0</ns>
+<id>1733</id>
+<redirect title="Anacreon" />
+<revision>
+<id>47295645</id>
+<parentid>47023949</parentid>
+<timestamp>2006-04-06T19:47:16Z</timestamp>
+<contributor>
+<username>Bacchiad</username>
+<id>53236</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Anacreon]]</text>
+<sha1>ibhi2b2p2fhb187qnc6qkw1jdfx6cay</sha1>
+</revision>
+</page>

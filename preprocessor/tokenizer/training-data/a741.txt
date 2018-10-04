@@ -1,0 +1,244 @@
+<page>
+<title>Alexander</title>
+<ns>0</ns>
+<id>1601</id>
+<revision>
+<id>802817503</id>
+<parentid>802327422</parentid>
+<timestamp>2017-09-28T17:31:40Z</timestamp>
+<contributor>
+<username>Mr KEBAB</username>
+<id>28161599</id>
+</contributor>
+<comment>rm incomplete Ukrainian IPA - provide stress</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">{{About|the male first name}}
+{{Infobox given name
+|name          = Alexander
+|image         = File:Istanbul - Museo archeol. - Alessandro Magno (firmata Menas) - sec. III a.C. - da Magnesia - Foto G. Dall'Orto 28-5-2006 b-n.jpg
+|caption       = Statue of [[Alexander the Great|Alexander III &quot;The Great&quot; of Macedon]], the most prominent bearer whose legacy and fame popularized the name's use throughout Europe and Asia.
+|pronunciation = {{IPAc-en|ˈ|æ|l|ə|g|z|ˈ|æ|n|d|ər}} or {{IPAc-en|ˈ|æ|l|ə|g|z|ˈ|ɑː|n|d|ər}}&lt;br&gt;{{IPA-de|ˌalɛˈksandɐ|lang}}&lt;br&gt;{{IPA-ru|ɐlʲɪkˈsandr|lang}}&lt;br&gt;{{IPA-cs|ˈalɛksandr|lang}}&lt;br&gt;{{IPA-sh|alěksaːndar|lang}}&lt;br&gt;{{IPA-pl|alεˈksandεr|lang}}
+|gender        = [[Masculine]], the feminine form being [[Alexandra]].
+|name day      = August 30
+|origin        = Via [[Latin]] ''Alexander'', originally from the [[Greek language|Greek]] {{lang|grc-gre|Ἀλέξανδρος}} (''Alexandros''), from ''alexein'' meaning &quot;to ward off, keep off, turn away, defend, protect&quot; and ''andros'', genitive of ''anēr'' meaning &quot;man&quot;.
+|meaning       = &quot;Defender, protector of man&quot;.
+|seealso =
+}}
+{{Contains special characters}}
+'''Alexander''' ({{IPAc-en|ˈ|æ|l|ə|g|z|ˈ|æ|n|d|ər}}, {{IPAc-en|ˈ|æ|l|ə|g|z|ˈ|ɑː|n|d|ər}}) is a male first [[name]], and less common [[Alexander (surname)|surname]] derived from the [[Greek language|Greek]] &quot;Αλέξανδρος&quot; (Aléxandros). The most famous is [[Alexander the Great]], who created one of the largest empires in ancient history.
+
+==Etymology==
+The name ''Alexander'' is derived from the [[Greek language|Greek]] {{lang|grc-gre|Ἀλέξανδρος}} (Aléxandros), meaning &quot;Defender of the people&quot; or &quot;Defending men&quot;&lt;ref&gt;{{LSJ|a)le/candros|Ἀλέξανδρος|ref}}.&lt;/ref&gt; and also, &quot;Protector of men&quot;, a compound of the verb {{lang|grc|ἀλέξειν}} ''alexein'', &quot;to ward off, to avert, to defend&quot;&lt;ref&gt;{{LSJ|a)le/cw|ἀλέξειν|shortref}}.&lt;/ref&gt; and the noun {{lang|grc|ἀνήρ}} ''anēr'', &quot;man&quot; (&lt;small&gt;[[Genitive|GEN]]&lt;/small&gt; {{lang|grc|ἀνδρός}} ''andros'').&lt;ref&gt;{{LSJ|a)nh/r|ἀνήρ|shortref}}.&lt;/ref&gt; It is an example of the widespread motif of Greek (or Indo-European more generally) names expressing &quot;battle-prowess&quot;, in this case the ability to withstand or push back an enemy [[shield wall|battle line]].{{citation needed|date=November 2012}}
+
+The earliest attested form of the name is the [[Mycenaean Greek]] feminine [[anthroponym]] {{lang|gmy|𐀀𐀩𐀏𐀭𐀅𐀨}}, ''a-re-ka-sa-da-ra'' (transcribed as ''[[Alexandra]]''), written in the [[Linear B]] syllabic script.&lt;ref&gt;Tablet [[Mycenae|MY]] V 659 (61). {{cite web|url=http://www.palaeolexicon.com/default.aspx?static=12&amp;wid=217|title=The Linear B word a-re-ka-sa-da-ra|website=Palaeolexicon. Word study tool of ancient languages}} {{cite web|url=https://www2.hf.uio.no/damos/Index/item/chosen_item_id/5622|title=MY 659 V (61)|website=DĀMOS Database of Mycenaean at Oslo|publisher=[[University of Oslo]]}} {{cite web|last=Raymoure|first=K.A.|url=http://minoan.deaditerranean.com/resources/linear-b-sign-groups/a/a-re-ka-sa-da-ra-qe/|title=a-re-ka-sa-da-ra-qe| work=Deaditerranean. Minoan Linear A &amp; Mycenaean Linear B}}&lt;/ref&gt;&lt;ref&gt;{{cite book|title=The Mycenaean World|first=John|last=Chadwick|author1-link=John Chadwick|place=New York|publisher=Cambridge University Press|origyear=1976|year=1999}}&lt;/ref&gt;&lt;ref&gt;[https://web.archive.org/web/20080627021042/http://www.geocities.com/kurogr/linearb.pdf Mycenaean (Linear B)&amp;nbsp;– English Glossary]&lt;/ref&gt;
+
+The name was one of the titles (&quot;epithets&quot;) given to the Greek goddess [[Hera]] and as such is usually taken to mean &quot;one who comes to save warriors&quot;. In the [[Iliad]], the character [[Paris (mythology)|Paris]] is known also as Alexander.&lt;ref&gt;[http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0073%3Aentry%3D*%29ale%2Fcandros Ἀλέξανδρος],
+Georg Autenrieth, ''A Homeric Dictionary'', on Perseus Digital Library&lt;/ref&gt; The name's popularity was spread throughout the Greek world by the military conquests of [[Alexander the Great|King Alexander III, commonly known as &quot;Alexander the Great&quot;]]. Most later Alexanders in various countries were directly or indirectly named for him.{{citation needed|date=June 2010}}
+
+==People known as Alexander==
+Alexander has been the name of many rulers, including kings of [[Macedon]], of [[List of Scottish monarchs|Scotland]], emperors of [[Russian Empire|Russia]] and [[List of popes|popes]].
+
+===Rulers of antiquity===
+*Alexander (''Alexandros of Ilion''), more often known as [[Paris of Troy]]
+*[[Alexander of Corinth]], 10th king of [[Ancient Corinth|Corinth]] (816–791&amp;nbsp;BC)
+*[[Alexander I of Macedon]]
+*[[Alexander II of Macedon]]
+*[[Alexander III of Macedon]], commonly known as [[Alexander the Great]]
+*[[Alexander IV of Macedon]]
+*[[Alexander V of Macedon]]
+*[[Alexander of Pherae]] despot of Pherae between 369 and 358&amp;nbsp;BC
+*[[Alexander I of Epirus]] king of Epirus about 342&amp;nbsp;BC
+*[[Alexander II of Epirus]] king of Epirus 272&amp;nbsp;BC
+*Alexander, viceroy of [[Antigonus Gonatas]] and ruler of a rump state based on Corinth c. 250&amp;nbsp;BC
+*[[Alexander Balas]], ruler of the Seleucid kingdom of Syria between 150 and 146&amp;nbsp;BC
+*[[Alexander Zabinas]], ruler of part of the Seleucid kingdom of Syria based in Antioch between 128 and 123&amp;nbsp;BC
+*[[Alexander Jannaeus]] king of Judea, 103-76&amp;nbsp;BC
+*[[Alexander of Judaea]], son of Aristobulus II, king of Judaea
+*[[Alexander Severus]] (208–235), [[Roman emperor]]
+*[[Julius Alexander]], lived in the 2nd century, an [[Royal family of Emesa|Emesene nobleman]]
+*[[Domitius Alexander]], Roman usurper who declared himself emperor in 308
+
+===Rulers of the Middle Ages===
+*[[Alexander, Byzantine Emperor]] (912–913)
+*[[Alexander I of Scotland]] (c. 1078–1124)
+*[[Alexander II of Scotland]] (1198–1249)
+*[[Alexander Nevsky]] (1220–1263), Prince of Novgorod and Grand Prince of Vladimir
+*[[Alexander III of Scotland]] (1241–1286)
+*[[Alexander I of Georgia]] (1412–1442)
+*[[Alexander II of Imereti|Alexander II of Georgia]] (1483-1510)
+*Aleksander (1338–before 1386), Prince of Podolia (son of [[Narymunt]])
+*[[Alexandru I Aldea]], ruler of the principality of Wallachia (1431–1436)
+*[[Eskender]], Emperor of Ethiopia (1472–1494)
+*[[Alexander Jagiellon]] (Alexander of Poland) (1461–1506), King of Poland
+*[[Alexandru Lăpuşneanu]], Voivode of Moldavia (1552–1561 and 1564–1568)
+
+===Modern rulers===
+*[[Alexander I of Russia]] (1777–1825), emperor of Russia
+*[[Alexander II of Russia]] (1818–1881), emperor of Russia
+*[[Alexander III of Russia]] (1845–1894), emperor of Russia
+*[[Alexander Karađorđević, Prince of Serbia]] (1842–1858)
+*[[Alexander of Bulgaria]] (1857–1893), first prince of Bulgaria
+*[[Alexandru Ioan Cuza]], prince of Romania (1859–1866)
+*[[Alexander I of Serbia|Alexander I Obrenović of Serbia]] (1876–1903), king of Serbia
+*[[Alexander, Prince of Lippe]] (1831–1905), prince of Lippe
+*[[Alexander I of Yugoslavia]] (1888–1934), first king of Yugoslavia
+*[[Alexander, Crown Prince of Yugoslavia]] (born 1945), head of the Yugoslav Royal Family
+*[[Zog I]], also known as Skenderbeg III (1895–1961), king of Albanians
+*[[Alexander of Greece]] (1893–1920), king of Greece
+*[[Leka, Crown Prince of Albania (born 1939)|Leka, Crown Prince of Albania]] (1939-2011), king of Albanians (throne pretender)
+*[[Willem-Alexander, King of the Netherlands]] (born 1967), eldest child of [[Beatrix of the Netherlands|Queen Beatrix]] and [[Prince Claus of the Netherlands|Prince Claus]]
+
+====Other royalty====
+*[[Alexander, son of Herod|Alexander]], Judean Prince, one of the sons of [[Herod the Great]] from his wife [[Mariamne (second wife of Herod)|Mariamne]]
+*[[Alexander (grandson of Herod the Great)|Alexander]], Judean Prince, son to the above Alexander and Cappadocian Princess [[Glaphyra]]
+*[[Alexander (son of Ivan Shishman)|Alexander]] (d. 1418), son of Bulgarian tsar [[Ivan Shishman of Bulgaria|Ivan Shishman]]
+*[[Prince Alexander John of Wales]] (1871), short-lived son of [[Edward VII of the United Kingdom|Edward VII]]
+*[[Prince Alexandre of Belgium]] (1942–2009)
+*[[Prince Alexander of Sweden]] (b. 2016), son of [[Prince Carl Philip]]
+
+Several other princes have borne the name '''Alexander''':
+*[[George V of Hanover]] (1819–1878)
+*[[Prince Alfred of Edinburgh and Saxe-Coburg and Gotha]] (1874–1899)
+*[[Prince George, Duke of Kent]] (1902–1942)
+*[[Olav V of Norway]] (1903–1991)
+*[[Prince Richard, Duke of Gloucester]] (born 1944)
+*[[Prince George of Cambridge]] (born 2013)
+
+===Religious leaders===
+*[[Pope Alexander I]] (pope 97–105)
+*[[Alexander of Apamea]], 5th-century bishop of Apamea
+*[[Pope Alexander II]] (pope 1058–1061)
+*[[Pope Alexander III]] (pope 1164–1168)
+*[[Pope Alexander IV]] (pope 1243–1254)
+*[[Pope Alexander V]] (&quot;Peter Philarges&quot; c. 1339–1410)
+*[[Pope Alexander VI]] (1492–1503), Roman pope
+*[[Pope Alexander VII]] (1599–1667)
+*[[Pope Alexander VIII]] (pope 1689–1691)
+*[[Alexander of Constantinople]], bishop of Constantinople (314–337)
+*[[Pope Alexander I of Alexandria|St. Alexander of Alexandria]], Coptic Pope, Patriarch of Alexandria between 313 and 328
+*[[Pope Alexander II of Alexandria]], Coptic Pope (702–729)
+*[[Alexander of Lincoln]], bishop of Lincoln
+*[[Alexander of Jerusalem]]
+*See also [[Saint Alexander (disambiguation)|Saint Alexander]], various saints with this name
+
+===Other people===
+Other people using the name Alexander include:
+
+====Antiquity====
+*[[Alexander (artists)|Alexander]], the name of a number of artists of ancient Greece and Rome
+*[[Alexander (3rd century BC general)|Alexander]], 3rd-century BC general, commanded the cavalry under Antigonus III Doson
+*[[Alexander of Athens]], Athenian comic poet
+*[[Alexander Lyncestes]], contemporary of Alexander the Great
+*[[Alexander Aetolus]], poet and member of the Alexandrian Pleiad
+*[[Alexander, son of Lysimachus]], 3rd-century BC Macedonian royal
+*[[Alexander (Aetolian general)|Alexander]], Aetolian general, briefly conquered Aegira in 220&amp;nbsp;BC
+*[[Alexander (son of Polyperchon)|Alexander]], son of Polyperchon, the regent of Macedonia
+*[[Alexander Isius]], 2nd-century military commander of the Aetolians
+*[[Alexander of Acarnania]] (d. 191&amp;nbsp;BC), confidante of [[Antiochus III the Great]]
+*[[Alexander Lychnus]], early 1st-century BC poet and historian
+*[[Alexander Polyhistor]], Greek scholar of the 1st century
+*[[Alexander of Myndus]], ancient Greek writer on zoology and divination
+*[[Alexander of Aegae]], peripatetic philosopher of the 1st century
+*[[Alexander of Cotiaeum]], 2nd-century Greek grammarian and tutor of Marcus Aurelius
+*[[Alexander Numenius]], or Alexander, son of Numenius, 2nd century AD, Greek rhetorician
+*[[Alexander the Paphlagonian]], 2nd-century Greek imposter
+*[[Alexander Peloplaton]], Greek rhetorician of the 2nd century
+*[[Alexander of Lycopolis]], 4th-century author of an early Christian treatise against Manicheans
+*[[Alexander of Aphrodisias]], Greek commentator and philosopher
+*[[List of minor biblical figures, A–K#Alexander|Alexander]], a member of the Jerusalem Temple Sanhedrin mentioned in Acts 4:6
+
+====Middle Ages====
+*[[Alexander of Hales]], 13th-century Medieval theologian
+
+====Modern====
+*[[Alexander (magician)|Alexander]] (1880–1954), stage magician specializing in mentalism
+*[[Jeffrey C. Alexander]] (b. 1947), American sociologist
+*[[Alexander McQueen]] (1969-2010), British fashion designer and couturier
+*[[Olivinha]] (b. 1983), Brazilian basketball player also known as Alexandre
+*[[Alex Rodriguez]] (b. 1975), Major League Baseball star, won 3 AL MVP awards, also known as A-Rod
+*[[Alexander Van der Bellen]] (b. 1944), President of Austria
+
+==Given name==
+Internationally famous people with the given name Alexander or variants include:
+
+*[[Alexander Argov]] (1914–95), Russian-born Israeli composer
+*[[Aleksandr Averbukh]] (born 1974), Israeli European champion pole vaulter
+*[[Alec Baldwin]] (born 1958), American actor
+*[[Alexander Graham Bell]] (1847–1922), Scottish inventor of the first practical telephone
+*[[Alexandre Grothendieck]] (1928-2014), Important European mathematician of the 20th century.
+* [[Alexander Davidovich (wrestler)|Alexander Davidovich]] (born 1967), Israeli Olympic wrestler
+*[[Alexander Day]], British 18th-century confidence trickster
+*[[Aleksandar Djordjevic]] (born 1967), Serbian basketball player
+*[[Alexander Dubček]] (1921–1992), leader of Czechoslovakia (1968–1969)
+*[[Alexandre Dumas, père|Alexandre Dumas]] (1802–1870), French writer
+*[[Alexander Lee Eusebio]] (born 1988), also known as Alexander or Xander, South Korean solo singer, ex-member of South Korean band U-KISS
+*[[Alex Ferguson]] (born 1941), ex-manager of Manchester United FC
+*[[Alexander Fleming]] (1881–1955), Scottish discoverer of penicillin
+*[[Alexander Zusia Friedman]] (1897-1943), Polish rabbi, educator, activist, and journalist
+*[[Alexander Gomelsky]] (1928–2005), Russian head coach of USSR basketball national team for 30&amp;nbsp;years
+*[[Aleksandr Gorelik]] (born 1945), Soviet figure skater
+*[[Alexander Gould]] (born 1994), American actor
+*[[Alexander Gustafsson]] (born 1987), Swedish mixed martial arts fighter
+*[[Alexander Haig]] (1924–2010), United States general and politician
+*[[Alexander Hamilton]] (1755–1804), a Founding Father of the United States
+*[[Alex Higgins]] (1949-2010), Northern Irish former snooker world champion
+*[[Alexander von Humboldt]] (1769-1859), Prussian naturalist and explorer
+*[[Alexander Korda]] (1893–1956), Hungarian film director
+*[[Alexander Levinsky]] (1910–90), Canadian NHL ice hockey player
+*[[Alexander Ivanovich Levitov]] (1835–1877), Russian writer
+*[[Alexander Lévy]] (born 1990), French golfer
+*[[Alexandre Lippmann]] (1881–1960), French two-time Olympic champion épée fencer
+*[[Alexander Ludwig]], Canadian actor
+*[[Sandy Lyle|Alexander &quot;Sandy&quot; Lyle]] (born 1958), Scottish golfer
+*[[Alexander Lukashenko]] (born 1954), [[President of Belarus]]
+*[[Alex Manninger]], Austrian footballer
+*[[Alessandro Manzoni]] (1785–1873), Italian poet and novelist
+*[[Ali Marpet|Alexander &quot;Ali&quot; Marpet]] (born 1993), American football player in the NFL
+*[[Alexander McQueen]] (1969–2010), British fashion designer
+*[[Alessandro Moreschi]] (1858-1922), Italian castrato singer
+*[[Alexander Nikolov]] (born 1940), bronze medalist at 1964 Olympics (boxing)
+*[[Alexander O'Neal]] (born 1953), American singer
+*[[Alexander Ovechkin]] (born 1985), Russian hockey player for the Washington Capitals
+*[[Alexander Pechtold]] (born 1965), Dutch politician
+*[[Alexander Penn]] (1906–72), Israeli poet
+*[[Alexander Pope]] (1688–1744), English poet
+*[[Alexander Popov (swimmer)|Alexander Popov]] (born 1971) Russian swimmer
+*[[Alexander Ptushko]] (1900–1973), Russian film director
+*[[Alexander Pushkin]] (1799–1837), Russian writer
+*[[Alexander Rou]] (1906–1973), Russian film director
+*[[Alexander Rowe (athlete)|Alexander Rowe]] (born 1992), Australian athlete
+*[[Alexander Rudolph]] (&quot;Al McCoy&quot;; 1894–1966), American world champion middleweight boxer
+*[[Alexander Rybak]], Norwegian artist and violinist
+*[[Alexander Salkind]] (1921–1997), French film producer
+*[[Alexander Semin]] (born 1984), Russian hockey player for the Carolina Hurricanes
+*[[Alexander Shatilov]] (born 1987), Uzbek-Israeli artistic gymnast
+*[[Alexander Skarsgård]], Swedish actor
+*[[Alexander McCall Smith]] (born 1948), Scottish writer
+*[[Aleksandr Solzhenitsyn]] (1918–2008), Russian writer, Nobel laureate, Soviet dissident
+*[[Lex van Dam]] (born 1968), Dutch trader and TV personality
+*[[Aleksander Veingold]] (born 1953), Estonian and Soviet chess player and coach
+*[[Alessandro Volta]] (1745–1827), Italian physicist
+*[[Alexander Yusuf]], Somali-British architect
+*[[Alex Zanardi]] (born 1966), Italian racing driver and paracyclist
+
+==See also==
+*[[Alex (disambiguation)]]
+*[[Justice Alexander (disambiguation)]]
+*{{Lookfrom|Alexander}}
+*[[Hera Alexandros]], epithet of the Greek goddess Hera
+
+==References==
+{{Reflist}}
+
+{{Geo-Alexander}}
+
+{{given name}}
+
+[[Category:Greek masculine given names]]
+[[Category:Given names of Greek language origin]]
+[[Category:Masculine given names]]
+[[Category:Slavic masculine given names]]</text>
+<sha1>egshoi8yzpileb8iqtri9lc83q83wih</sha1>
+</revision>
+</page>

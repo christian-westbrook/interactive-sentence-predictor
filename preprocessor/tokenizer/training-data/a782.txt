@@ -1,0 +1,21 @@
+<page>
+<title>Alured of Berkeley</title>
+<ns>0</ns>
+<id>1651</id>
+<redirect title="Alfred of Beverley" />
+<revision>
+<id>393344901</id>
+<parentid>292015399</parentid>
+<timestamp>2010-10-28T02:43:09Z</timestamp>
+<contributor>
+<username>EmausBot</username>
+<id>11292982</id>
+</contributor>
+<minor />
+<comment>Robot: Fixing double redirect to [[Alfred of Beverley]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Alfred of Beverley]]</text>
+<sha1>8gc5044lan5sfebi0eeeivdgycpi6rk</sha1>
+</revision>
+</page>

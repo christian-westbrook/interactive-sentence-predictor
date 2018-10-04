@@ -1,0 +1,39 @@
+<page>
+<title>Agis</title>
+<ns>0</ns>
+<id>1551</id>
+<revision>
+<id>783496107</id>
+<parentid>682923623</parentid>
+<timestamp>2017-06-02T17:55:45Z</timestamp>
+<contributor>
+<username>Swpb</username>
+<id>1921264</id>
+</contributor>
+<minor />
+<comment>/* People */Cleanup per [[WP:DDD]] - using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">'''Agis''' or '''AGIS''' may refer to:
+
+== People ==
+* [[Agis I]] (died 900 BC), Spartan king
+* [[Agis II]] (died 401 BC), Spartan king
+* [[Agis III]] (died 331 BC), Spartan king
+* [[Agis IV]] (265–241 BC), Spartan king
+* [[Agis (Paeonian)]] (died 358 BC), King of the Paeonians
+* [[Agis of Argos]], ancient Greek poet
+* [[Maurice Agis]] (1931–2009), British sculptor and artist
+* Agis, several fictional Emperors of [[Isaac Asimov]]'s Galactic Empire
+
+== Other ==
+* [[Agis (play)|''Agis'' (play)]], by John Home
+* [[Action for Global Information Sharing]]
+* [[Apex Global Internet Services]]
+* [[Atomic gravitational wave interferometric sensor]]
+* Advanced Glaucoma Intervention Study, conducted by the [[National Eye Institute#The Advanced Glaucoma Intervention Study|National Eye Institute]]
+
+{{disambiguation|given name}}</text>
+<sha1>1ivxib0orvenih7rmw1yuin9wp71b7z</sha1>
+</revision>
+</page>

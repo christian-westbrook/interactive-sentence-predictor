@@ -1,0 +1,22 @@
+<page>
+<title>Human abdomen</title>
+<ns>0</ns>
+<id>1302</id>
+<redirect title="Abdomen" />
+<revision>
+<id>716421590</id>
+<parentid>716421554</parentid>
+<timestamp>2016-04-21T17:41:56Z</timestamp>
+<contributor>
+<username>Glovacki</username>
+<id>20661259</id>
+</contributor>
+<comment>[[WP:AES|←]]Redirected page to [[Abdomen]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Abdomen]]
+
+{{wikidata-redirect}}</text>
+<sha1>bmfu3hu8s1idim342hakduu6jyvoo2w</sha1>
+</revision>
+</page>

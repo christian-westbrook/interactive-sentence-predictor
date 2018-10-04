@@ -1,0 +1,26 @@
+<page>
+<title>Alexander IV</title>
+<ns>0</ns>
+<id>1607</id>
+<revision>
+<id>550927633</id>
+<parentid>539113928</parentid>
+<timestamp>2013-04-18T05:19:54Z</timestamp>
+<contributor>
+<username>ChrisGualtieri</username>
+<id>16333418</id>
+</contributor>
+<minor />
+<comment>General Fixes using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">'''Alexander IV''' may refer to:
+* [[Pope Alexander IV]] (1199 or ca. 1185–1261), Pope from 1254 until his death
+* [[Alexander IV of Macedon]] (323 BC–309 BC), son of Alexander the Great
+* [[Alexander IV of Imereti]] (died 1695), of the Bagrationi Dynasty, king of Imereti (western Georgia)
+
+{{hndis|Alexander IV}}
+{{DEFAULTSORT:Alexander 04}}</text>
+<sha1>o6ciij8s1m91jr8oi2e0gemtig44zpj</sha1>
+</revision>
+</page>

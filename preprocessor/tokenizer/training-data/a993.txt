@@ -1,0 +1,33 @@
+<page>
+<title>Attorney</title>
+<ns>0</ns>
+<id>1935</id>
+<revision>
+<id>794846896</id>
+<parentid>794843522</parentid>
+<timestamp>2017-08-10T11:22:07Z</timestamp>
+<contributor>
+<username>Necrothesp</username>
+<id>64853</id>
+</contributor>
+<minor />
+<comment>Reverted edits by [[Special:Contribs/139.167.2.89|139.167.2.89]] ([[User talk:139.167.2.89|talk]]) to last version by Necrothesp</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">{{wiktionary}}
+'''Attorney''' may refer to:
+
+* [[Lawyer]], as a general synonym
+* [[Attorney at law]], an official title of lawyers in some jurisdictions
+* [[Attorney-in-fact]], a holder of a power of attorney who is (though not necessarily a lawyer) able to act on another's behalf in legal and financial contexts
+* ''[[The Attorney]]'', a 2013 South Korean film
+* Certain plants in the genus ''[[Clusia]]''
+
+== See also ==
+* [[Attorney general]], the principal legal officer of (or advisor to) a government
+* {{In title|attorney}}
+
+{{disambiguation}}</text>
+<sha1>azkg8mn7pax6h5jee5h7j3y3i765s20</sha1>
+</revision>
+</page>

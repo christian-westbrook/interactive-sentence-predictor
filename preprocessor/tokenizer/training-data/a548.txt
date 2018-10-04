@@ -1,0 +1,25 @@
+<page>
+<title>Antonio Gaudi/Sagrada Familia</title>
+<ns>0</ns>
+<id>1321</id>
+<redirect title="Sagrada Família" />
+<revision>
+<id>783845862</id>
+<parentid>629649710</parentid>
+<timestamp>2017-06-05T01:15:18Z</timestamp>
+<contributor>
+<username>Tom.Reding</username>
+<id>9784415</id>
+</contributor>
+<minor />
+<comment>+{{R category shell}} using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Sagrada Família]]
+
+{{Redirect category shell|1=
+{{R from subpage}}
+}}</text>
+<sha1>opo8ejlnb1nr6bhgqwqvi6216twp6w2</sha1>
+</revision>
+</page>

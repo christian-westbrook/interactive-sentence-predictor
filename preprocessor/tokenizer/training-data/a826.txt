@@ -1,0 +1,21 @@
+<page>
+<title>Alphonso IX</title>
+<ns>0</ns>
+<id>1705</id>
+<redirect title="Alfonso IX of León" />
+<revision>
+<id>168541296</id>
+<parentid>15900170</parentid>
+<timestamp>2007-11-01T17:19:17Z</timestamp>
+<contributor>
+<username>RussBot</username>
+<id>279219</id>
+</contributor>
+<minor />
+<comment>Robot: Fixing [[Special:DoubleRedirects|double-redirect]] -&quot;Alfonso IX of Leon&quot; +&quot;Alfonso IX of León&quot;</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Alfonso IX of León]]</text>
+<sha1>b2x0htbirooah59rc2ztf7r430kbjf1</sha1>
+</revision>
+</page>

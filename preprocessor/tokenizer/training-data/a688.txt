@@ -1,0 +1,25 @@
+<page>
+<title>Adirondacks</title>
+<ns>0</ns>
+<id>1539</id>
+<redirect title="Adirondack Mountains" />
+<revision>
+<id>783845973</id>
+<parentid>245952224</parentid>
+<timestamp>2017-06-05T01:16:12Z</timestamp>
+<contributor>
+<username>Tom.Reding</username>
+<id>9784415</id>
+</contributor>
+<minor />
+<comment>+{{Redirect category shell}} using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Adirondack Mountains]]
+
+{{Redirect category shell|1=
+{{R from alternative name}}
+}}</text>
+<sha1>r6ak1wa2rrsh7r1h0g0av35o1g7zvnr</sha1>
+</revision>
+</page>

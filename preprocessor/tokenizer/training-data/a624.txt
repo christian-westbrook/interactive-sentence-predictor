@@ -1,0 +1,21 @@
+<page>
+<title>Abgar</title>
+<ns>0</ns>
+<id>1434</id>
+<redirect title="Abgar V" />
+<revision>
+<id>455024060</id>
+<parentid>444058683</parentid>
+<timestamp>2011-10-11T11:47:42Z</timestamp>
+<contributor>
+<username>EmausBot</username>
+<id>11292982</id>
+</contributor>
+<minor />
+<comment>Robot: Fixing double redirect to [[Abgar V]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Abgar V]]</text>
+<sha1>gfkk53ph976s8st9b8ziuzhbeu336hv</sha1>
+</revision>
+</page>

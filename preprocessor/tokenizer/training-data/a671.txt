@@ -1,0 +1,21 @@
+<page>
+<title>Albert III, Elector of Saxony</title>
+<ns>0</ns>
+<id>1515</id>
+<redirect title="Albert III, Duke of Saxony" />
+<revision>
+<id>252068097</id>
+<parentid>15899985</parentid>
+<timestamp>2008-11-16T01:23:56Z</timestamp>
+<contributor>
+<username>RussBot</username>
+<id>279219</id>
+</contributor>
+<minor />
+<comment>Robot: Fixing [[Special:DoubleRedirects|double-redirect]] -&quot;Albert, Duke of Saxony&quot; +&quot;Albert III, Duke of Saxony&quot;</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Albert III, Duke of Saxony]]</text>
+<sha1>8quf7xpiqyk8j1w3igbu5s6j8llk8fm</sha1>
+</revision>
+</page>

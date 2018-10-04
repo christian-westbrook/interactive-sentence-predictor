@@ -1,0 +1,77 @@
+<page>
+<title>Amyntas I of Macedon</title>
+<ns>0</ns>
+<id>1729</id>
+<revision>
+<id>802243146</id>
+<parentid>782311287</parentid>
+<timestamp>2017-09-24T22:07:43Z</timestamp>
+<contributor>
+<username>Keivan.f</username>
+<id>14604687</id>
+</contributor>
+<comment>/* top */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">{{Infobox monarch
+| name = Amyntas I
+| title = [[Vassal]] of [[Achaemenid Empire]]&lt;ref&gt;Joseph Roisman,Ian Worthington. [https://books.google.nl/books?id=QsJ183uUDkMC&amp;pg=PA345&amp;lpg=PA345&amp;dq=Achaemenid+Persians+ruled+balkans&amp;source=bl&amp;ots=K7qasgPG1K&amp;sig=lkiajbVuNcHEbI5Lz3MnvIUBG1U&amp;hl=nl&amp;sa=X&amp;ei=sb6RVP2qHoPUaqeGgZgE&amp;ved=0CEkQ6AEwBQ#v=onepage&amp;q=Achaemenid%20Persians%20ruled%20balkans&amp;f=false &quot;A companion to Ancient Macedonia&quot;] John Wiley &amp; Sons, 2011. {{ISBN|144435163X}} pp 343-345&lt;/ref&gt;
+| image =
+| caption =
+| succession = [[List of ancient Macedonians|King of Macedon]]
+| reign = traditional: 547–498 BC
+| full name =
+| predecessor = [[Alcetas I of Macedon|Alcetas I]]
+| successor = {{plainlist |
+* [[Alexander I of Macedon|Alexander I]]
+}}
+| spouse =Queen Eurydice
+| issue = [[Alexander I of Macedon|Alexander I]]&lt;br&gt;[[Gygaea of Macedon|Gygaea]]
+| royal house =[[List of ancient Macedonians|(Ancient) Macedon]]
+| dynasty = [[Argead dynasty|Argead]]
+| father = [[Alcetas I of Macedon|Alcetas I]]
+| mother =unknown
+| birth_date =
+| birth_place =
+| death_date =
+| death_place =
+| religion =[[Ancient Greek religion|Ancient Greek Polytheism]]
+}}
+'''Amyntas I''' ([[Greek language|Greek]]: Ἀμύντας Aʹ; {{circa|540}}{{snd}}498 BC) was a king of [[Macedonia (ancient kingdom)|Macedon]]. He was a son of [[Alcetas I of Macedon]]. He married Eurydice and they had a son [[Alexander I of Macedon|Alexander]].
+
+Amyntas was a [[vassal]] of [[Darius I]], king of the Persian [[Achaemenid Empire]], since 512/511 BC.&lt;ref&gt;Joseph Roisman,Ian Worthington. [https://books.google.nl/books?id=QsJ183uUDkMC&amp;pg=PA345&amp;lpg=PA345&amp;dq=Achaemenid+Persians+ruled+balkans&amp;source=bl&amp;ots=K7qasgPG1K&amp;sig=lkiajbVuNcHEbI5Lz3MnvIUBG1U&amp;hl=nl&amp;sa=X&amp;ei=sb6RVP2qHoPUaqeGgZgE&amp;ved=0CEkQ6AEwBQ#v=onepage&amp;q=Achaemenid%20Persians%20ruled%20balkans&amp;f=false &quot;A companion to Ancient Macedonia&quot;] John Wiley &amp; Sons, 2011. {{ISBN|144435163X}} pp 343-345&lt;/ref&gt;
+The history of Macedonia may be said to begin with Amyntas' reign. He was the first of its rulers to have diplomatic relations with other states.{{sfn|Chisholm|1911}}
+In particular, he entered into an alliance with [[Hippias (tyrant)|Hippias]] of [[Athens]], and when Hippias was driven out of Athens he offered him the territory of [[Anthemous|Anthemus]] on the [[Thermaic Gulf]] with the object of taking advantage of the feuds between the Greeks.{{sfn|Chisholm|1911}}
+Hippias refused the offer and also rejected the offer of [[Iolcos]], as Amyntas probably did not control Anthemous at that time, but was merely suggesting a plan of joint occupation to Hippias.&lt;ref&gt;Miltiades V. Chatzopoulos ''Macedonian Institutions Under the Kings: A historical and epigraphic study'', p. 174, {{ISBN|960-7094-89-1}}.&lt;/ref&gt;
+
+== References ==
+{{reflist}}
+;Attribution
+*{{EB1911|wstitle=Amyntas I|volume=1|page=900}}
+
+==Sources==
+*[[Herodotus]] v. 17, 94
+*[[Justin (historian)|Justin]] vii. 2
+*[[Thucydides]] ii. 100
+*[[Pausanias (geographer)|Pausanias]] ix. 40
+
+{{s-start}}
+{{s-bef|before=[[Alcetas I of Macedon|Alcetas I]]}}
+{{s-ttl|title=[[List of ancient Macedonians|King of Macedon]]|years=547–498 BC}}
+{{s-aft|after=[[Alexander I of Macedon|Alexander I]]}}
+{{s-end}}
+{{MacedonKings}}
+
+{{DEFAULTSORT:Amyntas 01 Of Macedon}}
+[[Category:6th-century BC births]]
+[[Category:498 BC deaths]]
+[[Category:Macedonian monarchs]]
+[[Category:5th-century BC rulers]]
+[[Category:6th-century BC rulers]]
+[[Category:Achaemenid Macedon]]
+[[Category:6th-century BC Macedonians]]
+[[Category:Argead dynasty]]
+[[Category:6th-century BC Greek people]]</text>
+<sha1>hq9vvbytrbj5ktipwfmf603sxj752zj</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>ADHD</title>
+<ns>0</ns>
+<id>1399</id>
+<redirect title="Attention deficit hyperactivity disorder" />
+<revision>
+<id>783845889</id>
+<parentid>466155197</parentid>
+<timestamp>2017-06-05T01:15:27Z</timestamp>
+<contributor>
+<username>Tom.Reding</username>
+<id>9784415</id>
+</contributor>
+<minor />
+<comment>+{{R category shell}} using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Attention deficit hyperactivity disorder]]
+
+{{Redirect category shell|1=
+{{R from initials}}
+}}</text>
+<sha1>ppalx7uc7xz2xtzbji8ombwd5rlahiu</sha1>
+</revision>
+</page>

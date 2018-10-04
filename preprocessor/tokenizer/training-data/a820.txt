@@ -1,0 +1,26 @@
+<page>
+<title>Alfonso VI</title>
+<ns>0</ns>
+<id>1699</id>
+<revision>
+<id>696516381</id>
+<parentid>585451074</parentid>
+<timestamp>2015-12-23T18:30:59Z</timestamp>
+<contributor>
+<username>Dcirovic</username>
+<id>11795905</id>
+</contributor>
+<minor />
+<comment>added Category:Monitored short pages</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">'''Alfonso VI''' may refer to:
+*[[Alfonso VI of León and Castile]] (1065–1109)
+*Alfonso VI, otherwise [[Afonso VI of Portugal]] (1643–1667) second king of the House of Braganza
+
+{{Hndis}}
+
+{{Short pages monitor}}&lt;!-- This long comment was added to the page to prevent it from being listed on Special:Shortpages. It and the accompanying monitoring template were generated via Template:Long comment. Please do not remove the monitor template without removing the comment as well.--&gt;</text>
+<sha1>je05d2r8fxt12ezr0velfx83y5h5ufv</sha1>
+</revision>
+</page>

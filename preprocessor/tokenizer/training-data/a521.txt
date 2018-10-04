@@ -1,0 +1,20 @@
+<page>
+<title>Military of Antarctica</title>
+<ns>0</ns>
+<id>1280</id>
+<redirect title="Military activity in the Antarctic" />
+<revision>
+<id>102090287</id>
+<parentid>101572387</parentid>
+<timestamp>2007-01-20T22:50:08Z</timestamp>
+<contributor>
+<username>Nick-D</username>
+<id>415269</id>
+</contributor>
+<comment>redirected to Military activity in the Antarctic</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Military activity in the Antarctic]]</text>
+<sha1>ia6iv49tcw9tb7fnnq91oj3mjkefaj0</sha1>
+</revision>
+</page>

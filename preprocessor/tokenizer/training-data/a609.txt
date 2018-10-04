@@ -1,0 +1,25 @@
+<page>
+<title>Antony van Leeuwenhoek</title>
+<ns>0</ns>
+<id>1410</id>
+<redirect title="Antonie van Leeuwenhoek" />
+<revision>
+<id>783845895</id>
+<parentid>142199805</parentid>
+<timestamp>2017-06-05T01:15:30Z</timestamp>
+<contributor>
+<username>Tom.Reding</username>
+<id>9784415</id>
+</contributor>
+<minor />
+<comment>+{{R category shell}} using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Antonie van Leeuwenhoek]]
+
+{{Redirect category shell|1=
+{{R from alternative spelling}}
+}}</text>
+<sha1>bifulszyqiaanpgqjrc7sbr7ci6f0pq</sha1>
+</revision>
+</page>

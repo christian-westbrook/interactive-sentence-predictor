@@ -1,0 +1,20 @@
+<page>
+<title>Government of Antarctica</title>
+<ns>0</ns>
+<id>1277</id>
+<redirect title="Antarctic Treaty System" />
+<revision>
+<id>22973613</id>
+<parentid>22973328</parentid>
+<timestamp>2005-09-10T13:45:56Z</timestamp>
+<contributor>
+<username>Citylover</username>
+<id>406359</id>
+</contributor>
+<comment>&quot;#REDIRECT [[Antarctic Treaty System]]&quot; added</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Antarctic Treaty System]]</text>
+<sha1>jhsdwsab3x7p1uz8w91tave2va7nard</sha1>
+</revision>
+</page>

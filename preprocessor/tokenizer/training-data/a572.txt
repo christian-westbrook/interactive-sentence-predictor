@@ -1,0 +1,20 @@
+<page>
+<title>Anderida</title>
+<ns>0</ns>
+<id>1355</id>
+<redirect title="Anderitum" />
+<revision>
+<id>107288227</id>
+<parentid>42054031</parentid>
+<timestamp>2007-02-11T09:55:40Z</timestamp>
+<contributor>
+<username>Walgamanus</username>
+<id>1338881</id>
+</contributor>
+<comment>[[WP:AES|←]]Redirected page to [[Anderitum]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#redirect [[Anderitum]]</text>
+<sha1>44i6lnrbz0n709fm5ocm2lgq57dmu0n</sha1>
+</revision>
+</page>

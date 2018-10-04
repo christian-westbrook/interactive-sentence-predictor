@@ -1,0 +1,19 @@
+<page>
+<title>Alphonso XII</title>
+<ns>0</ns>
+<id>1708</id>
+<redirect title="Alfonso XII of Spain" />
+<revision>
+<id>15900173</id>
+<parentid>543783</parentid>
+<timestamp>2002-12-29T16:21:51Z</timestamp>
+<contributor>
+<username>Montrealais</username>
+<id>3378</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Alfonso XII of Spain]]</text>
+<sha1>9ur144ruhqr0xnc83bwk9l5v55if4ia</sha1>
+</revision>
+</page>

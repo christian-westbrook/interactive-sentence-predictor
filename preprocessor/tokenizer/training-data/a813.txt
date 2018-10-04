@@ -1,0 +1,29 @@
+<page>
+<title>Alfonso II</title>
+<ns>0</ns>
+<id>1691</id>
+<revision>
+<id>637525641</id>
+<parentid>637525395</parentid>
+<timestamp>2014-12-10T21:14:49Z</timestamp>
+<contributor>
+<username>HansM</username>
+<id>406711</id>
+</contributor>
+<comment>Correct type of dash used</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">'''Alfonso II''' may refer to:
+*[[Alfonso II of Asturias]] (791–842)
+*[[Alfonso II of Aragon]] (1162–1196)
+*[[Alfonso II, Count of Provence]] (1174–1209)
+*[[Afonso II of Portugal]] (1185–1223), &quot;the Fat&quot;
+*[[Alfonso, Count of Poitou]] (1220–1271), jure uxoris Alfonso II, Count of Toulouse
+*[[Alfonso II of Naples]] (1448–1495)
+*[[Alfonso II d'Este]] (1533–1597), duke of Ferrara from 1559 to 1597
+
+{{hndis}}
+[[de:Liste der Herrscher namens Alfons#Alfons II.]]</text>
+<sha1>t8n6u4zgz1g6npauivhhsnjo5d46cag</sha1>
+</revision>
+</page>

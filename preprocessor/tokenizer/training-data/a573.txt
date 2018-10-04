@@ -1,0 +1,64 @@
+<page>
+<title>Ancylopoda</title>
+<ns>0</ns>
+<id>1356</id>
+<revision>
+<id>724525867</id>
+<parentid>678696254</parentid>
+<timestamp>2016-06-09T20:37:54Z</timestamp>
+<contributor>
+<username>Tom.Reding</username>
+<id>9784415</id>
+</contributor>
+<minor />
+<comment>/* top */Fix [[:Category:Pages using citations with accessdate and no URL]] when permanent identifier present using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">{{automatic taxobox
+| name = Ancylopods
+| fossil_range = {{fossil range|Eocene|Early Pleistocene}}
+| subdivision_ranks = [[Family (biology)|Superfamilies]]&lt;ref&gt;{{Cite book
+| last = Jacobs
+| first = Louis L.
+| author2 = Scott, Kathleen Marie
+| title = Evolution of Tertiary Mammals of North America: Terrestrial carnivores, ungulates, and ungulatelike mammals
+| publisher = Cambridge University Press
+| year = 1998
+| pages =
+| url =
+| doi =
+| isbn =978-0-521-35519-3}}&lt;/ref&gt;
+| subdivision =
+*[[Chalicotherioidea]]
+*[[Isectolophidae]]
+*[[Lophiodontidae]]
+}}
+'''Ancylopoda''' is a group of browsing, [[herbivorous]], [[mammal]]s in the [[Perissodactyla]] that show long, curved and cleft [[claw]]s.&lt;ref&gt;{{cite journal
+| last = Coombs
+| first = Margery C.
+| author2 = Rothschild, Bruce M.
+| title = Phalangeal Fusion in Schizotheriine Chalicotheres (Mammalia, Perissodactyla)
+| journal = Journal of Paleontology
+| volume = 73
+| issue = 4
+| pages = 682–690
+| publisher = Paleontological Society
+| date = Jul 1999
+| jstor = 1306767
+| doi =
+}}&lt;!--| accessdate = 2009-12-31--&gt;&lt;/ref&gt; [[Morphology (biology)|Morphological]] evidence indicates the Ancylopoda diverged from the [[tapir]]s, [[rhinoceros]]es and [[horse]]s ([[Euperissodactyla]]) after the Brontotheria, however earlier authorities such as [[Henry Fairfield Osborn|Osborn]] sometimes considered the Ancylopoda to be outside Perissodactyla or, as was popular more recently,  to be related to [[Brontotheria]].
+
+== References ==
+&lt;references/&gt;
+
+[[Category:Chalicotheres]]
+[[Category:Articles lacking sources from June 2009]]
+[[Category:All articles lacking sources]]
+[[Category:Eocene first appearances]]
+[[Category:Pleistocene extinctions]]
+
+
+{{paleo-oddtoedungulate-stub}}</text>
+<sha1>iz0p7k1d2j7hu5wdvflqm1kp7nazwcm</sha1>
+</revision>
+</page>

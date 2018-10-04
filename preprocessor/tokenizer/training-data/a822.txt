@@ -1,0 +1,423 @@
+<page>
+<title>Amazon River</title>
+<ns>0</ns>
+<id>1701</id>
+<revision>
+<id>802615949</id>
+<parentid>802612724</parentid>
+<timestamp>2017-09-27T09:40:53Z</timestamp>
+<contributor>
+<username>Gulumeemee</username>
+<id>28043514</id>
+</contributor>
+<minor />
+<comment>Reverted edits by [[Special:Contribs/176.126.230.179|176.126.230.179]] ([[User talk:176.126.230.179|talk]]) to last version by Bkell</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">{{Use dmy dates|date=July 2012}}
+{{Geobox|River
+&lt;!-- *** Heading *** --&gt;
+| name        = Amazon River
+| native_name =  Amazonia
+| other_name  = Apurímac
+| other_name1 = Ene
+| other_name2 = Tambo
+| other_name3 = Ucayali
+| other_name4 = Amazonas
+| other_name5 = Solimões
+| category    = River
+| etymology   =
+| nickname    =
+&lt;!-- *** Image *** --&gt;
+| image         = Sunset on the Amazon (7613489930).jpg
+| image_caption = Sunset over the Amazon near Leticia, Colombia
+| image_size    = 300
+&lt;!-- *** Country *** --&gt;
+| country  = Brazil
+| country1 = Colombia
+| country2 = Peru
+| state    =
+&lt;!-- *** Family *** --&gt;
+| parent           =
+| tributary_left   = [[Marañón River|Marañón]]
+| tributary_left1  = [[Japurá River|Japurá]]/[[Caquetá River|Caquetá]]
+| tributary_left2  = [[Rio Negro (Amazon)|Rio Negro]]/[[Guainía River|Guainía]]
+| tributary_left3  = [[Putumayo River|Putumayo]]
+| tributary_right  = [[Ucayali River|Ucayali]]
+| tributary_right1 = [[Purús River|Purús]]
+| tributary_right2 = [[Madeira River|Madeira]]
+| tributary_right3 = [[Tapajós River|Tapajós]]
+| tributary_right4 = [[Xingu River|Xingu]]
+| city             = [[Iquitos]] (Peru); [[Leticia, Amazonas|Leticia]] (Colombia);&lt;br /&gt; [[Tabatinga]] (Brazil); [[Tefé]] (Brazil);&lt;br /&gt; [[Itacoatiara, Amazonas|Itacoatiara]] (Brazil) [[Parintins]] (Brazil);&lt;br /&gt; [[Óbidos, Pará|Óbidos]] (Brazil); [[Santarém, Pará|Santarém]] (Brazil);&lt;br /&gt; [[Almeirim, Pará|Almeirim]] (Brazil); [[Macapá]] (Brazil);&lt;br&gt;[[Manaus]] (Brazil)
+&lt;!-- *** River locations *** --&gt;
+&lt;!--see talk page re most distant source. 15 November 2015--&gt;
+| source                 = [[Mantaro River|Rio Mantaro]]
+| source_location        = [[Huancayo]]
+| source_region          = [[Huancayo Province]]
+| source_country         = Peru
+| source_elevation       = 5220
+| source_coordinates     = {{coord|10|43|55|S|76|38|52|W|display=inline}}
+| mouth                  = Atlantic Ocean
+| mouth_location         =
+| mouth_ocean            = Atlantic Ocean
+| mouth_country          = Brazil
+| mouth_elevation        = 0
+| capital_coordinates    =
+| mouth_coordinates      = {{coord|0|42|28|N|50|5|22|W|display=inline,title}}
+| mouth_coordinates_note = &lt;ref&gt;{{GEOnet2|32FA88417DB73774E0440003BA962ED3|Amazon River}}&lt;/ref&gt;
+&lt;!-- *** Dimensions *** --&gt;
+| length             = 6400
+| length_round       = -0
+| length_note        = &lt;ref name=fao&gt;{{cite web|url=http://www.britannica.com/place/Amazon-River|title=Amazon River|work=Encyclopædia Britannica}}&lt;/ref&gt;
+| width              =
+| depth              =
+| volume             =
+| watershed          = 7050000
+| watershed_round    = -2
+| watershed_note     = &lt;ref name=fao /&gt;
+| discharge          = 209000
+| discharge_location =
+| discharge_round    = -3
+| discharge_note     = &lt;ref&gt;{{cite web |title= Hydrological Control on the Temporal Variability of Trace Element Concentration in the Amazon River and its Main Tributaries |last= Seyler |first= Patrick |author2= Laurence Maurice-Bourgoin |author3= Jean Loup Guyot |publisher= Geological Survey of Brazil (CPRM) |url= http://www.cprm.gov.br/pgagem/Manuscripts/seylerp.htm |accessdate= 24 July 2010}}&lt;/ref&gt;
+| discharge_max      = 340000
+| discharge_min      = 180000
+&lt;!-- *** Maps *** --&gt;
+| map         = Amazonrivermap.svg
+| map_caption = Amazon River and drainage basin
+| map_size    = 300
+|max depth=101}}
+[[File:Amazonas und Reliefkarte.png|thumb|right|360px|Topography of the Amazon River Basin]]
+
+The '''Amazon River''', usually abbreviated to '''Amazon''' ({{IPAc-en|us|ˈ|æ|m|ə|z|ɒ|n}} or {{IPAc-en|uk|ˈ|æ|m|ə|z|ən}}; [[Spanish language|Spanish]] and {{lang-pt|'''[[wikt:Amazonas|Amazonas]]'''}}), in [[South America]] is the [[List of rivers by discharge|largest river]] by [[Discharge (hydrology)|discharge]] volume of water in the world and according to some authors, the [[List of rivers by length|longest in length]].
+
+&lt;!--see talk page re most distant source. 15 November 2015--&gt;
+The headwaters of the [[Apurímac River]] on [[Nevado Mismi]] had been considered for nearly a century as the Amazon’s most distant source, until a 2014 study found it to be the Cordillera Rumi Cruz at the headwaters of the [[Mantaro River]] in Peru.&lt;ref name=&quot;ContosTripcevich&quot;&gt;{{cite journal|author1=James Contos|author2=Nicholas Tripcevich|title=Correct placement of the most distant source of the Amazon River in the Mantaro River drainage|journal=Area|date=March 2014|volume=46|issue=1|pages=27–39|doi=10.1111/area.12069}}&lt;/ref&gt; The Mantaro and Apurímac join, and with other tributaries form the [[Ucayali River]], which in turn meets the [[Marañón River]] upstream of [[Iquitos]], [[Peru]], to form what countries other than Brazil consider to be the [[main stem]] of the Amazon. Brazilians call this section the [[Solimões River]] above its confluence with the [[Rio Negro (Amazon)|Rio Negro]]&lt;ref name=Penn&gt;{{cite book|last= Penn |first= James R. |title= Rivers of the World |year= 2001 |publisher= ABC-CLIO |isbn= 978-1-57607-042-0 |url= https://books.google.com/books?id=koacGt0fhUoC&amp;pg=PA8 |page= 8}}&lt;/ref&gt; to form what Brazilians call the Amazon at the [[Meeting of Waters]] ({{lang-pt|Encontro das Águas}}) at [[Manaus]], the river's largest city.
+
+At an average discharge of about {{convert|209000|m3/s|cuft/s L/s USgal/s}}—approximately {{convert|6591|km3/a|cumi/a}}, greater than the next seven [[list of rivers by discharge|largest independent rivers]] combined—the Amazon represents 20% of the global riverine discharge to the ocean.&lt;ref name=&quot;auto&quot;&gt;{{cite journal|last1=Moura|first1=Rodrigo L.|last2=Amado-Filho|first2=Gilberto M.|last3=Moraes|first3=Fernando C.|last4=Brasileiro|first4=Poliana S.|last5=Salomon|first5=Paulo S.|last6=Mahiques|first6=Michel M.|last7=Bastos|first7=Alex C.|last8=Almeida|first8=Marcelo G.|last9=Silva|first9=Jomar M.|last10=Araujo|first10=Beatriz F.|last11=Brito|first11=Frederico P.|last12=Rangel|first12=Thiago P.|last13=Oliveira|first13=Braulio C. V.|last14=Bahia|first14=Ricardo G.|last15=Paranhos|first15=Rodolfo P.|last16=Dias|first16=Rodolfo J. S.|last17=Siegle|first17=Eduardo|last18=Figueiredo|first18=Alberto G.|last19=Pereira|first19=Renato C.|last20=Leal|first20=Camellia V.|last21=Hajdu|first21=Eduardo|last22=Asp|first22=Nils E.|last23=Gregoracci|first23=Gustavo B.|last24=Neumann-Leitão|first24=Sigrid|last25=Yager|first25=Patricia L.|last26=Francini-Filho|first26=Ronaldo B.|last27=Fróes|first27=Adriana|last28=Campeão|first28=Mariana|last29=Silva|first29=Bruno S.|last30=Moreira|first30=Ana P. B.|last31=Oliveira|first31=Louisi|last32=Soares|first32=Ana C.|last33=Araujo|first33=Lais|last34=Oliveira|first34=Nara L.|last35=Teixeira|first35=João B.|last36=Valle|first36=Rogerio A. B.|last37=Thompson|first37=Cristiane C.|last38=Rezende|first38=Carlos E.|last39=Thompson|first39=Fabiano L.|title=An extensive reef system at the Amazon River mouth|journal=[[Science Advances]]|publisher=[[American Association for the Advancement of Science]]|date=April 1, 2016|volume=2|issue=4|pages=e1501252|doi=10.1126/sciadv.1501252|url=http://advances.sciencemag.org/content/2/4/e1501252|accessdate=April 23, 2016|language=en|issn=2375-2548}}&lt;/ref&gt; The [[Amazon basin]] is the largest [[drainage basin]] in the world, with an area of approximately {{convert|7050000|km2|sqmi}}. The portion of the river's drainage basin in [[Brazil]] alone is larger than any other river's basin. The Amazon enters Brazil with only one-fifth of the flow it finally discharges into the [[Atlantic Ocean]], yet already has a greater flow at this point than the discharge of any other river.&lt;ref name=&quot;sterling&quot;&gt;Tom Sterling: ''Der Amazonas''. Time-Life Bücher 1979, 7th German Printing, p. 19.&lt;/ref&gt;&lt;ref name=smith&gt;{{cite book|last= Smith |first= Nigel J.H. |title= Amazon Sweet Sea: Land, Life, and Water at the River's Mouth |year= 2003 |publisher= University of Texas Press |isbn= 978-0-292-77770-5 |url= https://books.google.com/books?id=SywgnV96puYC&amp;pg=PA1 |pages= 1–2}}&lt;/ref&gt;
+
+== History ==
+{{Main|Timeline of Amazon history}}
+
+=== Pre-Columbian era ===&lt;!--NOTE; no typo; pre-Columbian refers to &quot;before Columbus&quot;, not &quot;before ColOmbia&quot;--&gt;
+[[File:Objets dAmazonie (réserves visitables du musée national dethnologie) (1450150520).jpg|thumb|250px|The [[Jivaroan peoples|Jivaro people]] were famous for their head-hunting raids and [[Shrunken head|shrinking the heads]] from these raids.]]
+During what many [[archaeologist]]s call the ''[[formative stage]]'', Amazonian societies were deeply involved in the emergence of South America's highland [[agriculture|agrarian]] systems. The [[Muisca economy#Trade|trade]] with Andean civilisations in the terrains of the headwaters in the Andes, formed an essential contribution to the social and religious development of the higher altitude civilisations of among others the [[Muisca Confederation|Muisca]] and [[Inca Empire|Incas]]. Early human settlements were typically based on low-lying hills or mounds.
+
+&lt;blockquote&gt;
+Five types of archaeological mound have been noted in the Amazon region: shell refuse{{clarify|date=February 2017}} and artificial mounds, artificial earth platforms for entire villages, earth mounds and ridges for cultivation, causeways and canals, and figurative mounds, both geometric and biomorphic.&lt;ref&gt;{{cite book|url=https://books.google.com/books?id=xeJMAgAAQBAJ&amp;pg=RA1-PA429|title=The Oxford Companion to Archaeology|author1=Anna Roosevelt|editor1-first=Neil Asher|editor1-last=Silberman|publisher=Oxford University Press|year=1996|ISBN=978-0-19-973578-5|pages=429–31|edition=2nd}}&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+Shell mounds were the earliest evidences of habitation; they represent piles of human refuse{{clarify|date=February 2017}} and are mainly dated between 7500 and 4000 years [[Before Present|BP]]. They are associated with ceramic age cultures; no preceramic shell mounds have been documented so far by archaeologists.{{Citation needed|date=February 2017}} Artificial earth platforms for entire villages are the second type of mounds. They are best represented by the [[Marajoara culture]]. [[Figurative mound]]s are the most recent types of occupation.
+
+There is ample evidence that the areas surrounding the Amazon River were home to complex and large-scale indigenous societies, mainly chiefdoms who developed large{{Citation needed|date=February 2017}} towns and cities. Archaeologists estimate that by the time the Spanish conquistador De Orellana travelled across the Amazon in 1541, more than 3 million indigenous people lived around the Amazon.&lt;ref name=Wohl_p24_25&gt;Wohl, 2011, pp. 24–25.&lt;/ref&gt; These pre-Columbian settlements created highly developed civilisations. For instance, pre-Columbian [[indigenous peoples of Brazil|indigenous people]] on the island of Marajó may have developed social stratification and supported a population of 100,000 people. In order to achieve this level of development, the indigenous inhabitants of the Amazon rainforest altered the forest's ecology by [[selective cultivation]] and the use of fire. Scientists argue that by burning areas of the forest repetitiously, the indigenous people caused the soil to become richer in nutrients. This created dark soil areas known as ''[[terra preta]] de índio'' (&quot;indian dark earth&quot;).&lt;ref name=Wohl_p25&gt;Wohl, 2011, p. 25.&lt;/ref&gt; Because of the terra preta, indigenous communities were able to make land fertile and thus sustainable for the large-scale agriculture needed to support their large populations and complex social structures. Further research has hypothesised that this practice began around 11,000 years ago. Some say that its effects on forest ecology and regional climate explain the otherwise inexplicable band of lower rainfall through the Amazon basin.&lt;ref name=Wohl_p25/&gt;
+
+Many indigenous tribes engaged in constant warfare. James Stuart Olson wrote: &quot;The [[Munduruku]] expansion dislocated and displaced the [[Kawahíb people|Kawahíb]], breaking the tribe down into much smaller groups&amp;nbsp;... [Munduruku] first came to the attention of Europeans in 1770 when they began a series of widespread attacks on Brazilian settlements along the Amazon River.&quot;&lt;ref&gt;{{cite book|first=James Stuart|last=Olson|title=The Indians of Central and South America: an ethnohistorical dictionary|url=https://books.google.com/books?id=175c4xOpLtYC&amp;pg=PA57&amp;dq#v=onepage&amp;q=&amp;f=false|publisher=Greenwood Publishing Group|year=1991|pages=57–248|isbn=0-313-26387-6}}&lt;/ref&gt;
+
+=== European discovery ===
+[[File:Amazon CIAT (2).jpg|thumb|250px|Amazon tributaries near Manaus]]
+In March 1500, [[Spanish Empire|Spanish]] [[conquistador]] [[Vicente Yáñez Pinzón]] was the first documented European to sail up the Amazon River.&lt;ref name=Morison1974&gt;{{cite book|last=Morison|first=Samuel|title=The European Discovery of America: The Southern Voyages, 1492–1616|publisher=Oxford University Press|year=1974|location=New York|page=}}&lt;/ref&gt; Pinzón called the stream ''Río Santa María del Mar Dulce'', later shortened to ''Mar Dulce'', literally, ''sweet sea'', because of its fresh water pushing out into the ocean. Another Spanish explorer, [[Francisco de Orellana]], was the first European to travel from the origins of the upstream river basins, situated in the [[Andes]], to the mouth of the river. In this journey, Orellana baptised some of the affluents of the Amazonas like [[Rio Negro (Amazon)|Rio Negro]], [[Napo River|Napo]] and [[Jurua]]. The name Amazonas is taken from the native warriors that attacked this expedition, mostly women, that reminded De Orellana of the female [[Amazons|Amazon]] warriors from the ancient [[Ancient Greece|Hellenic culture]] in Greece.
+
+=== Exploration ===
+[[File:The Marañon or Amazon River with the Mission of the Society of Jesus WDL1137.png|thumb|right|250px|[[Samuel Fritz]]'s 1707 map showing the Amazon and the Orinoco]]
+[[File:Indios munduruku.jpg|thumb|250px|Native Mundurukú&lt;br&gt;Painting by [[Hercules Florence]]]]
+[[Gonzalo Pizarro]] set off in 1541 to explore east of [[Quito]] into the South American interior in search of ''[[El Dorado]]'', the &quot;city of gold&quot; and [[La Canela]], the &quot;valley of [[cinnamon]]&quot;.&lt;ref&gt;[http://www.britannica.com/EBchecked/topic/431769/Francisco-de-Orellana Francisco de Orellana Francisco de Orellana (Spanish explorer and soldier)]. Encyclopædia Britannica.&lt;/ref&gt; He was accompanied by his second-in-command [[Francisco de Orellana]]. After {{convert|170|km|mi}}, the [[Coca River]] joined the [[Napo River]] (at a point now known as [[Puerto Francisco de Orellana]]); the party stopped for a few weeks to build a boat just upriver from this confluence. They continued downriver through an uninhabited area, where they could not find food. Orellana offered and was ordered to follow the Napo River, then known as ''Río de la Canela'' (&quot;Cinnamon River&quot;) and return with food for the party. Based on intelligence received from a captive native chief named Delicola, they expected to find food within a few days downriver by ascending another river to the north.
+
+De Orellana took about 57 men, the boat, and some canoes and left Pizarro's troops on 26 December 1541. However, De Orellana apparently missed the confluence (probably with the [[Aguarico River|Aguarico]]) where he was searching supplies for his men. By the time he and his men reached another village, many of them were sick from hunger and eating &quot;noxious plants&quot;, and near death. Seven men died at that village. His men threatened to mutiny if he followed his orders and the expedition turned back to join Pizarro's larger party. He accepted to change the purpose of the expedition to discover new lands in the name of the king of Spain, and the men built a larger boat in which to navigate downstream. After a journey of 600&amp;nbsp;km down the Napo River they reached a further major confluence, at a point near modern [[Iquitos]], and then followed the upper Amazon, now known as the Solimões, for a further {{convert|1200|km|mi}} to its confluence with the Rio Negro (near modern [[Manaus]]), which they reached on 3 June 1542. On the [[Nhamunda River]], a tributary of the Amazon downstream from Manaus, Orellana's party had a fierce battle with warriors who, they reported, were led by fierce female warriors who beat the men to death with clubs if they tried to retreat.{{Citation needed|date=November 2012}} Orellana's men began referring to the women as [[Amazons]], a reference to the tribe of women warriors from [[Greek mythology]]. The river was initially known as the ''[[Marañón River|Marañón]]'' (the name by which the Peruvian part of the river is still known today) or ''Rio de Orellana''. It later became known as the ''Rio Amazonas'', the name by which it is still known in both Spanish and Portuguese.
+
+Regarding the initial mission of finding cinnamon, Pizarro reported to the king that they had found cinnamon trees, but that they could not be profitably harvested. In fact, true cinnamon (''Cinnamomum verum'') is not native to South America. Other related cinnamon-containing plants (of the family ''Lauraceae'') are fairly common in that part of the Amazon and Pizarro probably saw some of these. The expedition reached the mouth of the Amazon on 24 August 1542, demonstrating the practical navigability of the Great River.
+
+In 1560 another Spanish [[conquistador]], [[Lope de Aguirre]], may have made the second descent of the Amazon. Historians are uncertain whether the river he descended was the Amazon or the [[Orinoco River]], which runs more or less parallel to the Amazon further north.
+
+Portuguese explorer [[Pedro Teixeira]] was the first European to travel up the entire river. He arrived in Quito in 1637, and returned via the same route.&lt;ref&gt;{{cite web|url=http://www.projectamazonas.org/brief-history-amazon-exploration|title=A Brief History of Amazon Exploration|last=Graham|first=Devon|publisher=Project Amazonas|accessdate=18 July 2014}}&lt;/ref&gt;
+
+From 1648 to 1652, Portuguese Brazilian ''[[bandeirante]]'' [[António Raposo Tavares]] led an expedition from [[São Paulo]] overland to the mouth of the Amazon, investigating many of its tributaries, including the Rio Negro, and covering a distance of more than {{convert|10000|km|0|abbr=on}}.
+
+In what is currently Brazil, Ecuador, Bolivia, Colombia, Peru, and Venezuela, a number of [[colonisation|colonial]] and religious settlements were established along the banks of primary rivers and tributaries for the purpose of trade, slaving and evangelisation among the indigenous peoples of the vast rainforest, such as the [[Urarina]]. In the late 1600s Spanish Jesuit Father [[Samuel Fritz]], apostle of the Omaguas, established some forty mission villages.
+
+=== Scientific exploration ===
+[[File:Naturalist on the River Amazons figure 32.png|thumb|250px|[[Henry Walter Bates]] was most famous for his expedition to the Amazon (1848–1859).]]
+Early scientific, zoological and botanical exploration of the Amazon River and basin took place from the 18th century through the first half of the 19th century.
+* [[Charles Marie de La Condamine]] explored the river in 1743.&lt;ref&gt;{{cite web|url=http://www.britannica.com/EBchecked/topic/326266/Charles-Marie-de-La-Condamine|title=Charles-Marie de La Condamine (French naturalist and mathematician)|work=[[Encyclopædia Britannica Online]]|accessdate=18 July 2014}}&lt;/ref&gt;
+* [[Alexander von Humboldt]], 1799–1804
+* [[Johann Baptist von Spix]] and [[Carl Friedrich Philipp von Martius]], 1817–1820
+* [[Henry Walter Bates]] and [[Alfred Russel Wallace]], 1848–1859
+
+=== Post-colonial exploitation and settlement ===
+[[File:Casaamazonica.jpg|thumb|250px|[[Amazonas (Brazilian state)|Amazonas]] state]]
+[[File:Centro de Manaus.jpg|thumb|250px|[[Amazon Theatre]] opera house in Manaus built in 1896 during the rubber boom]]
+{{refimprove section|date=February 2014}}
+
+The [[Cabanagem]] revolt (1835–1840) was directed against the white ruling class. It is estimated that from 30 to 40% of the population of [[Grão-Pará Province|Grão-Pará]], estimated at 100,000 people, died.&lt;ref&gt;{{cite web|url=http://noticias.uol.com.br/licaodecasa/materias/fundamental/historia/brasil/ult1689u20.jhtm| title= Cabanagem (1835–1840): Uma das mais sangrentas rebeliões do período regencial | work= [[Universo Online]] Liçao de Casa | author= Renato Cancian | accessdate= 12 November 2007 | language= Portuguese | archiveurl= https://web.archive.org/web/20071102212940/http://noticias.uol.com.br/licaodecasa/materias/fundamental/historia/brasil/ult1689u20.jhtm| archivedate= 2 November 2007 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+The total population of the Brazilian portion of the Amazon basin in 1850 was perhaps 300,000, of whom about two-thirds were Europeans and slaves, the slaves amounting to about 25,000. The Brazilian Amazon's principal commercial city, Pará (now Belém), had from 10,000 to 12,000 inhabitants, including slaves. The town of Manáos, now Manaus, at the mouth of the Rio Negro, had a population between 1,000 and 1,500. All the remaining villages, as far up as [[Tabatinga]], on the Brazilian frontier of Peru, were relatively small.{{sfn|Church|1911|p=789}}
+
+On 6 September 1850, Emperor [[Pedro II of Brazil]] sanctioned a law authorising steam navigation on the Amazon and gave the Viscount of Mauá ([[Irineu Evangelista de Sousa]]) the task of putting it into effect. He organised the &quot;Companhia de Navegação e Comércio do Amazonas&quot; in Rio de Janeiro in 1852; in the following year it commenced operations with four small steamers, the ''Monarca'' ('Monarch'), the ''Cametá'', the ''Marajó'' and the ''Rio Negro''.{{sfn|Church|1911|p=789}}&lt;ref&gt;{{cite web|title=Sobre Escravos e Regatões|url=http://www.snh2015.anpuh.org/resources/anais/39/1439329194_ARQUIVO_ANPUHSobreescravoseregatoes1.pdf|accessdate=11 December 2015|language=Portuguese|format=pdf}}&lt;/ref&gt;
+
+At first, navigation was principally confined to the main river; and even in 1857 a modification of the government contract only obliged the company to a monthly service between Pará and Manaus, with steamers of 200 tons cargo capacity, a second line to make six round voyages a year between Manaus and Tabatinga, and a third, two trips a month between Pará and Cametá.{{sfn|Church|1911|p=789}} This was the first step in opening up the vast interior.
+
+The success of the venture called attention to the opportunities for economic exploitation of the Amazon, and a second company soon opened commerce on the Madeira, Purús and Negro; a third established a line between Pará and Manaus; and a fourth found it profitable to navigate some of the smaller streams. In that same period, the Amazonas Company was increasing its fleet. Meanwhile, private individuals were building and running small steam craft of their own on the main river as well as on many of its tributaries.{{sfn|Church|1911|p=789}}
+
+On 31 July 1867 the government of Brazil, constantly pressed by the maritime powers and by the countries encircling the [[upper Amazon]] basin, especially Peru, decreed the opening of the Amazon to all countries, but they limited this to certain defined points: Tabatinga – on the Amazon; Cametá – on the Tocantins; Santarém – on the Tapajós; Borba – on the Madeira, and Manaus – on the Rio Negro. The Brazilian decree took effect on 7 September 1867.{{sfn|Church|1911|p=789}}
+
+Thanks in part to the [[mercantile]] development associated with [[steamboat]] navigation coupled with the internationally driven demand for [[natural rubber]], the Peruvian city of [[Iquitos]] became a thriving, cosmopolitan centre of commerce. Foreign companies settled in Iquitos, from whence they controlled the extraction of rubber. In 1851 Iquitos had a population of 200, and by 1900 its population reached 20,000. In the 1860s, approximately 3,000 tons of rubber were being exported annually, and by 1911 annual exports had grown to 44,000 tons, representing 9.3% of Peru's exports.&lt;ref&gt;Historia del Peru, Editorial Lexus. p. 93.&lt;/ref&gt; During the [[rubber boom]] it is estimated that diseases brought by immigrants, such as [[typhus]] and [[malaria]], killed 40,000 native Amazonians.&lt;ref&gt;La Republica Oligarquica.  Editorial Lexus 2000 p. 925.&lt;/ref&gt;
+
+The first direct foreign trade with Manaus commenced around 1874. Local trade along the river was carried on by the English successors to the Amazonas Company—the Amazon Steam Navigation Company—as well as numerous small steamboats, belonging to companies and firms engaged in the rubber trade, navigating the Negro, Madeira, Purús and many other tributaries,{{sfn|Church|1911|p=789}} such as the Marañón, to ports as distant as [[Nauta]], Peru.
+
+By the turn of the 20th century, the exports of the Amazon basin were [[Natural rubber|India-rubber]], [[cacao bean]]s, [[Brazil nut]]s and a few other products of minor importance, such as [[Fur|pelts]] and exotic forest produce ([[resin]]s, barks, woven [[hammock]]s, prized bird [[feather]]s, live animals) and extracted goods, such as [[lumber]] and gold.
+
+=== 20th-century development ===
+[[File:Manaus-Amazon-NASA.jpg|thumb|250px|[[Manaus]], the largest city in [[Amazonas (Brazilian state)|Amazonas]], as seen from a [[NASA]] satellite image, surrounded by the dark [[Rio Negro (Amazon)|Rio Negro]] and the muddy Amazon River]]
+[[File:Sitio de la Victoria regia, Leticia.JPG|thumb|250px|Floating houses in [[Leticia, Amazonas|Leticia]], [[Colombia]]]]
+
+Since colonial times, the Portuguese portion of the Amazon basin has remained a land largely undeveloped by agriculture and occupied by indigenous people who survived the arrival of European diseases.
+
+Four centuries after the European discovery of the Amazon river, the total cultivated area in its basin was probably less than {{convert|65|km2}}, excluding the limited and crudely cultivated areas among the mountains at its extreme headwaters.{{sfn|Church|1911|p=790}} This situation changed dramatically during the 20th century.
+
+Wary of foreign exploitation of the nation's resources, Brazilian governments in the 1940s set out to develop the interior, away from the seaboard where foreigners owned large tracts of land. The original architect of this expansion was president [[Getúlio Vargas]], with the demand for rubber from the Allied forces in World War II providing funding for the drive.
+
+In the 1960s, economic exploitation of the Amazon basin was seen as a way to fuel the &quot;economic miracle&quot; occurring at the time. This resulted in the development of &quot;Operation Amazon&quot;, an economic development project that brought large scale agriculture and ranching to Amazonia. This was done through a combination of credit and fiscal incentives.&lt;ref name=&quot;:0&quot;&gt;{{Cite book|url=https://books.google.com/books?id=P6k-6rsy7toC&amp;pg=PA32&amp;lpg=PA32&amp;dq=operation+amazon+1966&amp;source=bl&amp;ots=d21-mSw_X5&amp;sig=8GsKcFxm_B_EP5NM6QwdcYl_Rk8&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjd_aLz3-_SAhWKPBQKHYl7BCsQ6AEIXTAP#v=onepage&amp;q=operation%20amazon%201966&amp;f=false|title=The Economics of Deforestation in the Amazon: Dispelling the Myths|last=Campari|first=João S.|date=2005-01-01|publisher=Edward Elgar Publishing|isbn=9781845425517|language=en}}&lt;/ref&gt;
+
+However, in the 1970s the government took a new approach with the National Integration Programme. A large-scale colonisation programme saw families from northeastern Brazil relocated to the &quot;land without people&quot; in the Amazon Basin. This was done in conjunction with infrastructure projects mainly the [[Trans-Amazonian Highway]] (''Transamazônica'').&lt;ref name=&quot;:0&quot; /&gt;
+
+The Trans-Amazonian Highway's three pioneering highways were completed within ten years but never fulfilled their promise. Large portions of the Trans-Amazonian and its accessory roads, such as [[BR-319]] (Manaus-[[Porto Velho]]), are derelict and impassable in the rainy season. Small towns and villages are scattered across the forest, and because its vegetation is so dense, some remote areas are still unexplored.
+
+Many settlements grew along the road from Brasília to Belém with the highway and National Integration Programme however the programme failed as the settlers were unequipped to live in the delicate rainforest ecosystem. This, although the government believed it could sustain millions, instead could sustain very few.&lt;ref&gt;{{Cite book|url=https://books.google.com/books/about/The_Fate_of_the_Forest.html?id=XrLl2LxX488C&amp;redir_esc=y|title=The Fate of the Forest: Developers, Destroyers, and Defenders of the Amazon, Updated Edition|last=Hecht|first=Susanna B.|last2=Cockburn|first2=Alexander|date=2010-01-01|publisher=University of Chicago Press|isbn=9780226322728|language=en}}&lt;/ref&gt;
+
+With a population of 1.9 million people in 2014, Manaus is the largest city on the Amazon. Manaus alone makes up approximately 50% of the population of the largest Brazilian state of [[Amazonas (Brazilian state)|Amazonas]]. The racial makeup of the city is 64% [[pardo]] (mulatto and mestizo) and 32% [[White Brazilian|white]].&lt;ref&gt;{{cite book|url=http://www.sidra.ibge.gov.br/bda/tabela/listabl.asp?z=cd&amp;o=7&amp;i=P&amp;c=2094|title=Síntese de Indicadores Sociais 2000|publisher=[[Brazilian Institute of Geography and Statistics|IBGE]]|location=Manaus, Brazil|format=PDF|isbn=85-240-3919-1|accessdate=31 January 2009|year=2000|language=Portuguese}}&lt;/ref&gt;
+
+Although the Amazon river remains largely undammed, around 412 dams are in operation in the Amazon’s tributary rivers. From these 412 dams, 151 are constructed over six of the main tributary rivers that drain into the Amazon.&lt;ref name=&quot;theguardian.com&quot;&gt;{{cite news|url=https://www.theguardian.com/environment/andes-to-the-amazon/2014/may/06/more-400-dams-amazon-headwaters|last=Hill|first=David|title=More than 400 dams planned for the Amazon and headwaters|newspaper=The Guardian|date=6 May 2014|location=London|accessdate=18 July 2017}}&lt;/ref&gt; Since only four percent of the Amazon’s hydropower potential has been developed in countries like Brazil,&lt;ref&gt;Ellen Wohl, &quot;The Amazon: Rivers of Blushing Dolphins&quot; in ''A World of Rivers'' (Chicago: The University of Chicago Press, 2011), 35.&lt;/ref&gt; more damming projects are underway and hundreds more are planned.&lt;ref name=&quot;auto1&quot;&gt;{{cite web|url=http://news.nationalgeographic.com/2015/04/150419-amazon-dams-hydroelectric-deforestation-rivers-brazil-peru|last= Fraser|first= Barbara|title= Amazon Dams Keep the Lights On But Could Hurt Fish, Forests|website= National Geographic|date= 19 April 2015|accessdate= 25 July 2017}}&lt;/ref&gt; After witnessing the negative effects of environmental degradation, sedimentation, navigation and flood control caused by the Three Gorges Dam in the Yangtze River,&lt;ref&gt;Ellen Wohl, &quot;The Amazon: Rivers of Blushing Dolphins&quot; in ''A World of Rivers'' (Chicago: The University of Chicago Press, 2011), 279.&lt;/ref&gt; scientists are worried that constructing more dams in the Amazon will harm its biodiversity in the same way by “blocking-fish spawning runs, reducing the flows of vital oil nutrients and clearing forests”.&lt;ref name=&quot;auto1&quot;/&gt; Damming the Amazon River could potentially bring about the “end of free flowing rivers” and contribute to an “ecosystem collapse” that will cause major social problems.&lt;ref name=&quot;theguardian.com&quot; /&gt;
+
+== Course ==
+
+=== Origins ===
+[[File:Amazon origin at Mismi.jpg|thumb|left|The Amazon was thought to originate from the Apacheta cliff in [[Arequipa]] at the [[Nevado Mismi]], marked only by a wooden cross.]]
+[[File:The Source of the Amazon River.jpg|thumb|right|250px|Source of the Amazon]]
+[[File:Río Marañón 03245.JPG|thumb|250px|[[Marañón River]] in Peru]]
+
+&lt;!--see talk page re most distant source. 15 November 2015--&gt;The most distant source of the Amazon was thought to be in the Apurímac river drainage for nearly a century. Such studies continued to be published even recently, such as in 1996,&lt;ref name=Palkiewicz&gt;{{cite web|url=http://www.palkiewicz.com/ekspedycje/index.php?p=zrodl_amaz |title=Source of the Amazon River Identificated (Jacek Palkiewicz) |publisher=Palkiewicz.com |date=19 November 1999 |accessdate=13 February 2011}}&lt;/ref&gt; 2001,&lt;ref&gt;{{cite web|url=http://news.nationalgeographic.com/news/2000/12/1221amazon.html|last=Smith |first=Donald |title=Explorers Pinpoint Source of the Amazon (National Geographic News) |publisher=National Geographic |date=21 December 2000 |accessdate=15 July 2017}}&lt;/ref&gt; 2007,&lt;ref name=bbc-amazon&gt;{{cite news| title= Amazon river 'longer than Nile' | publisher= BBC News |url= http://news.bbc.co.uk/2/hi/6759291.stm | accessdate= 3 August 2010 | date= 16 June 2007}}&lt;/ref&gt; and 2008,&lt;ref name=inpe&gt;{{cite web|title=Studies from INPE indicate that the Amazon River is 140&amp;nbsp;km longer than the Nile |publisher=Brazilian National Institute for Space Research |url=http://www.inpe.br/ingles/news/news_dest29.php |accessdate=3 August 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110411011122/http://www.inpe.br/ingles/news/news_dest29.php |archivedate=11 April 2011 |df= }}&lt;/ref&gt; where various authors identified the snowcapped {{convert|5597|m|ft|abbr=on}} [[Nevado Mismi]] peak, located roughly {{convert|160|km|mi|abbr=on}} west of [[Lake Titicaca]] and {{convert|700|km|mi|abbr=on}} southeast of [[Lima]], as the most distant source of the river. From that point, Quebrada [[Carhuasanta]] emerges from Nevado Mismi, joins Quebrada Apacheta and soon forms Río Lloqueta which becomes Río Hornillos and eventually joins the [[Apurímac River|Río Apurímac]].
+
+A 2014 study by Americans James Contos and Nicolas Tripcevich in ''[[Area (journal)|Area]]'', a peer-reviewed journal of the [[Royal Geographic Society]], however, identifies the most distant source of the Amazon as actually being in the [[Mantaro River|Río Mantaro]] drainage.&lt;ref name=&quot;ContosTripcevich&quot; /&gt;  A variety of methods were used to compare the lengths of the Mantaro river vs. the Apurímac river from their most distant source points to their confluence, showing the longer length of the Mantaro.  Then distances from Lago Junín to several potential source points in the uppermost Mantaro river were measured, which enabled them to determine that the Cordillera Rumi Cruz was the most distant source of water in the Mantaro basin (and therefore in the entire Amazon basin).  The most accurate measurement method was direct GPS measurement obtained by kayak descent of each of the rivers from their source points to their confluence (performed by Contos). Obtaining these measurements was difficult given the [[International Scale of River Difficulty|class IV–V]] nature of each of these rivers, especially in their lower &quot;Abyss&quot; sections.  Ultimately, they determined that the most distant point in the Mantaro drainage is nearly 80&amp;nbsp;km farther upstream compared to Mt. Mismi in the Apurímac drainage, and thus the maximal length of the Amazon river is about 80&amp;nbsp;km longer than previously thought. Contos continued downstream to the ocean and finished the first complete descent of the Amazon river from its newly identified source (finishing November 2012), a journey repeated by two groups after the news spread.&lt;ref&gt;{{cite web|url=http://blog.geographydirections.com/2014/04/03/redefining-the-upper-amazon-river|last=Contos|first=James (Rocky)|title=Redefining the Upper Amazon River|website=Geography Directions|date=3 April 2014|accessdate=15 July 2017}}&lt;/ref&gt;
+
+After about {{convert|700|km|mi|abbr=on}}, the Apurímac then joins Río Mantaro to form the Ene, which joins the Perene to form the Tambo, which joins the [[Urubamba River]] to form the Ucayali. After the confluence of Apurímac and Ucayali, the river leaves Andean terrain and is surrounded by [[floodplain]]. From this point to the confluence of the Ucayali and the Marañón, some {{convert|1600|km|mi|abbr=on}}, the forested banks are just above the water and are inundated long before the river attains its maximum flood stage.{{sfn|Church|1911|p=789}} The low river banks are interrupted by only a few hills, and the river enters the enormous [[Amazon rainforest]].
+
+=== The Upper Amazon or Solimões ===
+[[File:Amazonas, Iquitos - Leticia, Kolumbien (11472506936).jpg|thumb|250px|Amazon River near [[Iquitos]], Peru]]
+Although the Ucayali–Marañón confluence is the point at which most geographers place the beginning of the Amazon River proper, in Brazil the river is known at this point as the ''[[Solimões]] das Águas''. The river systems and flood plains in Brazil, Peru, Ecuador, Colombia and Venezuela, whose waters drain into the ''Solimões'' and its tributaries, are called the &quot;Upper Amazon&quot;.
+
+The Amazon proper runs mostly through Brazil and Peru, and is part of the border between Colombia and Perú. It has a series of major tributaries in [[Colombia]], [[Ecuador]] and [[Peru]], some of which flow into the [[Marañón River|Marañón]] and [[Ucayali]], and others directly into the Amazon proper. These include rivers [[Putumayo River|Putumayo]], [[Caquetá River|Caquetá]], [[Vaupés River|Vaupés]], [[Rio Negro (Amazon)|Guainía]], [[Morona]], [[Pastaza River|Pastaza]], Nucuray, Urituyacu, [[Chambira River|Chambira]], [[Tigre River|Tigre]], [[Nanay River|Nanay]], [[Napo River|Napo]], and [[Huallaga River|Huallaga]].
+
+At some points the river divides into [[anabranch]]es, or multiple channels, often very long, with inland and lateral [[Stream channel|channels]], all connected by a complicated system of natural canals, cutting the low, flat ''igapó'' lands, which are never more than {{convert|5|m|ft}} above low river, into many islands.{{sfn|Church|1911|p=788}}
+
+From the town of Canaria at the great bend of the Amazon to the Negro, vast areas of land are submerged at high water, above which only the upper part of the trees of the sombre forests appear. Near the mouth of the Rio Negro to Serpa, nearly opposite the river Madeira, the banks of the Amazon are low, until approaching Manaus, they rise to become rolling hills.{{sfn|Church|1911|p=789}}
+
+=== The Lower Amazon ===
+[[File:Manaus Encontro das aguas 10 2006 103 8x6.jpg|thumb|right|250px|[[Meeting of Waters]]; the [[confluence]] of [[Rio Negro (Amazon)|Rio Negro]] (black) and Amazon (sandy) near [[Manaus]], Brazil]]
+[[File:Rio Solimoes and Rio Negro.JPG|thumb|right|250px|Water samples of the [[Solimões]] (left) and [[Rio Negro (Amazon)|Rio Negro]] (right)]]
+
+The Lower Amazon begins where the darkly coloured waters of the Rio Negro meet the sandy coloured [[Solimões|Rio Solimões]], and for over {{convert|6|km|0|abbr=on}} these waters run side by side without mixing. At Óbidos, a bluff {{convert|17|m|ft|abbr=on}} above the river is backed by low hills. The lower Amazon seems to have once been a [[bay|gulf]] of the Atlantic Ocean, the waters of which washed the cliffs near Óbidos.
+
+Only about ten percent of the Amazon's water enters downstream of Óbidos, very little of which is from the northern slope of the valley. The drainage area of the Amazon basin above Óbidos city is about {{convert|5000000|km2|sqmi}}, and, below, only about {{convert|1000000|km2|sqmi}} (around 20%), exclusive of the {{convert|1400000|km2|sqmi}} of the Tocantins basin.{{sfn|Church|1911|p=789}} The [[Tocantins River]] enters the southern portion of the [[Amazon delta]].
+
+In the lower reaches of the river, the north bank consists of a series of steep, table-topped hills extending for about {{convert|240|km|mi}} from opposite the mouth of the Xingu as far as [[Monte Alegre, Pará|Monte Alegre]]. These hills are cut down to a kind of [[Terrace (agriculture)|terrace]] which lies between them and the river.{{sfn|Church|1911|p=788}}
+
+On the south bank, above the Xingu, a line of low bluffs bordering the floodplain extends nearly to [[Santarém, Brazil|Santarém]] in a series of gentle curves before they bend to the southwest, and, abutting upon the lower Tapajós, merge into the bluffs which form the terrace margin of the Tapajós river valley.{{sfn|Church|1911|pp=788–89}}
+
+=== Mouth ===
+[[File:Amazon-river-delta-NASA.jpg|thumb|250px|Satellite image of the mouth of the Amazon River, from the north looking south]]
+[[Belém]] is the major city and port at the mouth of the river at the Atlantic Ocean.  The definition of where exactly the mouth of the Amazon is located, and how wide it is, is a matter of dispute, because of the area's peculiar geography. The Pará and the Amazon are connected by a series of river channels called ''furos'' near the town of [[Breves, Brazil|Breves]]; between them lies [[Marajó]], the world's largest combined river/sea island.
+
+If the Pará river and the Marajó island ocean frontage are included, the Amazon [[estuary]] is some {{convert|325|km|mi}} wide.&lt;ref name=guo /&gt; In this case, the width of the mouth of the river is usually measured from Cabo Norte, the cape located straight east of [[Pracuúba]] in the Brazilian state of [[Amapá]], to Ponta da Tijoca near the town of [[Curuçá]], in the state of [[Pará]].
+
+A more conservative measurement excluding the Pará river estuary, from the mouth of the [[Araguari River (Amapá)|Araguari River]] to Ponta do Navio on the northern coast of Marajó, would still give the mouth of the Amazon a width of over {{convert|180|km|mi}}. If only the river's main channel is considered, between the islands of Curuá (state of Amapá) and Jurupari (state of Pará), the width falls to about {{convert|15|km|mi}}.
+
+The plume generated by the river's discharge covers up to 1.3 million square kilometres and is responsible for muddy bottoms influencing a wide area of the tropical north Atlantic in terms of salinity, pH, light penetration, and sedimentation.&lt;ref name=&quot;auto&quot; /&gt;
+
+=== Dispute regarding length ===
+[[File:Amazon River Taxi.jpg|thumb|250px|River taxi in Peru]]
+While debate as to whether the Amazon or [[Nile|the Nile]] is the world's longest river has gone on for many years, the historic consensus of geographic authorities has been to regard the Amazon as the second longest river in the world, with the Nile being the longest. However, the Amazon has been measured by different geographers as being anywhere between {{convert|6259|and|6992|km|mi}} long. It is often said to be &quot;at least&quot; {{convert|6400|km|mi}} long.&lt;ref name=britannica-amazon&gt;{{cite web | title= Amazon River | publisher= [[Encyclopædia Britannica]] | year= 2010 |url= http://www.britannica.com/EBchecked/topic/18722/Amazon-River | accessdate= 3 August 2010| archiveurl= https://web.archive.org/web/20100909165132/http://www.britannica.com/EBchecked/topic/18722/Amazon-River| archivedate= 9 September 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; The Nile is reported to be anywhere from {{convert|5499|to|6690|km|mi}}. Often it is said to be &quot;about&quot; {{convert|6650|km|mi}} long.&lt;ref name=britannica-nile&gt;{{cite web|title= Nile River |publisher= [[Encyclopædia Britannica]] |year= 2010 |url= http://www.britannica.com/EBchecked/topic/415347/Nile-River |accessdate= 3 August 2010}}&lt;/ref&gt; There are many factors that can affect these measurements.
+
+A study by Brazilian scientists concluded that the Amazon is actually longer than the Nile. Using [[Nevado Mismi]], which in 2001 was labelled by the [[National Geographic Society]] as the Amazon's source, these scientists made new calculations of the Amazon's length. They calculated the Amazon's length as {{convert|6992|km|mi}}. Using the same techniques, they calculated the length of the Nile as {{convert|6853|km|mi}}, which is longer than previous estimates but still shorter than the Amazon. They made it possible by measuring the Amazon downstream to the beginning of the tidal estuary of ''Canal do Sul'' and then, after a sharp turn back, following tidal canals surrounding the isle of Marajó and finally including the marine waters of the ''Río Pará'' bay in its entire length.&lt;ref name=inpe /&gt;&lt;ref&gt;{{cite web|url=http://news.nationalgeographic.com/news/2007/06/070619-amazon-river.html |last=Roach |first=John |title=Amazon Longer Than Nile River, Scientists Say |date=18 June 2007 |website=National Geographic | accessdate=2 August 2017}}&lt;/ref&gt; [[Guido Gelli]], director of science at the [[Brazilian Institute of Geography and Statistics]] (IBGE), told the Brazilian TV network [[Rede Globo|Globo]] in June 2007 that it could be considered as a fact that the Amazon was the longest river in the world. However, other geographers have had access to the same data since 2001, and a consensus has yet to emerge to support the claims of these Brazilian scientists. The length of both the Amazon and the Nile remains open to interpretation and continued debate.&lt;ref name=britannica-amazon /&gt;
+
+== Watershed ==
+{{Main|Amazon basin}}
+The Amazon basin, the largest in the world, covers about 40% of South America, an area of approximately {{convert|7050000|sqkm|sqmi|0}}. It drains from west to east, from [[Iquitos]] in Peru, across Brazil to the Atlantic. It gathers its waters from [[5th parallel north|5 degrees north latitude]] to [[20th parallel south|20 degrees south latitude]]. Its most remote sources are found on the inter-[[Andes|Andean]] plateau, just a short distance from the [[Pacific Ocean]].{{sfn|Church|1911|p=784}} The locals often refer to it as &quot;El Jefe Negro&quot;, referring to an ancient god of fertility.{{Citation needed|date=February 2017}}
+
+The Amazon River and its tributaries are characterised by extensive forested areas that become flooded every rainy season. Every year, the river rises more than {{convert|9|m|ft}}, flooding the surrounding forests, known as ''[[Freshwater swamp forest|várzea]]'' (&quot;flooded forests&quot;). The Amazon's flooded forests are the most extensive example of this habitat type in the world.&lt;ref name=wwf&gt;{{cite web|title= Amazon River and Flooded Forests |publisher= [[World Wide Fund for Nature]] |url= http://www.nationalgeographic.com/wildworld/profiles/g200/g147.html |accessdate= 4 August 2010}}&lt;/ref&gt; In an average [[dry season]], {{convert|110000|km2}} of land are water-covered, while in the [[wet season]], the flooded area of the Amazon basin rises to {{convert|350000|km2}}.&lt;ref name=guo&gt;{{cite book|last= Guo |first= Rongxing |title= Territorial Disputes and Resource Management: A Global Handbook |year= 2006 |publisher= Nova |isbn= 978-1-60021-445-5 |url= https://books.google.com/books?id=z5Le627xQLgC&amp;pg=PA44 |page= 44}}&lt;/ref&gt;
+
+The quantity of water released by the Amazon to the Atlantic Ocean is enormous: up to {{convert|300000|m3/s|cuft/s}} in the rainy season, with an average of {{convert|209000|m3/s|cuft/s}} from 1973 to 1990.&lt;ref&gt;{{cite web|url=http://horizon.documentation.ird.fr/exl-doc/pleins_textes/pleins_textes_6/colloques2/42687.pdf|last=Molinier M ''et al.''|title=Hydrologie du Bassin de l'Amazone|date=22 November 1993|accessdate=16 July 2017|language=French}}&lt;/ref&gt; The Amazon is responsible for about 20% of the Earth's [[freshwater|fresh water]] entering the ocean.&lt;ref name=wwf /&gt; The river pushes a vast plume of fresh water into the ocean. The plume is about {{convert|400|km|mi}} long and between {{convert|100|and|200|km|mi}} wide. The fresh water, being lighter, flows on top of the seawater, diluting the [[salinity]] and altering the colour of the ocean surface over an area up to {{convert|2500000|km2|abbr=on}} in extent. For centuries ships have reported fresh water near the Amazon's mouth yet well out of sight of land in what otherwise seemed to be the open ocean.&lt;ref name=smith /&gt;
+
+The Atlantic has sufficient wave and tidal energy to carry most of the Amazon's [[sediment]]s out to sea, thus the Amazon does not form a true delta. The great deltas of the world are all in relatively protected bodies of water, while the Amazon empties directly into the turbulent Atlantic.&lt;ref name=Penn /&gt;
+
+There is a natural water union between the Amazon and the [[Orinoco]] basins, the so-called [[Casiquiare canal]]. The Casiquiare is a river [[distributary]] of the upper Orinoco, which flows southward into the Rio Negro, which in turn flows into the Amazon. The Casiquiare is the largest river on earth that links two major river systems, a so-called [[River bifurcation|bifurcation]].
+
+=== Flooding ===
+[[File:Amazon-river-NASA.jpg|thumb|250px|[[NASA]] satellite image of a flooded portion of the river]]
+Not all of the Amazon's tributaries flood at the same time of the year. Many branches begin flooding in November and may continue to rise until June. The rise of the Rio Negro starts in February or March and begins to recede in June. The Madeira River rises and falls two months earlier than most of the rest of the Amazon.
+
+The depth of the Amazon between [[Manacapuru]] and [[Óbidos, Brazil|Óbidos]] has been calculated as between {{convert|20|to|26|m|ft}}. At Manacapuru, the Amazon's water level is only about {{convert|24|m|ft}} above [[Sea level|mean sea level]]. More than half of the water in the Amazon downstream of Manacapuru is below sea level.&lt;ref name=junk&gt;{{cite book|last= Junk |first= Wolfgang J. |title= The Central Amazon Floodplain: Ecology of a Pulsing System |year= 1997 |publisher= Springer |isbn= 978-3-540-59276-1 |url= https://books.google.com/books?id=1eMWTwL4rbEC&amp;pg=PA44 |page= 44}}&lt;/ref&gt; In its lowermost section, the Amazon's depth averages {{convert|20|to|50|m|ft}}, in some places as much as {{convert|100|m|ft}}.&lt;ref name=whitton&gt;{{cite book|last= Whitton |first= B.A. |title= River Ecology |year= 1975 |publisher= University of California Press |isbn= 978-0-520-03016-9 |url= https://books.google.com/books?id=q5H_1PtdvrAC&amp;pg=PA462 |page= 462}}&lt;/ref&gt;
+
+The main river is navigable for large ocean steamers to [[Manaus]], {{convert|1500|km|mi}} upriver from the mouth. Smaller ocean vessels of {{convert|3000|or|9000|t}} and {{convert|5.5|m|ft}} [[Draft (hull)|draft]] can reach as far as [[Iquitos]], Peru, {{convert|3600|km|mi}} from the sea. Smaller riverboats can reach {{convert|780|km|mi}} higher, as far as Achual Point. Beyond that, small boats frequently ascend to the [[Pongo de Manseriche]], just above Achual Point in Peru.{{sfn|Church|1911|p=788}}
+
+Annual flooding occurs in late northern latitude winter at high tide when the incoming waters of the [[Atlantic Ocean|Atlantic]] are funnelled into the Amazon delta. The resulting [[Undular bore#In hydraulics|undular]] [[tidal bore]] is called the ''[[pororoca]]'', with a leading wave that can be up to {{convert|25|ft|m}} high and travel up to {{convert|500|mi|km}} inland.&lt;ref&gt;{{cite book|title=Environmental Geology: Facing the Challenges of Our Changing Earth|url=https://books.google.com/books?id=TFTxRdqBZCYC&amp;pg=PA110|pp=110–11|first=Jon|last=Erickson|publisher=Infobase Publishing|date=14 May 2014|accessdate=25 March 2016|isbn=9781438109633}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|work=Scientific American|date=1982|first=David K.|last=Lynch|title=Tidal Bores|url=http://www.thulescientific.com/TidalBores.pdf|accessdate=25 March 2016}}&lt;/ref&gt;
+
+== Geology ==
+The Amazon River originated as a transcontinental river in the [[Miocene]] epoch between 11.8 million and 11.3 million years ago and took its present shape approximately 2.4 million years ago in the Early [[Pleistocene]].
+
+The proto-Amazon during the [[Cretaceous]] flowed west, as part of a proto-Amazon-Congo river system, from the interior of present-day Africa when the continents were connected, forming western [[Gondwana]]. Fifteen million years ago, the main [[tectonic uplift]] phase of the Andean chain started. This tectonic movement is caused by the subduction of the [[Nazca Plate]] underneath the [[South American Plate]]. The rise of the Andes and the linkage of the Brazilian and [[Guayana Shield|Guyana]] bedrock shields,{{clarify|date=February 2017}} blocked the river and caused the Amazon Basin to become a vast inland sea. Gradually, this inland sea became a massive swampy, freshwater lake and the marine inhabitants adapted to life in freshwater. For example, over 20 species of stingray, most closely related to those found in the Pacific Ocean, can be found today in the freshwaters of the Amazon.{{Citation needed|date=February 2017}}
+
+Eleven to ten million years ago, waters worked through the [[sandstone]] from the west and the Amazon began to flow eastward, leading to the emergence of the Amazon rainforest. During [[glacial period]]s, sea levels dropped and the great Amazon lake rapidly drained and became a river, which would eventually become the world's largest, draining the most extensive area of rainforest on the planet.&lt;ref&gt;{{cite journal|first= J. |last= Figueiredo |first2= C. |last2= Hoorn |first3= P. |last3= van der Ven |first4= E. |last4= Soares |title= Late Miocene onset of the Amazon River and the Amazon deep-sea fan: Evidence from the Foz do Amazonas Basin |journal= Geology |year= 2009 |volume= 37 |issue= 7 |pages= 619–22 |doi= 10.1130/g25567a.1 }}&lt;/ref&gt;
+
+Paralleling the Amazon River is a large aquifer, dubbed the [[Hamza River]], the discovery of which was made public in August 2011.&lt;ref name=&quot;tv.ibtimes.com&quot;&gt;{{cite web|url=http://tv.ibtimes.com/massive-river-found-flowing-beneath-the-amazon/1753.html |title=Massive River Found Flowing Beneath the Amazon |accessdate=2011-09-08 |deadurl=bot: unknown |archiveurl=https://archive.is/20111110171150/http://tv.ibtimes.com/massive-river-found-flowing-beneath-the-amazon/1753.html |archivedate=10 November 2011 |df=dmy }}&lt;/ref&gt;
+
+== Protected areas ==
+{| class=&quot;wikitable sortable mw-collapsible&quot;
+! Name
+! Country
+! Coordinates
+! Image
+! Notes
+|-
+| [[Allpahuayo-Mishana National Reserve]] || [[Peru]] || {{coord|3|56|S|73|33|W|display=inline}} || [[File:Crypturellus duidae.JPG|center|150px]] || {{center|&lt;ref&gt;{{cite web |url=http://www.sernanp.gob.pe/allpahuayo-mishana |title=Allpahuayo Mishana |publisher=Servicio Nacional de Áreas Naturales Protegidas por el Estado |language=es}}&lt;/ref&gt;}}
+|-
+| [[Amacayacu National Park]] || [[Colombia]] || {{coord|3|29|S|72|12|W|display=inline}} || [[File:Riverguama1.jpg|center|150px]] || {{center|&lt;ref&gt;{{cite web |url=http://www.parquesnacionales.gov.co/portal/es/ecoturismo/region-amazonia/parque-nacional-natural-amacayacu/ |title=Parque Nacional Natural Amacayacu |publisher=Parques Nacionales Naturales de Colombia |language=es}}&lt;/ref&gt;}}
+|-
+| [[Amazônia National Park]] || [[Brazil]] || {{coord|4|26|S|56|50|W|display=inline}} || [[File:Amazonia por Flaviz Guerra 02.jpg|center|150px]] || {{center|&lt;ref&gt;{{cite web |url=https://uc.socioambiental.org/en/uc/481 |title=Parna da Amazônia |publisher=Instituto Socioambiental (ISA)}}&lt;/ref&gt;}}
+|-
+| [[Anavilhanas National Park]] || [[Brazil]] || {{coord|2|23|S|60|55|W|display=inline}} || [[File:Anavilhanas2.jpg|center|150px]] || {{center|&lt;ref&gt;{{cite web |url=https://uc.socioambiental.org/uc/564 |title=Parna de Anavilhanas |publisher=Instituto Socioambiental (ISA)}}&lt;/ref&gt;}}
+|-
+|}
+
+== Flora and fauna ==
+{{see also|Biodiversity of Colombia#Amazon natural region}}
+
+=== Flora ===
+{{expand section|date=February 2017}}
+
+=== Fauna ===
+[[File:Pesca Esportiva na Amazônia 14.JPG|thumb|250px|[[Cichla|Cichlid]] native to rivers of the Amazon basin]]
+
+More than one-third of all known species in the world live in the [[Amazon rainforest]],&lt;ref&gt;{{cite web|url=http://web.worldbank.org/WBSITE/EXTERNAL/NEWS/0,,contentMDK:20757099~pagePK:64257043~piPK:437376~theSitePK:4607,00.html |last=World Bank |title=Brazilian Amazon rain forest fact sheet |date=15 December 2005 |accessdate=16 July 2017}}&lt;/ref&gt; a giant tropical forest and river basin with an area that stretches more than {{convert|5400000|km2|sqmi}}. It is the richest tropical forest in the world in terms of [[biodiversity]]. There are over 3,000 species of fish currently recognised in the Amazon basin, with more being discovered every year.&lt;ref&gt;{{cite book |editor1-last=Albert |editor1-first=J. S. |editor2-first=R. E. |editor2-last=Reis |year=2011 |title=Historical Biogeography of Neotropical Freshwater Fishes |publisher=[[University of California]] Press |location=Berkeley}}&lt;/ref&gt; In addition to the thousands of species of fish, the river supports crabs, algae, and turtles.
+
+==== Mammals ====
+[[File:NOVO AIRÃO.JPG|thumb|250px|[[Amazon river dolphin]]]]
+Along with the Orinoco, the Amazon is one of the main habitats of the ''[[boto]]'', also known as the [[Amazon river dolphin]] (''Inia geoffrensis''). It is the largest species of [[river dolphin]], and it can grow to lengths of up to {{convert|2.6|m}}. The colour of its skin changes with age; young animals are gray, but become pink and then white as they mature. The dolphins use [[Animal echolocation|echolocation]] to navigate and hunt in the river's tricky depths.&lt;ref&gt;{{cite web|title=Amazon River Dolphin|url=http://rainforest-alliance.org/kids/species-profiles/river-dolphin|publisher=Rainforest Alliance|accessdate=20 March 2011}}&lt;/ref&gt; The ''boto'' is the subject of a legend in Brazil about a [[dolphin]] that turns into a man and seduces maidens by the riverside.{{Citation needed|date=February 2017}}
+
+The [[tucuxi]] (''Sotalia fluviatilis''), also a dolphin species, is found both in the rivers of the Amazon basin and in the coastal waters of South America. The [[Amazonian manatee]] (''Trichechus inunguis''), also known as &quot;seacow&quot;, is found in the northern Amazon River basin and its tributaries. It is a mammal and a herbivore. Its population is limited to freshwater habitats, and, unlike other manatees, it does not venture into salt water. It is classified as vulnerable by the [[International Union for Conservation of Nature]].{{Citation needed|date=February 2017}}
+
+The Amazon and its tributaries are the main habitat of the [[giant otter]] (''Pteronura brasiliensis''). It is a member of the [[Mustelidae|weasel]] family and is the largest of its kind. Because of habitat destruction and hunting, its population has dramatically decreased.{{Citation needed|date=February 2017}}
+
+==== Birds ====
+{{expand section|date=February 2017}}
+
+==== Reptiles ====
+{{expand section|date=February 2017}}
+The [[anaconda]] is found in shallow waters in the Amazon basin. One of the world's largest species of snake, the anaconda spends most of its time in the water with just its nostrils above the surface. The [[caiman]], which is related to alligators and other crocodilians, also inhabits the Amazon as do varieties of turtles.{{Citation needed|date=February 2017}}
+
+==== Fish ====
+[[File:Piranha1.jpg|thumb|250px|[[Characin]]s, such as the [[piranha]] species, are prey for the [[giant otter]], but these aggressive fish may also pose a danger to humans.]]
+The Amazonian fish fauna is the centre of diversity for [[neotropical fishes]]. 5,600 species are currently known, and approximately fifty new species are discovered each year.&lt;ref name=&quot;AlbertReis2011&quot;&gt;{{cite book|author1=James S. Albert|author2=Roberto E. Reis|title=Historical Biogeography of Neotropical Freshwater Fishes|url=https://books.google.com/books?id=_Suu7a-ERdMC&amp;pg=PA308#v=onepage&amp;q=paraspecies&amp;f=false|accessdate=28 June 2011|date=8 March 2011|publisher=University of California Press|page=308|isbn=978-0-520-26868-5}}&lt;/ref&gt;&lt;ref&gt;{{cite book|url=https://books.google.com/books/?id=Ji1cApN3NogC&amp;pg=PA27|last=Wohl|first=Ellen|title=A World of Rivers: Environmental Change on Ten of the World's Great Rivers|location=Chicago|date=2011|page=27|isbn=0-226-90478-4}}&lt;/ref&gt; The [[arapaima]], known in Brazil as the ''pirarucu'', is a South American tropical [[freshwater fish]], one of the largest freshwater fish in the world, with a length of up to {{convert|15|ft|m}}.&lt;ref&gt;[http://news.nationalgeographic.com/news/2007/07/070724-giant-fish.html Megafishes Project to Size Up Real &quot;Loch Ness Monsters&quot;]. ''National Geographic''.&lt;/ref&gt; Another Amazonian freshwater fish is the [[arowana]] (or ''aruanã'' in Portuguese), such as the [[silver arowana]] (''[[Osteoglossum bicirrhosum]]''), which is a predator and very similar to the arapaima, but only reaches a length of {{convert|120|cm}}. Also present in large numbers is the notorious [[piranha]], an omnivorous fish that congregates in large schools and may attack livestock and even humans. There are approximately 30 to 60 species of piranha. However, only a few of its species are known to attack humans, most notably ''[[Pygocentrus nattereri]]'', the red-bellied piranha. The [[candirú]], native to the Amazon River, is a species of parasitic fresh water [[catfish]] in the family [[Trichomycteridae]],&lt;ref&gt;{{cite web|url=http://www.britannica.com/EBchecked/topic/92428/candiru|title=Candiru (fish)|work=[[Encyclopædia Britannica Online]]|accessdate=18 July 2014}}&lt;/ref&gt; just one of more than 1200 species of catfish in the Amazon basin. Other catfish 'walk' overland on their ventral fins,&lt;ref&gt;{{cite book|url=https://books.google.com/books/?id=Ji1cApN3NogC&amp;pg=PA27|last=Wohl|first=Ellen|title=A World of Rivers: Environmental Change on Ten of the World's Great Rivers|location=Chicago|date=2011|pages=27–29|isbn=0-226-90478-4}}&lt;/ref&gt; while the [[kumakuma]] (''Brachyplatystoma filamentosum''), aka ''piraiba'' or &quot;goliath catfish&quot;, can reach {{convert|3.6|m|ft}} in length and {{convert|200|kg|lb}} in weight.&lt;ref&gt;{{cite book|url=https://books.google.com/books?id=eGGqGYEQXDkC&amp;pg=PA31|title=Fish Conservation: A Guide to Understanding and Restoring Global Aquatic Biodiversity and Fishery Resources|first=Gene S.|last=Helfman|page=31|publisher=Island Press|date=15 July 2007|accessdate=28 March 2016|isbn=9781597267601}}&lt;/ref&gt; The [[electric eel]] (''Electrophorus electricus'') and more than 100 species of electric fishes ([[Gymnotiformes]]) inhabit the Amazon basin. River stingrays ([[Potamotrygonidae]]) are also known. The [[bull shark]] (''Carcharhinus leucas'') has been reported {{convert|4000|km|mi}} up the Amazon River at [[Iquitos]] in Peru.{{Citation needed|date=February 2017}}
+
+==== Microbiota ====
+Freshwater microbes are generally not very well known, even less so for a pristine ecosystem like the Amazon. Recently, [[metagenomics]] has provided answers to what kind of microbes inhabit the river.&lt;ref name=&quot;amazonMetagenome&quot;&gt;{{cite journal |vauthors=Ghai R, Rodriguez-Valera F, McMahon KD |title=Metagenomics of the water column in the pristine upper course of the Amazon river |journal=PLoS ONE |volume=6 |issue=8 |pages=e23785 |year=2011 |doi=10.1371/journal.pone.0023785 |url=http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0023785 |pmid=21915244 |pmc=3158796 |display-authors=etal}}&lt;/ref&gt; The most important microbes in the Amazon River are [[Actinobacteria]], [[Alphaproteobacteria]], [[Betaproteobacteria]], [[Gammaproteobacteria]] and [[Crenarchaeota]].
+
+== Major tributaries ==
+[[File:Aerial view of the Amazon Rainforest.jpg|thumb|right|250px|[[Solimões]], the section of the upper Amazon River]]
+[[File:Amazonie jt01.png|thumb|Aerial view of an Amazon tributary]]
+The Amazon has over 1,100 [[Tributary|tributaries]], 12 of which are over {{convert|1500|km}} long.&lt;ref&gt;Tom Sterling: ''Der Amazonas''. Time-Life Bücher 1979, 8th German Printing, p. 20.&lt;/ref&gt; Some of the more notable ones are:
+
+{{colbegin||15em}}
+* [[Branco River|Branco]]
+* [[Casiquiare canal]]
+* [[Caqueta River]]
+* [[Huallaga River|Huallaga]]
+* [[Putumayo River|Putumayo (or Içá River)]]
+* [[Javary River|Javary]]
+* [[Juruá River|Juruá]]
+* [[Madeira River|Madeira]]
+* [[Marañón River|Marañón]]
+* [[Morona]]
+* [[Nanay River|Nanay]]
+* [[Napo River|Napo]]
+* [[Rio Negro (Amazon)|Negro]]
+* [[Pastaza River|Pastaza]]
+* [[Purús River|Purús]]
+* [[Tambo River (Peru)|Tambo]]
+* [[Tapajós]]
+* [[Tigre River|Tigre]]
+* [[Tocantins River|Tocantins]]
+* [[Trombetas]]
+* [[Ucayali River|Ucayali]]
+* [[Xingu River|Xingu]]
+* [[Japurá River|Yapura]]
+{{colend}}
+
+=== List by length ===
+# {{Convert|6259|km|mi|abbr=on}} to {{convert|6992|km|mi|abbr=on}} – Amazon, South America&lt;ref&gt;{{cite web|url=http://www.extremescience.com/amazon-river.htm |last=Extreme Science |title=World's Greatest River: The Amazon |date=2015 |accessdate=16 July 2017}}&lt;/ref&gt;
+# {{Convert|3250|km|mi|abbr=on}} – [[Madeira River|Madeira]], Bolivia/Brazil&lt;ref&gt;{{cite web|url=http://www.talktalk.co.uk/reference/encyclopaedia/hutchinson/m0023864.html |title=Madeira (river) |publisher=Talktalk.co.uk |accessdate=13 February 2011}}&lt;/ref&gt;
+# {{Convert|3211|km|mi|abbr=on}} – [[Purús River|Purús]], Peru/Brazil&lt;ref&gt;{{cite web|url=http://www.answers.com/topic/purus-river-geoglam-in-encyclopedia |title=Purus River: Information from |publisher=Answers.com |accessdate=13 February 2011}}&lt;/ref&gt;
+# {{Convert|2820|km|mi|abbr=on}} – [[Japurá River|Japurá or Caquetá]], Colombia/Brazil&lt;ref&gt;{{cite web|url=http://www.britannica.com/EBchecked/topic/301337/Japura-River |last=McKenna |first=Amy |title=Japurá River (river, South America) |website=Encyclopædia Britannica |date=9 February 2007 |accessdate=16 July 2017}}&lt;/ref&gt;
+# {{Convert|2639|km|mi|abbr=on}} – [[Tocantins River|Tocantins]], Brazil&lt;ref&gt;{{cite web|url=http://www.infoplease.com/encyclopedia/places/latin-america-and-the-caribbean/latin-american-and-caribbean-physical-geography/tocantins-river-brazil |last=Infoplease |title=Tocantins |date=2012 |accessdate=2 August 2017}}&lt;/ref&gt;
+# {{Convert|2627|km|mi|abbr=on}} – [[Araguaia River|Araguaia]], Brazil (tributary of Tocantins)&lt;ref&gt;{{cite web|url=http://www.britannica.com/EBchecked/topic/31943/Araguaia-River |title=Araguaia River (river, Brazil) – Encyclopædia Britannica |work=Encyclopædia Britannica |accessdate=13 February 2011}}&lt;/ref&gt;
+# {{Convert|2400|km|mi|abbr=on}} – [[Juruá River|Juruá]], Peru/Brazil&lt;ref&gt;{{cite web|url=http://www.answers.com/topic/ju-ru-river |title=Juruá River: Information from |publisher=Answers.com |accessdate=13 February 2011}}&lt;/ref&gt;
+# {{Convert|2250|km|mi|abbr=on}} – [[Rio Negro (Amazon)|Rio Negro]], Brazil/Venezuela/Colombia&lt;ref&gt;{{cite web|url=http://www.answers.com/topic/negro-river-chaco |title=Negro River: Information from |publisher=Answers.com |accessdate=13 February 2011}}&lt;/ref&gt;
+# {{Convert|1992|km|mi|abbr=on}} – [[Tapajós]], Brazil&lt;ref&gt;{{cite web|url=http://www.britannica.com/EBchecked/topic/583075/Tapajos-River |title=Tapajos River (river, Brazil) – Encyclopædia Britannica |work=Encyclopædia Britannica |accessdate=13 February 2011}}&lt;/ref&gt;
+# {{Convert|1979|km|mi|abbr=on}} – [[Xingu River|Xingu]], Brazil&lt;ref&gt;{{cite web|url=http://www.internationalrivers.org/en/xingu |title=Xingu River |publisher=International Rivers |accessdate=13 February 2011}}&lt;/ref&gt;
+# {{Convert|1900|km|mi|abbr=on}} – [[Ucayali River]], Peru&lt;ref&gt;{{cite web|url=http://geography.howstuffworks.com/south-america/the-ucayali-river.htm |title=HowStuffWorks &quot;The Ucayali River&quot; |publisher=Geography.howstuffworks.com |date=30 March 2008 |accessdate=13 February 2011}}&lt;/ref&gt;
+# {{Convert|1749|km|mi|abbr=on}} – [[Guaporé River|Guaporé]], Brazil/Bolivia (tributary of Madeira)&lt;ref&gt;{{cite web|url=http://www.britannica.com/EBchecked/topic/247824/Guapore-River |title=Guapore River (river, South America) – Encyclopædia Britannica |work=Encyclopædia Britannica |accessdate=13 February 2011}}&lt;/ref&gt;
+# {{Convert|1575|km|mi|abbr=on}} – [[Putumayo River|Içá (Putumayo)]], Ecuador/Colombia/Peru
+# {{Convert|1415|km|mi|abbr=on}} – [[Marañón River|Marañón]], Peru
+# {{Convert|1370|km|mi|abbr=on}} – [[Teles Pires]], Brazil (tributary of Tapajós)
+# {{Convert|1300|km|mi|abbr=on}} – [[Iriri River|Iriri]], Brazil (tributary of Xingu)
+# {{Convert|1240|km|mi|abbr=on}} – [[Juruena River|Juruena]], Brazil (tributary of Tapajós)
+# {{Convert|1130|km|mi|abbr=on}} – [[Madre de Dios River|Madre de Dios]], Peru/Bolivia (tributary of Madeira)
+# {{Convert|1100|km|mi|abbr=on}} – [[Huallaga River|Huallaga]], Peru (tributary of Marañón)
+
+== See also ==
+{{portal|Geography|Brazil|Colombia|Ecuador|Peru}}
+* [[Amazon natural region]]
+* [[1930 Curuçá River event]]
+* [[Hamza River]]
+* [[Peruvian Amazon]]
+
+{{Clear}}
+
+== References ==
+{{Reflist|30em}}
+
+=== Bibliography ===
+* {{EB1911 |last=Church |first=George Earl |authorlink=George Earl Church |wstitle=Amazon |volume=1 |pages=783–90}}
+* {{cite book |last=Wohl |first=Ellen |year=2011 |title=The Amazon: Rivers of Blushing Dolphins |work=A World of Rivers |publisher=The [[University of Chicago]] Press}}
+
+== External links ==
+{{Sister project links
+|1=Amazon River |collapsible=yes |display=Amazon river |author= |commonscat=yes
+|b=no |c=Amazon river |d=Q3783 |m=no |mw=no |n=no |q=no |s=The New International Encyclopædia/Amazon |species=no |species_author=no |v=no |voy=Voyaging along the Amazon River |wikt=no
+}}
+* [http://www.extremescience.com/AmazonRiver.htm Information on the Amazon from Extreme Science]
+* [http://jordibusque.com/en/story/amazonas/CF0646-DSC_5912.jpg#/CF0646-DSC_5912.jpg A photographic journey up the Amazon River from its mouth to its source]
+* [http://www.lightandshadow.tv/index.php?option=com_content&amp;view=article&amp;id=57&amp;Itemid=113&amp;lang=en Amazon Alive: Light &amp; Shadow documentary film about the Amazon river]
+* [http://www.discover-peru.org/peru-geography-amazon-river-ecosystem/ Amazon River Ecosystem]
+* [http://dornsife.usc.edu/labs/capone/anacondas Research on the influence of the Amazon River on the Atlantic Ocean at the University of Southern California]
+* {{osmrelation-inline|2295651}}
+
+{{Treasures of Colombia}}
+{{New7Wonders of Nature|state=expanded}}
+
+{{Authority control}}
+
+[[Category:Amazon River| ]]
+[[Category:Amazon basin]]
+[[Category:Amazon rainforest]]
+[[Category:Upper Amazon]]
+[[Category:Rivers of South America]]
+[[Category:International rivers of South America]]
+[[Category:Rivers of Colombia]]
+[[Category:Rivers of Ecuador]]
+[[Category:Rivers of Peru]]
+[[Category:Colombia–Peru border]]
+[[Category:Rivers of Amapá]]
+[[Category:Rivers of Amazonas (Brazilian state)]]
+[[Category:Rivers of Loreto Region]]
+[[Category:Rivers of Pará]]</text>
+<sha1>fyztrspwrremi52c5bhagumy91f1vnl</sha1>
+</revision>
+</page>
