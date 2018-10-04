@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # =================================================================================================
-# Program		: Language Model Predictor Preprocessor
+# Program		: Interactive Sentence Predictor Preprocessor
 # Script		: run.sh
 # Developer		: Christian Westbrook
 # Abstract		: This script facilitates the execution of the preprocessor for the language
