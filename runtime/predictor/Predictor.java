@@ -252,8 +252,6 @@ public class Predictor {
                 log = Math.log10(((double) bigrams.get(s) + 1) / (unigrams.get(w1) + misc.get("UNI_V")));
 
                 if (log > min) {
-                    
-                    System.out.println(((double) bigrams.get(s) + 1) / (unigrams.get(w1) + misc.get("UNI_V")));
 
                     min = log;
                     res.setValues(e, min);
@@ -283,7 +281,7 @@ public class Predictor {
         if (unigrams.containsKey(w1)) {
             // P( w2 | w1) = 0 , if w2 is unknown.
             // If we know w1 but don't know w2, the probability would be 1 in Laplace Smoothing.
-            res = Math.log10(((double) freq + 1) / (unigrams.get(w1) + misc.get("UNI_V")));
+            res = Math.log10(((double) freq + 1) / (unigrams.get(w1) + (misc.get("UNI_V") + 1)));
         }
 
         return res;
@@ -310,8 +308,6 @@ public class Predictor {
             s = ((Map.Entry) i.next()).getKey().toString();
 
             if (s.matches(w1 + " " + w2 + " .+")) {
-                
-                System.out.println("HERE!");
 
                 e = s.split(" ")[2];
 
