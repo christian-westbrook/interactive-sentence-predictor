@@ -1,4 +1,5 @@
-﻿Interactive Sentence Predictor README
+﻿Interactive Sentence Predictor 
+README
 
 Repository: https://github.com/christian-westbrook/interactive-sentence-predictor.git
 Developers: Renae Fisher, Zachary Rowton, Christian Westbrook
@@ -66,3 +67,5 @@ Developers: Renae Fisher, Zachary Rowton, Christian Westbrook
 	└── run.sh
 
 8 directories, 32 files
+
+
