@@ -2,7 +2,6 @@
 Copyright © Renae Fisher, Zachary Rowton, and Christian Westbrook 2018. All rights reserved.
 
 Repository: https://github.com/christian-westbrook/interactive-sentence-predictor.git
-Developers: Renae Fisher, Zachary Rowton, Christian Westbrook
 
 1. PREPROCESSOR
 
