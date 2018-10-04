@@ -1,7 +1,7 @@
 Language Model Predictor README
 
 Repository: language-model-predictor
-Developers: Renae Fischer, Zachary Rowton, Christian Westbrook
+Developers: Renae Fisher, Zachary Rowton, Christian Westbrook
 
 1. PREPROCESSOR
 
