@@ -1,6 +1,6 @@
-Language Model Predictor README
+﻿Interactive Sentence Predictor README
 
-Repository: language-model-predictor
+Repository: https://github.com/christian-westbrook/interactive-sentence-predictor.git
 Developers: Renae Fisher, Zachary Rowton, Christian Westbrook
 
 1. PREPROCESSOR

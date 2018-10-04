@@ -1,5 +1,5 @@
 //=================================================================================================
-// Program		: Language Model Predictor Preprocessor
+// Program		: Interactive Sentence Predictor
 // Class		: Predictor.java
 // Developer		: Renae Fisher
 // Abstract		: This program accepts a String input from Voce, which is used to

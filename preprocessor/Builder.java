@@ -1,5 +1,5 @@
 //=================================================================================================
-// Program		: Language Model Predictor Preprocessor
+// Program		: Interactive Sentence Predictor Preprocessor
 // Class		: Build.java
 // Developer	: Christian Westbrook
 // Abstract		: This program inputs token and frequency data and builds a series of ngram tables
