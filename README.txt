@@ -3,7 +3,7 @@ Language Model Predictor README
 Repository: language-model-predictor
 Developers: Renae Fischer, Zachary Rowton, Christian Westbrook
 
-1. RUNNING PREPROCESSOR
+1. PREPROCESSOR
 
 	To run the preprocessor first place any training data in the
 	directory ./preprocessor/tokenizer/training-data.
@@ -12,7 +12,7 @@ Developers: Renae Fischer, Zachary Rowton, Christian Westbrook
 
 	The output data is accessible by the runtime application.
 
-2. RUNNING RUNTIME APPLICATION
+2. RUNTIME
 
 3. FILE MANIFEST
 
