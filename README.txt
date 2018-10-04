@@ -38,6 +38,15 @@ Developers: Renae Fisher, Zachary Rowton, Christian Westbrook
         │   ├── metrics.dat
         │   ├── trigrams.map
         │   └── unigrams.map
+	├── lib
+	│   ├── cmu_us_kal.jar
+	│   ├── cmulex.jar
+	│   ├── en_us.jar
+	│   ├── freetts.jar
+	│   ├── jsapi.jar
+	│   ├── sphinx4.jar
+	│   ├── voce.jar
+	│   ├── WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar
         ├── Load.java
         ├── NatLangPredGUI.java
         ├── Node.java
@@ -46,6 +55,8 @@ Developers: Renae Fisher, Zachary Rowton, Christian Westbrook
         ├── SpeechRecognizer.java
         ├── SpeechSynthesizer.java
         ├── TestLoad.java
-        └── Utils.java
+        ├── Utils.java
+	├── build.sh
+	└── run.sh
 
-7 directories, 23 files
+8 directories, 32 files
