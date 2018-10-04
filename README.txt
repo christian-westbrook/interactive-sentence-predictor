@@ -12,7 +12,7 @@ Repository: https://github.com/christian-westbrook/interactive-sentence-predicto
 
 	The output data is accessible by the runtime application.
 
-2. RUNTIME
+2. RUNTIME APPLICATION
 
 	To load the runtime application, find run.sh in the predictor directory and execute it. 
 	If you only want to compile all files in the predictor directory, execute build.sh.
