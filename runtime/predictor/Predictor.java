@@ -1,5 +1,5 @@
 //=================================================================================================
-// Program		: Interactive Sentence Predictor
+// Program		: Language Model Predictor Preprocessor
 // Class		: Predictor.java
 // Developer		: Renae Fisher
 // Abstract		: This program accepts a String input from Voce, which is used to
@@ -88,7 +88,12 @@ public class Predictor {
         if (count > 0) {
 
             n = bigramMLE(w1);
-            prob = prob + n.getProb();
+                
+            if(n == null) {
+                prob = prob + Math.log(0.0);
+            } else {
+                prob = prob + n.getProb();
+            }
 
             sb.append(n.getVal() + " ");
 
@@ -164,7 +169,7 @@ public class Predictor {
 
             n = trigramMLE(w1, w2);
 
-            if (n.getProb() == Double.NEGATIVE_INFINITY) {
+            if (n == null) {
 
                 n = bigramMLE(w2);
 
@@ -232,7 +237,7 @@ public class Predictor {
     // ===========================================================================================================
     public Node bigramMLE(String w1) {
 
-        Node res = new Node("", Double.NEGATIVE_INFINITY);
+        Node res = null;
         String s;
         String e;
         double min = Double.NEGATIVE_INFINITY;
@@ -253,9 +258,14 @@ public class Predictor {
 
                 if (log > min) {
 
-                    min = log;
-                    res.setValues(e, min);
-
+                    min = log; 
+                    
+                    if(res == null) {
+                        res = new Node(e,min);
+                    } else {
+                        res.setValues(e, min);
+                    }
+                    
                 }
 
             }
@@ -295,20 +305,20 @@ public class Predictor {
     // ===========================================================================================================
     public Node trigramMLE(String w1, String w2) {
 
-        Node res = new Node("", Double.NEGATIVE_INFINITY);
+        Node res = null;
         String s;
         String e;
         double min = Double.NEGATIVE_INFINITY;
         double log;
 
-        Iterator i = bigrams.entrySet().iterator();
+        Iterator i = trigrams.entrySet().iterator();
 
         while (i.hasNext()) {
 
             s = ((Map.Entry) i.next()).getKey().toString();
 
             if (s.matches(w1 + " " + w2 + " .+")) {
-
+                
                 e = s.split(" ")[2];
 
                 log = Math.log10((double) trigrams.get(s) / bigrams.get(w1 + " " + w2));
@@ -316,7 +326,12 @@ public class Predictor {
                 if (log > min) {
 
                     min = log;
-                    res.setValues(e, min);
+                    
+                    if(res == null) {
+                        res = new Node(e, min);
+                    } else {
+                        res.setValues(e, min);
+                    }
 
                 }
 
