@@ -23,7 +23,7 @@
  *                                                                       *
  *************************************************************************/
 
-package voce;
+
 
 /// A collection of utility functions used in 
 /// Voce.

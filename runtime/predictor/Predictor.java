@@ -310,6 +310,8 @@ public class Predictor {
             s = ((Map.Entry) i.next()).getKey().toString();
 
             if (s.matches(w1 + " " + w2 + " .+")) {
+                
+                System.out.println("HERE!");
 
                 e = s.split(" ")[2];
 
