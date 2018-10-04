@@ -16,4 +16,36 @@ Developers: Renae Fischer, Zachary Rowton, Christian Westbrook
 
 3. FILE MANIFEST
 
+.
+├── preprocessor
+│   ├── Builder.class
+│   ├── Builder.java
+│   ├── run.sh
+│   └── tokenizer
+│       ├── output
+│       │   └── tokens.out
+│       ├── PS3.jj
+│       └── training-data
+│           ├── 1.html
+│           ├── 2.html
+│           ├── 3.html
+│           └── 4.html
+├── README.txt
+└── runtime
+    └── predictor
+        ├── data
+        │   ├── bigrams.map
+        │   ├── metrics.dat
+        │   ├── trigrams.map
+        │   └── unigrams.map
+        ├── Load.java
+        ├── NatLangPredGUI.java
+        ├── Node.java
+        ├── Predictor.java
+        ├── SpeechInterface.java
+        ├── SpeechRecognizer.java
+        ├── SpeechSynthesizer.java
+        ├── TestLoad.java
+        └── Utils.java
 
+7 directories, 23 files
