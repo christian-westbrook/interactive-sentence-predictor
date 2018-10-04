@@ -1,0 +1,25 @@
+<page>
+<title>AbacuS</title>
+<ns>0</ns>
+<id>46</id>
+<redirect title="Abacus" />
+<revision>
+<id>783822039</id>
+<parentid>46448989</parentid>
+<timestamp>2017-06-04T21:45:26Z</timestamp>
+<contributor>
+<username>Tom.Reding</username>
+<id>9784415</id>
+</contributor>
+<minor />
+<comment>+{{R category shell}} using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Abacus]]
+
+{{Redirect category shell|1=
+{{R from CamelCase}}
+}}</text>
+<sha1>tdzgf1eon4l1v0cjer5nnwg0y1enxye</sha1>
+</revision>
+</page>

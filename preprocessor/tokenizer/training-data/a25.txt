@@ -1,0 +1,25 @@
+<page>
+<title>AbbeY</title>
+<ns>0</ns>
+<id>51</id>
+<redirect title="Abbey" />
+<revision>
+<id>783822273</id>
+<parentid>46449123</parentid>
+<timestamp>2017-06-04T21:47:26Z</timestamp>
+<contributor>
+<username>Tom.Reding</username>
+<id>9784415</id>
+</contributor>
+<minor />
+<comment>+{{R category shell}} using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Abbey]]
+
+{{Redirect category shell|1=
+{{R from CamelCase}}
+}}</text>
+<sha1>i34g7clpyhg8owohmdrpye83d58binv</sha1>
+</revision>
+</page>

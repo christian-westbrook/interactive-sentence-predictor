@@ -1,0 +1,21 @@
+<page>
+<title>Alpha ray</title>
+<ns>0</ns>
+<id>1245</id>
+<redirect title="Alpha particle" />
+<revision>
+<id>498957793</id>
+<parentid>15899740</parentid>
+<timestamp>2012-06-23T08:14:36Z</timestamp>
+<contributor>
+<username>Graham87</username>
+<id>194203</id>
+</contributor>
+<minor />
+<comment>1 revision from [[:nost:Alpha ray]]: import old edit, see [[User:Graham87/Import]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Alpha particle]]</text>
+<sha1>8n7jo7bi3p34cj07j0p0hk12jf4tupy</sha1>
+</revision>
+</page>

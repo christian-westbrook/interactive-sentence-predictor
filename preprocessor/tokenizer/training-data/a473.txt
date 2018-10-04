@@ -1,0 +1,25 @@
+<page>
+<title>Atomic orbitals</title>
+<ns>0</ns>
+<id>1205</id>
+<redirect title="Atomic orbital" />
+<revision>
+<id>783827011</id>
+<parentid>160878490</parentid>
+<timestamp>2017-06-04T22:26:52Z</timestamp>
+<contributor>
+<username>Tom.Reding</username>
+<id>9784415</id>
+</contributor>
+<minor />
+<comment>+{{R category shell}} using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Atomic orbital]]
+
+{{Redirect category shell|1=
+{{R from plural}}
+}}</text>
+<sha1>rwrtiif96zdhvit24go9e95ne1qx6ql</sha1>
+</revision>
+</page>

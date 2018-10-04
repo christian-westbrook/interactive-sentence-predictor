@@ -1,0 +1,25 @@
+<page>
+<title>Albania/History</title>
+<ns>0</ns>
+<id>755</id>
+<redirect title="History of Albania" />
+<revision>
+<id>783824809</id>
+<parentid>629644964</parentid>
+<timestamp>2017-06-04T22:07:39Z</timestamp>
+<contributor>
+<username>Tom.Reding</username>
+<id>9784415</id>
+</contributor>
+<minor />
+<comment>+{{R category shell}} using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[History of Albania]]
+
+{{Redirect category shell|1=
+{{R from subpage}}
+}}</text>
+<sha1>1kyeyme8lnpr0stskbsgdhzlaqfk17e</sha1>
+</revision>
+</page>

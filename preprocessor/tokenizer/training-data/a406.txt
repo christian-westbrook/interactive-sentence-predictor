@@ -1,0 +1,113 @@
+<page>
+<title>Politics of Armenia</title>
+<ns>0</ns>
+<id>1093</id>
+<revision>
+<id>789491660</id>
+<parentid>784846964</parentid>
+<timestamp>2017-07-07T17:32:32Z</timestamp>
+<contributor>
+<username>Dododorodo</username>
+<id>30890072</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">{{Refimprove|date=August 2011}}{{Politics of Armenia}}
+{{Armenia sidebar}}
+'''The politics of Armenia''' takes place in a framework of a [[Semi-presidential system|semi-presidential]] [[representative democracy|representative democratic]] republic, whereby the President is the [[head of state]] and the Prime Minister is the [[head of government]], and of a multi-party system. [[Executive power]] is exercised by the government. [[Legislative power]] is vested in both the government and parliament.
+
+==History==
+Armenia became independent from the [[Transcaucasian Democratic Federative Republic]] on 28 May 1918 as the [[First Republic of Armenia]]. After the First Republic collapsed on 2 December 1920, it was absorbed into the [[Soviet Union]] and became part of the [[Transcaucasian SFSR]]. The TSFSR dissolved in 1936 and Armenia became a constituent republic of the Soviet Union known as the [[Armenian SSR]].
+
+The population of [[Armenia]] voted overwhelmingly for independence in a September 1991 referendum, followed by a presidential election in October 1991 that gave 83% of the vote to [[Levon Ter-Petrosyan]]. Ter-Petrosyan had been elected head of government in 1990, when the [[National Democratic Union of Armenia|National Democratic Union party]] defeated the Armenian Communist Party. Ter-Petrosyan was re-elected in 1996. Following public demonstrations against Ter-Petrosyan's policies on [[Nagorno-Karabakh Republic|Nagorno-Karabakh]], the President resigned in January 1998 and was replaced by Prime Minister [[Robert Kocharyan]], who was elected President in March 1998. Following the [[1999 Armenian parliament shooting|assassination in Parliament]] of Prime Minister [[Vazgen Sargsyan]] and parliament Speaker [[Karen Demirchyan]] and six other officials, on 27 October 1999, a period of political instability ensued during which an opposition headed by elements of the former Armenian National Movement government attempted unsuccessfully to force Kocharyan to resign. Kocharyan was successful in riding out the unrest. In May 2000, [[Andranik Margaryan]] replaced [[Aram Sargsyan]] as Prime Minister.
+
+Kocharyan's re-election as president in 2003 was followed by widespread allegations of ballot-rigging. He went on to propose controversial constitutional amendments on the role of parliament. These were rejected in a referendum the following May at the same time as parliamentary elections which left Kocharyan's party in a very powerful position in parliament. There were mounting calls for the President's resignation in early 2004 with thousands of demonstrators taking to the streets in support of demands for a referendum of confidence in him.
+
+The unicameral parliament (also called the [[National Assembly of Armenia|National Assembly]]) is dominated by a coalition, called &quot;Unity&quot; (Miasnutyun), between the [[Republican Party of Armenia|Republican]] and [[People's Party of Armenia|Peoples]] Parties and the Agro-Technical Peoples Union, aided by numerous independents. [[Armenian Revolutionary Federation|Dashnaksutyun]], which was outlawed by Ter-Petrosyan in 1995–96 but legalized again after Ter-Petrosyan resigned, also usually supports the government. A new party, the [[Republic (Armenia)|Republic Party]], is headed by ex-Prime Minister [[Aram Sargsyan]], brother of [[Vazgen Sargsyan]], and has become the primary voice of the opposition, which also includes the [[Armenian Communist Party]], the [[National Unity (Armenia)|National Unity party]] of [[Artashes Geghamyan]], and elements of the former Ter-Petrosyan government.
+
+The Government of Armenia's stated aim is to build a Western-style [[parliamentary democracy]] as the basis of its [[form of government]]. However, international observers have questioned the fairness of Armenia's parliamentary and presidential elections and constitutional referendum since 1995, citing polling deficiencies, lack of cooperation by the [[Electoral Commission (Armenia)|Electoral Commission]], and poor maintenance of electoral lists and polling places. For the most part however, Armenia is considered one of the more pro-democratic nations in the [[Commonwealth of Independent States]].  Observers noted, though, that opposition parties and candidates have been able to mount credible campaigns and proper polling procedures have been generally followed. Elections since 1998 have represented an improvement in terms of both fairness and efficiency, although they are still considered to have fallen short of international standards. The new constitution of 1995 greatly expanded the powers of the executive branch and gives it much more influence over the judiciary and municipal officials.
+
+The observance of human rights in Armenia is uneven and is marked by shortcomings. [[Police brutality]] allegedly still goes largely unreported, while observers note that defendants are often beaten to extract confessions and are denied visits from relatives and lawyers. Public demonstrations usually take place without government interference, though one rally in November 2000 by an opposition party was followed by the arrest and imprisonment for a month of its organizer. Freedom of religion is not always protected under existing law. Nontraditional churches, especially the [[Jehovah's Witnesses]], have been subjected to harassment, sometimes violently. All churches apart from the [[Armenian Apostolic Church]] must register with the government, and proselytizing was forbidden by law, though since 1997 the government has pursued more moderate policies. The government's policy toward conscientious objection is in transition, as part of Armenia's accession to the Council of Europe. Most of Armenia's ethnic [[Azeri]] population was deported in 1988–1989 and remain refugees, largely in Azerbaijan. Armenia's record on discrimination toward the few remaining [[national minorities]] is generally good. The government does not restrict internal or international travel. Although freedom of the press and speech are guaranteed, the government maintains its monopoly over television and radio broadcasting.
+
+===Change to parliamentary republic (2015)===
+
+In December 2015 the country [[Armenian constitutional referendum, 2015|held a referendum]] which resulted in Armenia changing its form of government from a presidential to a parliamentary republic.&lt;ref name=&quot;controlrisks.com&quot;&gt;{{cite web|url=https://www.controlrisks.com/en/newsletters/russia-cis-riskwatch/issue-9/armenia-a-gateway-for-iranian-goods |title=Armenia a gateway for Iranian goods?|last=Ayriyan|first=Serine|work=ControlRisks {{pipe}} Russia/CIS Riskwatch Issue 9|date=April 2016|accessdate=20 April 2016}}&lt;/ref&gt;
+
+As a result, the president was stripped of his previous [[Veto#presidential veto|veto faculty]] and the presidency downgraded to a figurehead position elected by parliament every seven years. Following the reform, the president can not be a member of any political party and [[re-election]] is now forbidden. The amendments also reduced the number of parliamentary seats from 131 to 101.&lt;ref name=sputnikreform&gt;{{cite news | url=https://sputniknews.com/politics/201512071031338205-armenia-supports-constitutional-reform/ | title=Majority of Voters Support Armenia's Constitutional Reform |work=Sputnik | date=7 December 2015 | accessdate=19 December 2016}}&lt;/ref&gt;
+
+Sceptics saw the constitutional reform as a way for incumbent President [[Serzh Sargsyan]] to remain in control by becoming prime minister when his second presidential term ends in 2018.&lt;ref name=&quot;controlrisks.com&quot;/&gt;
+
+==Government==
+{{main|Government of Armenia}}
+
+The president is elected for a five-year term by the people (absolute majority with 2nd round if necessary).
+{{office-table}}
+|[[President of Armenia]]
+|[[Serzh Sargsyan]]
+|[[Republican Party of Armenia|Republican Party]]
+|9 April 2008
+|-
+|[[Prime Minister of Armenia|Prime Minister]]
+|[[Karen Karapetyan]]
+|[[Republican Party of Armenia|Republican Party]]
+|13 September 2016
+|}
+
+==Legislative branch==
+{{main|National Assembly (Armenia)}}
+
+The [[National Assembly (Armenia)|National Assembly of Armenia]] (''Azgayin Zhoghov'') is the [[legislative branch]] of the government of [[Armenia]].  It is a [[unicameral]] body, initially made of 131 members, elected for five-year terms: 90 members in single-seat constituencies and 41 by proportional representation. The proportional-representation seats in the National Assembly are assigned on a party-list basis amongst those parties that receive at least 5% of the total of the number of the votes.
+Following the 2015 referendum, the number of MPs was reduced from the original 131 members to 101.&lt;ref name=sputnikreform/&gt;
+
+==Political parties and elections==
+{{main|List of political parties in Armenia|Elections in Armenia}}
+
+The [[electoral threshold]] is currently set at 5% for single parties and 7% for blocs.&lt;ref&gt;{{cite web|url=https://opendemocracy.net/od-russia/emil-sanamyan/running-for-tsar-armenia-s-gagik-tsarukyan|title=A1 Plus, ARFD Nominates Vahan Hovhannisyan|work=[[Open Democracy]]|author=Sanamyan, Emil|accessdate=2017-03-28}}&lt;/ref&gt;{{Armenian parliamentary election, 2017}}
+
+The first [[primary election]] in Armenia was held by the [[Armenian Revolutionary Federation]] in November 2007 to select the presidential candidate. Some 300.000 people voted.&lt;ref name=&quot;A1 Plus&quot;&gt;{{cite web|url=http://www.a1plus.am/en/?page=issue&amp;iid=55090|title=A1 Plus, ARFD Nominates Vahan Hovhannisyan|accessdate=2008-02-10}}&lt;/ref&gt;&lt;ref&gt;''Horizon Armenian Weekly'', English Supplement, 2007 3 December, page E1, &quot;ARF conducts 'Primaries' &quot;, a Yerkir agency report from Yerevan.&lt;/ref&gt;
+
+{{Armenian presidential election, 2013}}
+==Independent Agencies==
+
+Independent of three traditional branches are the following [[independent agencies]], each with separate powers and responsibilities:&lt;ref&gt;http://www.atb.am/en/armenia/country/&lt;/ref&gt;
+
+* the [[Constitutional Court of Armenia]]
+* the [[Central Electoral Commission of the Republic of Armenia]]
+* the [[Human Rights Defender of the Republic of Armenia]]
+* the [[Central Bank of Armenia]]
+* the [[General Prosecutor's Office]]
+* the [[Control Chamber of The Republic of Armenia]]
+
+==Corruption==
+{{Main|Corruption in Armenia}}
+
+Political corruption is a problem in Armenian society. In 2008, [[Transparency International]] reduced its [[Corruption Perceptions Index]] for Armenia from 3.0 in 2007&lt;ref name=&quot;TI-GCP-2008-p225&quot;&gt;''[http://www.transparency.org/content/download/32778/502137 Global Corruption Report 2008]'', [[Transparency International]], Chapter 7.4, p. 225.&lt;/ref&gt; to 2.9 out of 10 (a lower score means more perceived corruption); Armenia slipped from 99th place in 2007 to 109th out of 180 countries surveyed (on a par with [[Argentina]], Belize, [[Moldova]], Solomon Islands, and [[Vanuatu]]).&lt;ref name=&quot;2008-CPI-Table&quot;&gt;[http://www.transparency.org/news_room/in_focus/2008/cpi2008/cpi_2008_table ''2008 CORRUPTION PERCEPTIONS INDEX''], Transparency International, 2008.&lt;/ref&gt;  Despite legislative revisions in relation to elections and party financing, corruption either persists or has re-emerged in new forms.&lt;ref&gt;''[http://www.transparency.org/content/download/32774/502121 Global Corruption Report 2008]'', Transparency International, Chapter 7, p. 122.&lt;/ref&gt;
+
+The [[United Nations Development Programme]] in Armenia views corruption in Armenia as &quot;a serious challenge to its development.&quot;&lt;ref&gt;[http://www.undp.am/?page=Speeches&amp;id=9 &quot;Strengthening Cooperation between the National Assembly, Civil Society and the Media in the Fight Against Corruption&quot;], Speech by Ms. Consuelo Vidal, (UN RC / UNDP RR), April 6, 2006.&lt;/ref&gt;
+
+==See also==
+* [[Constitution of Armenia]]
+* [[Constitutional economics]]
+* [[Foreign relations of Armenia]]
+* [[Rule according to higher law]]
+{{clear}}
+{{portal bar|Armenia}}
+
+==Notes==
+{{reflist|30em}}
+
+==External links==
+* [http://report.globalintegrity.org/armenia Global Integrity Report: Armenia] has information on anti-corruption efforts
+* Petrosyan, David: &quot;The Political System of Armenia: Form and Content&quot; in the [http://www.laender-analysen.de/cad/pdf/CaucasusAnalyticalDigest17.pdf Caucasus Analytical Digest No. 17]
+* http://www.coc.am/LegislationEng.aspx
+* http://www.coc.am/files/legislation/COCLawArm.pdf
+* http://www.parliament.am
+
+{{Asia topic|Politics of}}
+{{Politics of Europe}}
+
+{{DEFAULTSORT:Politics Of Armenia}}
+[[Category:Politics of Armenia]]</text>
+<sha1>adxdh5ujn8a8ppl87chtq1k969sgs6g</sha1>
+</revision>
+</page>

@@ -1,0 +1,299 @@
+<page>
+<title>Aphrodite</title>
+<ns>0</ns>
+<id>1174</id>
+<revision>
+<id>803142252</id>
+<parentid>803141744</parentid>
+<timestamp>2017-09-30T18:27:56Z</timestamp>
+<contributor>
+<username>Katolophyromai</username>
+<id>29934571</id>
+</contributor>
+<minor />
+<comment>/* Etymology */ converting to sfn</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">{{About|the Greek goddess}}
+{{Redirect|Cypris}}
+{{Redirect|Pandemos|the butterfly|Pandemos (butterfly)}}
+{{pp-semi-indef}}
+
+{{Infobox deity
+| type = Greek
+| name = Aphrodite
+| image = NAMA Aphrodite Syracuse.jpg
+| image_size =
+| alt =
+| caption = ''Aphrodite Pudica'' (Roman copy of 2nd century AD), [[National Archaeological Museum, Athens]]
+| god_of = Goddess of love, beauty and sexuality
+| abode = [[Mount Olympus]]
+| symbol = [[Dolphin]], [[Rose]], [[Scallop|Scallop Shell]], [[Myrtle (plant)|Myrtle]], [[Dove]], [[Sparrow]], [[Girdle]], [[Mirror]], and [[Swan]]
+| consort = [[Hephaestus]], [[Ares]], [[Poseidon]], [[Hermes]], [[Dionysus]], [[Adonis]], and [[Anchises]]
+| parents = [[Uranus (mythology)|Uranus]]&lt;ref&gt;Hesiod, ''Theogony'', 188&lt;/ref&gt; or [[Zeus]] and [[Dione (Titaness/Oceanid)|Dione]]&lt;ref&gt;Homer, ''Iliad'' 5.370.&lt;/ref&gt;
+| siblings = [[Aeacus]], [[Angelos (Greek mythology)|Angelos]], [[Apollo]], [[Ares]], [[Artemis]], [[Athena]], [[Dionysus]], [[Eileithyia]], [[Enyo]], [[Eris (mythology)|Eris]], [[Ersa]], [[Hebe (mythology)|Hebe]], [[Helen of Troy]], [[Hephaestus]], [[Heracles]], [[Hermes]], [[Minos]], [[Pandia]], [[Persephone]], [[Perseus]], [[Rhadamanthus]], the [[Graces]], the [[Horae]], the [[Litae]], the [[Muse]]s, the [[Moirai]], ''or'' the [[Titan (mythology)|Titans]], the [[Cyclops|Cyclopes]], the [[Meliae]], the [[Erinyes]] (Furies), the [[Giants (Greek mythology)|Giants]], the [[Hekatonkheires]]
+| children = [[Eros]],&lt;ref name=&quot;eros&quot;&gt;Eros is usually mentioned as the son of Aphrodite but in other versions he is born out of Chaos&lt;/ref&gt; [[Phobos (mythology)|Phobos]], [[Deimos (mythology)|Deimos]], [[Harmonia (mythology)|Harmonia]], [[Pothos (mythology)|Pothos]], [[Anteros]], [[Himeros]], [[Hermaphroditus]], [[Rhodos]], [[Eryx]], [[Peitho]], [[Eunomia (goddess)|Eunomia]], [[Charites|The Graces]], [[Priapus]], [[Aeneas]]
+| mount =
+| Roman_equivalent = [[Venus (mythology)|Venus]]
+}}
+
+'''Aphrodite''' ({{IPAc-en|audio=En-us-Aphrodite.ogg|æ|f|r|ə|ˈ|d|aɪ|t|i}} {{respell|af-rə|DY|tee}}; {{lang-grc-gre|Ἀφροδίτη}} ''Aphrodite'') is the [[Greek mythology|Greek]] [[goddess]] of [[love]], [[beauty]], [[pleasure]], and [[procreation]]. She is identified with the planet [[Venus]]; her [[Roman equivalent]] is the goddess {{lang|la|[[Venus (mythology)|Venus]]}}. [[Myrtle (plant)|Myrtle]], roses, [[dove]]s, [[sparrow]]s and [[swan]]s were sacred to her.
+
+In [[Hesiod]]'s ''[[Theogony]]'', Aphrodite was created from the sea foam (''aphros'') produced by [[Uranus (mythology)|Uranus]]'s genitals, which had been severed by [[Cronus]].&lt;!-- Thus Aphrodite is of a generation older than [[Zeus]]. --&gt;
+In [[Homer]]'s ''[[Iliad]]'', however, she is the daughter of [[Zeus]] and [[Dione (Titaness/Oceanid)|Dione]]. In [[Plato]] (''Symposium'', 180e), these two origins are said to be of hitherto separate entities: [[Aphrodite Urania|Aphrodite Ourania]] (a transcendent, &quot;Heavenly&quot; Aphrodite) and [[Aphrodite Pandemos]] (Aphrodite common to &quot;all the people&quot;). She had many other names, each emphasizing a different aspect of the same goddess, or used by a different local cult. Thus she was also known as '''Cytherea''' (''Lady of [[Kythira|Cythera]]'') and '''Cypris''' (''Lady of [[Cyprus]]''), both of which claimed to be her place of birth.
+
+In [[Greek mythology]], the other gods feared that Aphrodite's beauty might lead to conflict and war, through rivalry for her favours; so Zeus married her off to [[Hephaestus]]. Despite this, Aphrodite followed her own inclinations, and had many lovers — both gods, such as [[Ares]], and men, such as [[Anchises]]. She played a role in the [[Eros and Psyche]] legend, and was both lover and surrogate mother of [[Adonis]].
+
+== Etymology ==
+[[Hesiod]] derives ''Aphrodite'' from ''aphrós'' (ἀφρός) &quot;sea-foam&quot;, interpreting the name as &quot;risen from the foam&quot;.&lt;ref&gt;Hesiod, ''[[Theogony]]'', [http://www.perseus.tufts.edu/hopper/text?doc=Hes.+Th.+173 190-197].&lt;/ref&gt; Michael Janda, accepting this as genuine, claims the story of a birth from the foam as an [[Proto-Indo-European mythology|Indo-European]] [[mytheme]].{{sfn|Janda|2005|pages=349-360}}{{sfn|Janda|2010|page=65}} The second part of the compound has been variously analyzed as *''-odítē'' &quot;wanderer&quot;&lt;ref&gt;[[Paul Kretschmer]], “Zum pamphylischen Dialekt”, ''[[Historische Sprachforschung|Zeitschrift für vergleichende Sprachforschung auf dem Gebiet der Indogermanischen Sprachen]]'' 33 (1895): 267.&lt;/ref&gt; or *''-dítē'' &quot;bright&quot;.&lt;ref&gt;Ernst Maaß, “Aphrodite und die hl. Pelagia”, ''Neue Jahrbücher für das klassische Altertum'' 27 (1911): 457-468.&lt;/ref&gt;&lt;ref&gt;Vittore Pisani, “Akmon e Dieus”, ''Archivio glottologico italiano'' 24 (1930): 65-73.&lt;/ref&gt; Janda, agreeing with the latter, interprets the meaning of the name as &quot;she who shines from the foam (of the ocean)&quot;, supposing the name as an epithet of [[Eos]], the [[Hausos|dawn goddess]].{{sfn|Janda|2005|pages=349-360}}{{sfn|Janda|2010|page=65}} Likewise, Witczak proposes an Indo-European compound ''{{PIE|*abʰor-}}'' &quot;very&quot; and ''{{PIE|*dʰei-}}'' &quot;to shine&quot;, also referring to Eos.{{sfn|Witczak|1993|pages=115-123}} Other scholars have argued that these hypotheses are unlikely since Aphrodite's attributes are entirely different from those of both Eos and the [[Vedic deity]] [[Ushas]].{{sfn|Penglase|1997|page=164}}{{sfn|Boedeker|1974|pages=15-16}} Janda disputes this assumption.{{sfn|Janda|2005|pages=349-360}}{{sfn|Janda|2010|page=65}}
+
+A number of improbable non-Greek etymologies have been suggested in scholarship. One Semitic etymology compares Aphrodite to the Assyrian ''barīrītu'', the name of a female demon that appears in Middle Babylonian and Late Babylonian texts.&lt;ref&gt;''Chicago Assyrian Dictionary'', vol. 2, p.&amp;nbsp;111.&lt;/ref&gt; Hammarström&lt;ref&gt;M. Hammarström, “Griechisch-etruskische Wortgleichungen”, ''Glotta: Zeitschrift für griechische und lateinische Sprache'' 11 (1921): 215-6.&lt;/ref&gt; looks to [[Etruscan language|Etruscan]], comparing ''(e)prϑni'' &quot;lord&quot;, an Etruscan honorific loaned into Greek as [[Prytaneis|πρύτανις]]. This would make the theonym in origin an honorific, &quot;the lady&quot;. [[Hjalmar Frisk]]{{sfn|Frisk|1960|page=196 f.}} and [[Robert S. P. Beekes|Robert Beekes]]{{sfn|Beekes|2010|page=179}} reject this etymology as implausible, especially since Aphrodite actually appears in Etruscan in the borrowed form ''Apru'' (from Greek ''Aphrō'', clipped form of ''Aphrodite'').{{sfn|Beekes|2010|page=179}}
+
+The medieval ''[[Etymologicum Magnum]]'' (c. 1150) offers a highly contrived etymology, deriving ''Aphrodite'' from the compound ''habrodíaitos'' ({{lang|grc|ἁβροδίαιτος}}), &quot;she who lives delicately&quot;, from ''habrós'' and ''díaita''. The alteration from ''b'' to ''ph'' is explained as a &quot;familiar&quot; characteristic of Greek &quot;obvious from the [[Ancient Macedonian language|Macedonians]]&quot;,&lt;ref&gt;Etymologicum Magnum, Ἀφροδίτη.&lt;/ref&gt; despite the fact that the name cannot be of Macedonian origin.
+
+==Origins==
+===Near Eastern love goddess===
+{{multiple image
+| align     = right
+| direction = horizontal
+| header   =
+| width     =
+&lt;!-- Image 1 --&gt;
+| image1    = Ishtar vase Louvre AO17000-detail.jpg
+| width1    = 135
+| alt1      =
+| caption1  = Early second-millennium BC Old Babylonian nude depiction of [[Ishtar]], showing her wearing a crown
+&lt;!-- Image 2 --&gt;
+| image2    = Naked woman holding her breasts-Sb 7742-IMG 0880-black.jpg
+| width2    = 200
+| alt2      =
+| caption2  = Late second-millennium BC nude [[figurine]] of Ishtar from [[Susa]], showing her wearing a crown and clutching her breasts
+&lt;!-- Image 3 --&gt;
+| image3    = Neues Museum - Aphrodite - Die große Göttin von Zypern.jpg
+| width3    = 200
+| alt3      =
+| caption3  = Early fifth-century BC statue of Aphrodite from [[Cyprus]], showing her wearing a cylinder crown and holding a dove
+}}
+
+The cult of Aphrodite in Greece was imported from, or at least influenced by, the cult of [[Astarte]] in [[Phoenicia]], which, in turn, was derived from the cult of the Babylonian goddess [[Ishtar]], which itself was largely derived from the cult of the Sumerian goddess [[Inanna]].{{sfn|Burkert|1985|pages=152-153}}{{sfn|Puhvel|1987|page=27}}{{sfn|Marcovich|1996|pages=43-59}} [[Pausanias (geographer)|Pausanias]] states that the first to establish a cult of Aphrodite were the [[Neo-Assyrian Empire|Assyrians]], after the Assyrians, the [[Paphos|Paphians]] of Cyprus, and then the Phoenicians at [[Ashkelon|Ascalon]]. The Phoenicians, in turn, taught her worship to the people of [[Cythera (island)|Cythera]].&lt;ref&gt;Pausanias, Description of Greece, [http://www.perseus.tufts.edu/cgi-bin/ptext?lookup=Paus.+1.14.7 I. XIV.7]&lt;/ref&gt;
+
+Classical nineteenth-century scholars viewed the notion of a Near Eastern origin for Aphrodite with skepticism. Authors such as A. Enmann (''Kypros und der Ursprung des Aphroditekultes'' 1881) attempted to portray the cult of Aphrodite as a native Greek development. Scholarly opinion on this question has shifted significantly since the 1980s, notably due to [[Walter Burkert]] (1984).{{sfn|Burkert|1998|pages=1-9}} The significant influence of Near Eastern culture on early Greek religion in general, and on the cult of Aphrodite in particular,{{sfn|Burkert|1998|pages=1-6}} is now widely recognized as dating to a period of [[Orientalizing period|orientalization]] during the eighth century BC,{{sfn|Burkert|1998|pages=1-6}} when [[archaic Greece]] was on the fringes of the [[Neo-Assyrian Empire]].{{sfn|Burkert|1998|pages=1-41}}
+
+Hans Georg Wunderlich has drawn a connection between Aphrodite and the [[Minoan civilization|Minoan]] [[Snake Goddess|snake goddess]].{{sfn|Wunderlich|1987|page=134}} This theory is supported by the fact that the Egyptian snake goddess [[Wadjet]] was associated with the city known to the Greeks as ''Aphroditopolis'', which means &quot;City of Aphrodite.&quot;&lt;ref&gt;C.L. Whitcombe.''Minoan snake goddess''.8.''Snakes, Egypt magic and women''.[http://witcombe.sbc.edu/snakegoddess/ Minoan Snake Goddess]&lt;/ref&gt;
+
+In native Greek tradition, the planet Venus had two names: ''Hesperos'' as the evening star and ''Eosphoros'' as the morning star. The Greeks adopted the identification of the morning and the evening stars, as well as its identification as Ishtar/Aphrodite, during the 4th century BC, along with other items of Babylonian astrology, such as the [[zodiac]] ([[Eudoxus of Cnidus]]).{{Citation needed|date=April 2017}}
+
+The ancient Greeks also identified Aphrodite with the ancient Egyptian goddess [[Hathor]].{{sfn|Witt|1997|page=125}}&lt;ref name=Lar&gt;''Larousse Desk Reference Encyclopedia'', The Book People, Haydock, 1995, p. 215.&lt;/ref&gt;
+
+===Indo-European dawn goddess===
+It has long been accepted in [[comparative mythology]] that Aphrodite preserves some aspects of the [[Proto-Indo-European religion|Indo-European]] dawn goddess [[Hausos|*''H&lt;sub&gt;a&lt;/sub&gt;éusōs'']] (properly Greek [[Eos]], Latin  [[Aurora (mythology)|Aurora]], Sanskrit [[Ushas]]).{{sfn|Dumézil|1934|page=}} Janda etymologizes her name as &quot;she who rises from the foam [of the ocean]&quot;{{sfn|Janda|2010|page=65}} and points to Hesiod's ''Theogony'' account of Aphrodite's birth as an archaic reflex of Indo-European myth.{{sfn|Janda|2010|page=65}} Aphrodite rising out of the waters after Cronus defeats Uranus as a mytheme would then be directly cognate to the [[Rig Veda|Rigvedic]] myth of [[Indra]] defeating [[Vrtra]], liberating [[Ushas]].{{sfn|Janda|2005|pages=349-360}}{{sfn|Janda|2010|page=65}}
+
+==Forms of Aphrodite==
+{{About||the Amathusian Aphrodite|Aphroditus}}
+
+[[File:The Birth of Venus by William-Adolphe Bouguereau (1879).jpg|thumb|250px|''[[The Birth of Venus (Bouguereau)|The Birth of Venus]]'' by [[William-Adolphe Bouguereau]] (circa 1879)]]
+
+By the late 5th century BC, [[Platonism|Platonists]] distinguished two separate &quot;Aphrodites&quot;. ''[[Aphrodite Ourania]]'', the celestial Aphrodite, born from the sea foam after Cronus castrated Uranus, was thought the older form; she also inspired homosexual male desire or, more specifically, [[Ephebic Oath|ephebic]] [[Eros (concept)|eros]]. The &quot;younger&quot; ''[[Aphrodite Pandemos]]'', the common Aphrodite &quot;of all the folk&quot;, born from the union of Zeus and Dione, inspired all love for women.&lt;ref&gt;[[Plato]], ''[[Symposium (Plato)|Symposium]]'' 181a-d.&lt;/ref&gt;&lt;ref&gt;Richard L. Hunter, ''Plato's Symposium'', Oxford University Press: 2004, p. 44&lt;/ref&gt;
+
+Among the [[neo-Platonist]]s and, later, their Christian interpreters, Aphrodite Ourania is associated with spiritual love, and Aphrodite Pandemos with physical love (desire). A representation of Aphrodite Ourania with her foot resting on a tortoise came to be seen as emblematic of discretion in conjugal love; it was the subject of a [[chryselephantine]] sculpture by [[Phidias]] for [[Elis]], known only from a parenthetical comment by the geographer [[Pausanias (geographer)|Pausanias]]).&lt;ref&gt;Pausanias, ''Periegesis'' vi.25.1; ''Aphrodite Pandemos'' was represented in the same temple riding on a goat, symbol of purely carnal rut: &quot;The meaning of the tortoise and of the he-goat I leave to those who care to guess,&quot; Pausanias remarks. The image was taken up again after the Renaissance: see [http://www.emblems.arts.gla.ac.uk/french/emblem.php?id=FALc195 Andrea Alciato, ''Emblemata / Les emblemes'' (1584)].&lt;/ref&gt;
+
+==Worship==
+{{see also|:Category:Epithets of Aphrodite}}
+
+She was also called ''Kypris'' or ''Cytherea'' after her birth-places in [[Cyprus]] and [[Cythera (island)|Cythera]], respectively, both centers of her cult. She was associated with [[Hesperides|Hesperia]] and frequently accompanied by the [[Oread]]s, [[nymph]]s of the mountains. She was also often depicted with the sea, dolphins, doves, swans, [[pomegranate]]s, sceptres, apples, [[Myrtus|myrtle]], rose trees, [[lime (fruit)|lime]] trees, clams, scallop shells, and pearls.
+
+Her festival, ''[[Aphrodisia]]'', was celebrated across Greece, but particularly in [[Athens]] and [[Ancient Corinth|Corinth]]. At the temple of Aphrodite on the summit of [[Acrocorinth]] (before the Roman destruction of the city in 146 BC), intercourse with her priestesses was considered a method of worshiping Aphrodite. This temple was not rebuilt when the city was re-established under Roman rule in 44 BC, but the fertility rituals likely continued in the main city near the agora.
+
+[[Pausanias (geographer)|Pausanias]] records that, in Sparta, Aphrodite was worshipped as ''Areia'', which means &quot;warlike.&quot;&lt;ref&gt;{{cite web|last1=Pausanias|first1=--|title=The Guide to Greece 3.17.2-3.18.1|url= http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=GreekFeb2011&amp;getid=1&amp;query=Paus.%203.17.5|website=Perseus Under Philologic|publisher=University of Chicago|accessdate=7 May 2017}}&lt;/ref&gt; This epithet stresses Aphrodite's connections to Ares, with whom she had extramarital relations.&lt;ref&gt;T.T. Kroon, art. Areia (1), in T.T. Kroon, ''Mythologisch Woordenboek'', ’s Gravenshage, 1875.&lt;/ref&gt; Pausanias also records that, in Sparta&lt;ref&gt;{{cite web|last1=Pausanias|first1=--|title=The Guide to Greece 3.15.6-3.16.4|url=http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=GreekFeb2011&amp;query=Paus. 3.15.10&amp;getid=1|website=Perseus Under Philologic|publisher=University of Chicago|accessdate=7 May 2017}}&lt;/ref&gt; and on Cythera, there were extremely ancient cult statues of Aphrodite portraying her bearing arms.&lt;ref&gt;{{cite web|last1=Pausanias|first1=--|title=Description of Greece 3.22.10-3.22.6|url=http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=GreekFeb2011&amp;getid=1&amp;query=Paus.%203.23.1|website=Perseus Under Philologic|publisher=University of Chicago|accessdate=7 May 2017}}&lt;/ref&gt;
+
+The cult of Aphrodite may have involved [[ritual prostitution]].{{sfn|Burkert|1985|page=153}}{{sfn|Marcovich|1996|page=49}} The Greek euphemism for a sacred prostitute is ''[[hierodoule]]'', meaning &quot;sacred slave&quot;. Ritual prostitution is attested in association with Aphrodite in [[Ancient Corinth|Corinth]] and on the islands of [[Cyprus]], [[Cythera]], and [[Sicily]],{{sfn|Marcovich|1996|page=49}} but it is not attested in Athens.{{sfn|Marcovich|1996|page=49}} Ritual prostitution was an inherent part of the rituals owed to Aphrodite's Near Eastern forebears, Sumerian [[Inanna]] and Akkadian [[Ishtar]],{{sfn|Burkert|1985|page=153}}{{sfn|Marcovich|1996|page=49}} whose temple priestesses were the &quot;women of Ishtar,&quot; ''ishtaritum''.{{sfn|Marcovich|1996|page=49}} Ritual prostitution has been documented in Babylon, Syria, and Palestine, in Phoenician cities and the [[Tyre, Lebanon|Tyrian]] colony [[Carthage]].{{sfn|Marcovich|1996|page=49}} Aphrodite was everywhere the patroness of the ''[[hetaera]]'' and [[courtesan]]. In [[Ionia]] on the coast of Asia Minor, ''hierodoulai'' served in the [[temple of Artemis]].
+
+===Modern worship===
+[[File:Atuell en forma d'Afrodita en una petxina, Àtica, necròpolis de Fanagoria, pinínsula de Taman. Primer quart del segle IV aC, ceràmica.JPG|thumb|250px|Pottery vessel in the shape of Aphrodite inside a shell; from [[Attica]], [[Classical Greece]], discovered in the [[Phanagoria]] cemetery, [[Taman Peninsula]] ([[Bosporan Kingdom]], [[southern Russia]]), 1st quarter of 4th century BC, [[Hermitage Museum]], [[Saint Petersburg]]]]
+
+As one of the Twelve Olympians of the Greek pantheon and thus a major deity, worship of Aphrodite or ''Aphrodíti'' as a living goddess is one of the more prominent devotionals in ''[[Hellenismos]]'' (Hellenic Polytheistic Reconstructionism),&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/news/magazine-22972610|title=The Greeks who worship the ancient gods|first1=Matthew Brunwasser PRI's The|last1=World|first2=Mount|last2=Olympus|publisher=}}&lt;/ref&gt; the revival of ancient Greek religious practices in the present day.&lt;ref&gt;{{cite web|url=http://paganwiccan.about.com/od/pagantraditions/p/Hellenism.htm|title=Hellenic Polytheism and the Reconstruction of Greek Paganism|publisher=}}&lt;/ref&gt;
+
+Hellenic polytheists of today celebrate their religious devotion to Aphrodite on two annual and monthly festival days.  Aphrodisia is her main festival day, which is celebrated on the 4th day of ''Hekatombaion'' in the [[Attic calendar]], falling in the months of July and August in the [[Gregorian calendar]], depending on the year. Adonia, a joint festival of Aphrodite and her partner Adonis, is celebrated on the first [[full moon]] following the [[Northern spring equinox]], often roughly as the same week the Christian festival of [[Easter]] is celebrated. The fourth day of each month is considered a sacred day of both Aphrodite and her son Eros.&lt;ref name=&quot;neokoroi.org&quot;&gt;{{cite web|url=http://www.neokoroi.org/religion/gods/aphrodite|title=Aphrodite|publisher=}}&lt;/ref&gt;
+
+Devotional offerings to Aphrodite can include incense, fruit (particularly apples and pomegranates), flowers (particularly fragrant roses), sweet dessert wine (particularly ''Commandaria'' wine from [[Cyprus]]), and cakes made with honey.&lt;ref&gt;{{cite web|url=http://paganwiccan.about.com/od/godsandgoddesses/a/Offerings_Gods.htm|title=What Should I Use as an Offering to the Gods?|publisher=}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://sacredhaven.ca/aphrodite|title=Aphrodite - Sacred Haven Coven|publisher=}}&lt;/ref&gt;
+
+==Mythology==
+
+=== Birth ===
+[[File:Sandro Botticelli - La nascita di Venere - Google Art Project - edited.jpg|thumb|250px|''[[The Birth of Venus]]'' by [[Sandro Botticelli]] (circa 1485)]]
+
+[[File:Aphrodites Rock.jpg|thumb|right|250px|[[Petra tou Romiou]] (&quot;The rock of the [[Greeks|Greek]]&quot;), Aphrodite's legendary birthplace in [[Paphos]], Cyprus]]
+
+Aphrodite is usually said to have been born near her chief center of worship,  [[Paphos]], on the island of [[Cyprus]], which is why she is sometimes called &quot;Cyprian&quot;, especially in the poetic works of [[Sappho]]. However, other versions of her myth have her born near the island of [[Cythera (island)|Cythera]], hence another of her names, &quot;Cytherea&quot;.&lt;ref&gt;Homer, ''Odyssey'' viii. 288; Herodotus i. 105; Pausanias iii. 23. § 1; Anacreon v. 9; Horace, ''Carmina'' i. 4. 5.&lt;/ref&gt; Cythera was a stopping place for trade and culture between [[Crete]] and the [[Peloponnese|Peloponesus]], so these stories may preserve traces of the migration of Aphrodite's cult from the [[Levant|Middle East]] to mainland [[Greece]].
+
+According to the version of her birth recounted by [[Hesiod]] in his ''[[Theogony]]'',{{sfn|Kerényi|1951|page=69}} [[Cronus]] severed [[Uranus (mythology)|Uranus']] genitals and threw them behind him into the sea.{{sfn|Kerényi|1951|page=69}}{{sfn|Graves|1960|page=37}} The foam from his genitals gave rise to Aphrodite (hence her name, meaning &quot;foam-arisen&quot;), while the [[Giants (Greek mythology)|Giants]], the [[Erinyes]] (furies), and the [[Meliae]] emerged from the drops of his blood.{{sfn|Kerényi|1951|page=69}}{{sfn|Graves|1960|page=37}} Hesiod states that the genitals &quot;were carried over the sea a long time, and white foam arose from the immortal flesh; with it a girl grew.&quot; The girl, Aphrodite, floated ashore on a [[scallop]] shell. This iconic representation of Aphrodite as a mature &quot;Venus rising from the sea&quot; (''[[Venus Anadyomene]]''&lt;ref&gt;''Αναδυόμενη'' (''Anadyómenē''), &quot;rising up&quot;.&lt;/ref&gt;) was made famous in a much-admired painting by [[Apelles]], now lost, but described in the ''[[Natural History (Pliny)|Natural History]]'' of [[Pliny the Elder]].
+
+According to the ''[[Iliad]]'',&lt;ref&gt;''[[Iliad]]'' (Book&amp;nbsp;V)&lt;/ref&gt; Aphrodite was considered a daughter of Zeus and Dione, the mother goddess whose oracle was at [[Dodona]].
+
+===Adulthood===
+[[File:Shahba_Mosaics.jpg|thumb|left|Mosaic from [[Roman Syria]] depicting Aphrodite and [[Ares]]. [[Shahba]], [[Syria]]]]
+
+Aphrodite is consistently portrayed as a nubile, infinitely desirable adult, having had no childhood. She is often depicted nude. In many of the later myths, she is portrayed as vain, ill-tempered, and easily offended. Although she is married—she is one of the few gods in the [[List of Greek mythological characters|Greek Pantheon]] who is—she is frequently unfaithful to her husband.
+
+According to one version of Aphrodite's story, because of her immense beauty Zeus fears that the other gods will become violent with each other in their rivalry to possess her. To forestall this, he forces her to marry [[Hephaestus]], the dour, humorless god of smithing. In another version of the story, his mother, [[Hera]] casts him off Olympus, deeming him too ugly and deformed to inhabit the home of the gods. His revenge is to trap his mother in a magic throne. In return for her release, he demands to be given Aphrodite's hand in marriage.
+
+Hephaestus is overjoyed to be married to the goddess of beauty, and forges her beautiful jewelry, including a ''[[History of bras#Greece|strophion]]'' known as the ''kestos imas'',{{sfn|Bonner|1949|page=1}} a saltire-shaped undergarment (usually translated as &quot;girdle&quot;),{{sfn|Bonner|1949|pages=1-6}} which accentuated her breasts{{sfn|Bonner|1949|pages=1-2}} and made her even more irresistible to men.{{sfn|Bonner|1949|pages=1-6}} Such ''strophia'' were commonly used in depictions of the Near Eastern goddesses Ishtar and [[Atargatis]].{{sfn|Bonner|1949|pages=1-6}}
+
+Aphrodite is a major figure in the [[Trojan War]] legend. She is a contestant in the &quot;Judgement of Paris&quot; (see below), which leads to the war. She had been the lover of the Trojan [[Anchises]], and mother of his son [[Aeneas]]. Later, during the war, she saves Aeneas from [[Diomedes]], who wounds her.
+
+In Book Eight of the ''[[Odyssey]]'',{{sfn|Kerényi|1951|page=279}} the blind singer [[Demodocus (Odyssey character)|Demodocus]] tells of how Aphrodite committed [[adultery]] with [[Ares]], the god of war.{{sfn|Kerényi|1951|page=72}} The sun-god [[Helios]] saw Aphrodite and Ares having sex in Hephaestus's bed{{sfn|Kerényi|1951|page=72}} and warned Hephaestus,{{sfn|Kerényi|1951|page=72}} who fashioned a net of gold.{{sfn|Kerényi|1951|page=72}} The next time Ares and Aphrodite had sex together, the net trapped them both.{{sfn|Kerényi|1951|page=72}} Hephaestus brought all the gods into the bedchamber to laugh at the captured adulterers,{{sfn|Kerényi|1951|pages=72-73}} but [[Apollo]], [[Hermes]], and [[Poseidon]] had sympathy for Ares{{sfn|Kerényi|1951|pages=73-74}} and Poseidon agreed to pay Hephaestus for Ares's release.{{sfn|Kerényi|1951|page=74}} Humiliated, Aphrodite returned to Cyprus,{{sfn|Kerényi|1951|page=74}} where she was attended by the [[Charites]].{{sfn|Kerényi|1951|page=74}} This narrative probably originated as a Greek [[fairy tale|folk tale]], originally independent of the ''Odyssey''.{{sfn|Anderson|2000|pages=131-132}}
+
+===Adonis===
+[[File:Titian (Tiziano Vecellio) (Italian - Venus and Adonis - Google Art Project.jpg|thumb|upright=1.3|''Venus and [[Adonis]]'' by [[Titian]] (circa 1554)]]
+{{Main article|Adonis}}
+
+[[Adonis]] was the son of [[Myrrha]], who was cursed by Aphrodite with insatiable lust for her own father, King [[Cinyras]] of [[Cyprus]],{{sfn|Kerényi|1951|page=75}} after Myrrha's mother bragged that her daughter was more beautiful than the goddess.{{sfn|Kerényi|1951|page=75}} Driven out after becoming pregnant, Myrrha was changed into a [[myrrh]] tree, but still gave birth to Adonis.{{sfn|Kerényi|1951|pages=75=76}}
+
+Aphrodite found the baby,{{sfn|Kerényi|1951|page=76}} and took him to the underworld to be fostered by [[Persephone]].{{sfn|Kerényi|1951|page=76}} She returned for him once he was grown{{sfn|Kerényi|1951|page=76}} and discovered him to be strikingly handsome.{{sfn|Kerényi|1951|page=76}} Persephone wanted to keep Adonis;{{sfn|Kerényi|1951|page=76}} Zeus settled the dispute by decreeing that Adonis would spend one third of the year with Aphrodite, one third with Persephone, and one third with whomever he chose.{{sfn|Kerényi|1951|page=76}} Adonis chose Aphrodite, and they remained constantly together.{{sfn|Kerényi|1951|page=76}}
+
+Adonis, who loved to hunt, was wounded by a wild boar, and bled to death in Aphrodite's arms.{{sfn|Kerényi|1951|page=76}} As she mourned his death, she caused [[anemone]]s to grow wherever his blood fell,{{sfn|Kerényi|1951|page=76}} and declared a festival on the anniversary of his death.{{sfn|Kerényi|1951|page=76}} According to [[Lucian]]'s ''[[De Dea Syria]]'',{{sfn|Kerényi|1951|page=279}} the river Adonis in [[Lebanon]] ran red with blood.{{sfn|Kerényi|1951|page=76}} The myth of Aphrodite and Adonis is probably derived from the Near Eastern legend of Ishtar and [[Tammuz (deity)|Tammuz]].{{snf|West|1997|page=57}}{{snf|Kerényi|1951|page=67}}
+
+===The Judgement of Paris===
+{{Main article|Judgement of Paris}}
+[[File:Judgement Paris Antioch Louvre Ma3443.jpg|thumb|upright=1.3|right|Ancient Greek mosaic from [[Antioch]] dating to the second century AD, depicting the [[Judgement of Paris]]]]
+
+The gods are all invited to the marriage of [[Peleus]] and [[Thetis]] (the eventual parents of [[Achilles]]), except [[Eris (mythology)|Eris]], goddess of discord. In revenge, Eris makes a golden [[Apple of Discord]] inscribed ''kallistēi'' (&quot;to the fairest one&quot;), which she throws among the goddesses. Aphrodite, [[Hera]], and [[Athena]] all claim it.
+
+Zeus delegates the choice to a mortal, Paris. The goddesses offer him bribes. Hera offers him supreme power and Athena offers him wisdom, fame, and glory in battle. Aphrodite offers him [[Helen of Troy]], the most beautiful mortal woman in the world, as a wife. As the goddess of desire, she causes Paris to become inflamed with desire for Helen at first sight, and he awards the Apple of Discord to her. Helen is already married to King [[Menelaus]] of [[Sparta#Prehistory|Sparta]]. The other two goddesses are enraged by this, and through Helen's abduction by Paris, they bring about the Trojan War.
+
+===Other myths===
+
+[[File:Turtle Aphrodite AO20126 mp3h9188.jpg|250px|thumb|''Aphrodite Ourania'', draped rather than nude, with her foot resting on a [[tortoise]] ([[Musée du Louvre]])]]
+
+In one version of [[Hippolytus (mythology)|the legend of Hippolytus]], Aphrodite is the cause of his death. He scorned the worship of Aphrodite, preferring [[Artemis]]. Aphrodite caused his stepmother, [[Phaedra (mythology)|Phaedra]], to fall in love with him, knowing Hippolytus would reject her. This led to Phaedra's suicide, and the death of Hippolytus.
+
+[[Glaucus (son of Sisyphus)|Glaucus]] of Corinth angered Aphrodite. During the chariot race at the funeral games of King [[Pelias]], she drove his horses mad and they tore him apart.&lt;ref&gt;[[Hyginus]], ''Fabulae'' 250.3, 273.11; [[Pausanias (geographer)|Pausanias]], ''Guide to Greece'' 6.20.19&lt;/ref&gt;
+
+[[Polyphonte]] was a young woman who chose virginal life with Artemis instead of marriage and children, as favoured by Aphrodite. Aphrodite cursed her, causing her to have children by a bear. The resulting offspring, Agrius and Oreius, were wild cannibals who incurred the hatred of Zeus. Ultimately the whole family were transformed into birds of ill omen.&lt;ref&gt;[[Antoninus Liberalis]], ''Metamorphoses'', 21&lt;/ref&gt;
+
+==Consorts and children==
+[[File:Napoli BW 2013-05-16 16-32-51 DxO.jpg|thumb|250px|The so-called &quot;[[Venus (mythology)|Venus]] in a [[bikini]]&quot;, from the [[house of Julia Felix]], [[Pompeii]], Italy actually depicts [[Interpretatio Graeca|her Greek counterpart]] Aphrodite as she is about to untie her [[sandal]], with a small [[Eros]] squatting beneath her left arm, 1st-century AD&lt;ref group=&quot;Notes&quot;&gt;Museo Archeologico Nazionale (Napoli). &quot;[http://cir.campania.beniculturali.it/museoarcheologiconazionale/thematic-views/image-gallery/RA49?set_language=en  so-called Venus in a bikini].&quot; ''Cir.campania.beniculturali.it''. Accessed 3 October 2016.
+:&quot;''The statuette portrays Aphrodite on the point of untying the laces of the sandal on her left foot, under which a small Eros squats, touching the sole of her shoe with his right hand. The Goddess is leaning with her left arm (the hand is missing) against a figure of Priapus standing, naked and bearded, positioned on a small cylindrical altar while, next to her left thigh, there is a tree trunk over which the garment of the Goddess is folded. Aphrodite, almost completely naked, wears only a sort of costume, consisting of a corset held up by two pairs of straps and two short sleeves on the upper part of her arm, from which a long chain leads to her hips and forms a star-shaped motif at the level of her navel. The 'bikini', for which the statuette is famous, is obtained by the masterly use of the technique of gilding, also employed on her groin, in the pendant necklace and in the armilla on Aphrodite’s right wrist, as well as on Priapus’ phallus. Traces of the red paint are evident on the tree trunk, on the short curly hair gathered back in a bun and on the lips of the Goddess, as well as on the heads of Priapus and the Eros. Aphrodite’s eyes are made of glass paste, while the presence of holes at the level of the ear-lobes suggest the existence of precious metal ear-rings which have since been lost. An interesting insight into the female ornaments of Roman times, the statuette, probably imported from the area of Alexandria, reproduces with a few modifications the statuary type of Aphrodite untying her sandal, known from copies in bronze and terracotta''.&quot;
+
+For extensive research and a bibliography on the subject, see: de Franciscis 1963, p. 78, tav. XCI; Kraus 1973, nn. 270-271, pp. 194-195; Pompei 1973, n. 132; Pompeji 1973, n. 199, pp. 142 e 144; Pompeji 1974, n. 281, pp. 148-149; Pompeii A.D. 79 1976, p. 83 e n. 218; Pompeii A.D. 79 1978, I, n. 208, pp. 64-65, II, n. 208, p. 189; Döhl, Zanker 1979, p. 202, tav. Va; Pompeii A.D. 79 1980, p. 79 e n. 198; Pompeya 1981, n. 198, p. 107; Pompeii lives 1984, fig. 10, p. 46; Collezioni Museo 1989, I, 2, n. 254, pp. 146-147; PPM II, 1990, n. 7, p. 532; Armitt 1993, p. 240; Vésuve 1995, n. 53, pp. 162-163; Vulkan 1995, n. 53, pp. 162-163; LIMC VIII, 1, 1997, p. 210, s.v. Venus, n. 182; LIMC VIII, 2, 1997, p. 144; LIMC VIII, 1, 1997, p. 1031, s.v. Priapos, n. 15; LIMC VIII, 2, 1997, p. 680; Romana Pictura 1998, n. 153, p. 317 e tav. a p. 245; Cantarella 1999, p. 128; De Caro 1999, pp. 100-101; De Caro 2000, p. 46 e tav. a p. 62; Pompeii 2000, n. 1, p. 62.&lt;/ref&gt;]]
+
+# [[Hephaestus]]
+# [[Ares]]
+## [[Phobos (mythology)|Phobos]]
+## [[Deimos (mythology)|Deimos]]
+## [[Harmonia (mythology)|Harmonia]]
+## [[Adrestia]]
+## [[Erotes (mythology)|The Erotes]], viz.
+### [[Eros]]&lt;ref name=&quot;eros&quot;/&gt;
+### [[Anteros]]
+### [[Himeros]]
+### [[Pothos (mythology)|Pothos]]
+# [[Poseidon]]
+## [[Rhodos]]
+# [[Hermes]]
+## [[Tyche]] (possibly)
+## [[Hermaphroditos]]
+# [[Dionysus]]
+## The [[Charites]] (Graces) (possibly), viz.
+### [[Thalia (Grace)|Thalia]]
+### [[Euphrosyne (mythology)|Euphrosyne]]
+### [[Aglaea]]
+## [[Priapus]]
+# Zeus
+## Tyche (possibly)
+#[[Adonis]]
+##[[Beroe (mythology)|Beroe]]
+##[[Golgos]]&lt;ref name=Graves70 /&gt;
+## Priapus &lt;ref name=Graves70&gt;{{cite book | title=The Greek Myths | publisher=Penguin Books | author=Graves, Robert | year=1960 | location=London | pages=70 | isbn=9780140171990}}&lt;/ref&gt;
+# [[Phaethon (son of Eos)]]
+## Astynoos
+# [[Anchises]]
+## [[Aeneas]]
+## Lyrus
+# [[Butes]]
+## [[Eryx]]
+## Meligounis + several more unnamed daughters&lt;ref&gt;[[Hesychius of Alexandria]] s. v. Μελιγουνίς: &quot;Meligounis: this is what the island [[Lipara]] was called. Also one of the daughters of Aphrodite.&quot;&lt;/ref&gt;
+## [[Peitho]]
+
+==Gallery==
+&lt;gallery&gt;
+File:CallipygianVenus.jpg|''The [[Venus Kallipygos]].'' ''Aphrodite Kallipygos'' (&quot;Aphrodite of the Beautiful Buttocks&quot;),&lt;ref group=&quot;Notes&quot;&gt;The word &quot;callipygian&quot; is defined as &quot;having shapely buttocks&quot; by [[Merriam-Webster]].&lt;/ref&gt; is a type of nude female statue of the [[Hellenistic]] era. It depicts a partially draped woman&lt;ref group=&quot;Notes&quot;&gt;Conventionally presumed to be [[Venus (mythology)|Venus]], though it may equally be a portrait of a mortal woman, such as a [[hetaira]], or an image of the goddess modeled on one such.&lt;/ref&gt; raising her light [[peplos]]&lt;ref group=&quot;Notes&quot;&gt;The gesture of Aphrodite/Venus lifting the robe symbolized religious initiation and the ancient Greeks worshiped the woman's &quot;rich&quot; buttocks to obtain great wealth on earth as the two Syracusan sisters who inspired the Kallipygos idea had accomplished.&lt;/ref&gt; to uncover her [[hip (anatomy)#Cultural significance of hips|hips]] and [[buttocks]], and looking back and down over her shoulder, perhaps to evaluate them.
+File:Cnidus Aphrodite Altemps Inv8619.jpg|The Ludovisi ''Cnidian Aphrodite'', Roman marble copy (torso and thighs) with restored head, arms, legs and drapery support. The ''[[Aphrodite of Cnidus]]'' was one of the most famous works of the [[Attica|Attic]] [[Sculpture|sculptor]] [[Praxiteles]] (4th century BC).
+File:Venere di Milo 02.JPG|''[[Aphrodite of Milos]]'' (c.100 BC), [[Louvre]]
+File:Venus pudica Massimo.jpg|''[[Aphrodite of Menophantos]]'', a [[Venus Pudica]] signed by [[Menophantos]], 1st century BC, found at San Gregorio al Celio, Rome ([[Museo Nazionale Romano]]), of the [[Capitoline Venus]] type
+File:Aphrodite Heyl (2).jpg|''[[Aphrodite Heyl]]'', [[terracotta]] statuette of very high quality, probably from [[Myrina (Mysia)|Myrina]], 2nd century BC
+File:Aphrodite Anadyomene from Pompeii cropped.jpg|The [[Venus Anadyomene]], from [[Pompeii]], believed to be a copy of a lost work by [[Apelles]]
+File:Ludovisi throne Altemps Inv8570.jpg|The [[Ludovisi Throne]] (460 BC?) is believed to be a classical Greek [[bas-relief]], although it has also been alleged to be a 19th-century forgery.
+File:Aphrodite swan BM D2.jpg|Aphrodite riding a swan: Attic white-ground red-figured ''[[kylix (drinking cup)|kylix]]'', c. 460, found at Kameiros (Rhodes)
+&lt;/gallery&gt;
+
+== See also ==
+{{Portal|Hellenismos|Greek mythology}}
+* [[Hellenismos]]
+* [[Lucifer]]
+
+==Notes==
+{{reflist|group=&quot;Notes&quot;}}
+
+==References==
+{{Reflist|20em}}
+
+===Bibliography===
+{{refbegin}}
+* {{citation|title=Fairytale in the Ancient World|last=Anderson|first=Graham|year=2000|location=London, England|publisher=Routledge|isbn=978-0-415-23702-4|pages=131-132|url= https://books.google.com/books/about/Fairytale_in_the_Ancient_World.html?id=B2DAAlUrbBIC}}
+* {{citation|last=Boedeker|first=Deborah|authorlink=Deborah Boedeker|title=Aphrodite's Entry into Greek Epic|location=Leiden, Germany|publisher=Brill|date=1974|pages=15-6}}
+* {{citation|last=Beekes|first=Robert S. P.|authorlink=Robert Beekes|title=Etymological Dictionary of Greek|publisher=Brill|location=Leiden and Boston|date=2009|volume=1}}
+* {{citation|last=Bonner|first=Campbell|date=1949|title=KESTOS IMAS and the Saltire of Aphrodite|journal=The American Journal of Philology|volume=70|issue=1|pages=1-6|publisher=The Johns Hopkins University Press|url=http://www.jstor.org/stable/290961|doi=10.2307/290961}}
+* {{citation|last=Burkert|first=Walter|authorlink=Walter Burkert|date=1985|title=Greek Religion|publisher=Harvard University Press|location=Cambridge, Massachusetts|isbn=0-674-36281-0}}
+* {{citation|last=Burkert|first=Walter|date=1998|origyear=1992|title=The Orientalizing Revolution: Near Eastern Influence on Greek Culture in the Early Archaic Age|url=https://books.google.com/books/about/The_Orientalizing_Revolution.html?id=cIiUL7dWqNIC|publisher=Harvard University Press|isbn=978-0674643642}}
+* {{citation|last=Dumézil|first=Georges|authorlink=Georges Dumézil|title=Ouranos-Vàruna: Ètude de mythologie compáree indo-européene|location=Paris|publisher=Maisonneuve|date=1934}}
+* {{citation|last=Frisk|first=Hjalmar|title=Griechisches etymologisches Wörterbuch|volume=1|location=Heidelberg|publisher=Carl Winter|date=1960|page=196 f.}}
+* {{citation|last=Graves|first=Robert|authorlink=Robert Graves|origyear=1955|date=1960|title=The Greek Myths|location=London, England|publisher=Penguin|isbn=978-0241952740}}
+* {{citation|last=Janda|first=Michael|title=Elysion. Entstehung und Entwicklung der griechischen Religion|location=Innsbruck|publisher=Institut für Sprachen und Literaturen|date=2005|url=https://books.google.com/books/about/Elysion.html?id=kglZAAAAMAAJ|isbn=9783851247022}}
+* {{citation|last=Janda|first=Michael|title=Die Musik nach dem Chaos: der Schöpfungsmythos der europäischen Vorzeit|location=Innsbruck|publisher=Institut für Sprachen und Literaturen|date=2010|url=https://books.google.com/books/about/Die_Musik_nach_dem_Chaos.html?id=AQE4AQAAIAAJ|isbn=9783851242270}}
+* {{citation|last=Kerényi|first=Karl|authorlink=Károly Kerényi|title=The Gods of the Greeks|publisher=Thames and Hudson|location=London, England|date=1951|isbn=0-500-27048-1}}
+* {{citation|last1=Marcovich|first1=Miroslav|title=From Ishtar to Aphrodite|journal=Journal of Aesthetic Education|date=1996|volume=39|issue=2|pages=43-59|doi=10.2307/3333191|url=https://www.jstor.org/stable/3333191?seq=1#page_scan_tab_contents}}
+* {{citation|last=Penglase|first=Charles|authorlink=Charles Penglase|title=Greek Myths and Mesopotamia: Parallels and Influence in the Homeric Hymns and Hesiod|location=New York City, New York|publisher=Routledge|date=1997|page=164}}
+* {{citation|last=Puhvel|first=Jaan|authorlink=Jaan Puhvel|title=Comparative Mythology|date=1987|publisher=Johns Hopkins University Press|location=Baltimore, Maryland|isbn=0-8018-3938-6}}
+* Vinciane Pirenne-Delforge (1994). ''L'Aphrodite grecque: contribution à l'étude de ses cultes et de sa personnalité dans le panthéon archaïque et classique,'' (Athènes : Centre international d'étude de la religion grecque antique (Kernos. Supplément ; 4))
+* {{citation|last=West|first=M. L.|authorlink=M. L. West|title=The East Face of Helicon: West Asiatic Elements in Greek Poetry and Myth|date=1997|publisher=Clarendon Press|location=Oxford, England|isbn=0-19-815221-3|page=57|url=https://books.google.com/books?id=fIp0RYIjazQC&amp;q=Adonis#v=snippet&amp;q=Adonis&amp;f=false}}
+* {{citation|last=Witczak|first=Krzysztof Tomasz|authorlink=w:pl:Krzysztof Tomasz Witczak|date=1993|title=Greek Aphrodite and her Indo-European origins|journal=Miscellanea Linguistica Graeco-Latina|editor=Lambert Isebaert|location=Namur|publisher=Société des études classiques|pages=115-123}}
+* {{citation|last=Witt|first=Reginald Eldred|title=Isis in the Ancient World|publisher=Johns Hopkins University Press|date=1997|isbn=0-8018-5642-6}}
+* {{citation|last=Wunderlich|first=Hans Georg|date=1987|translator-last=Winston|translator-first=R.|title=The Secret of Crete|page=134}}
+{{refend}}
+
+==External links==
+{{wiktionary|Ἀφροδίτη}}
+{{Commons|Aphrodite}}
+* [http://www.theoi.com/Olympios/Aphrodite.html Theoi Project, Aphrodite] information from classical literature, Greek and Roman art
+* [https://www.nytimes.com/2008/12/19/arts/design/19wome.html?em The Glory which Was Greece from a Female Perspective]
+* [http://afrodite.saffo.googlepages.com/aphrodite-sappho.html Sappho's Hymn to Aphrodite, with a brief explanation]`
+
+{{Greek myth (Olympian)}}
+{{Greek religion}}
+{{Greek mythology (deities)}}
+{{List of mythological figures by region}}
+{{Paganism}}
+{{Neopaganism}}
+
+{{Authority control}}
+
+[[Category:Aphrodite]]
+[[Category:Mythological Greek characters]]
+[[Category:Love and lust goddesses]]
+[[Category:Fertility goddesses]]
+[[Category:Sexuality in ancient Greece]]
+[[Category:Sexuality and religion]]
+[[Category:Deities in the Iliad]]
+[[Category:Greek goddesses]]
+[[Category:Ancient Greek religion]]
+[[Category:Indo-European deities]]
+[[Category:Requests for audio pronunciation (Greek)]]
+[[Category:Greek love and lust deities]]
+[[Category:LGBT themes in mythology]]
+[[Category:Women of Ares]]
+[[Category:Women of Hermes]]
+[[Category:Consorts of Hephaestus]]</text>
+<sha1>ftp4vw1k6h4ub3t9z44bdrwfrbm4tp8</sha1>
+</revision>
+</page>

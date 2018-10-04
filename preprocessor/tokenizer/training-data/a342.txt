@@ -1,0 +1,21 @@
+<page>
+<title>A priori and a posteriori knowledge</title>
+<ns>0</ns>
+<id>982</id>
+<redirect title="A priori and a posteriori" />
+<revision>
+<id>254524109</id>
+<parentid>103446497</parentid>
+<timestamp>2008-11-28T01:20:26Z</timestamp>
+<contributor>
+<username>RussBot</username>
+<id>279219</id>
+</contributor>
+<minor />
+<comment>Robot: Fixing [[Special:DoubleRedirects|double-redirect]] -&quot;A priori and a posteriori (philosophy)&quot; +&quot;A priori and a posteriori&quot;</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[A priori and a posteriori]]</text>
+<sha1>39wescsw4pzs7gpt6xwo1sgrd50sq7f</sha1>
+</revision>
+</page>

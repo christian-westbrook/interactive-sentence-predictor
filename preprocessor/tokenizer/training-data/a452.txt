@@ -1,0 +1,21 @@
+<page>
+<title>Admiral Doenitz</title>
+<ns>0</ns>
+<id>1179</id>
+<redirect title="Karl Dönitz" />
+<revision>
+<id>15899678</id>
+<parentid>1002982</parentid>
+<timestamp>2003-06-06T01:31:54Z</timestamp>
+<contributor>
+<username>Camembert</username>
+<id>3113</id>
+</contributor>
+<minor />
+<comment>fix double redir</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Karl Dönitz]]</text>
+<sha1>qc1b314h23yi2o8sds1etyoawumtst5</sha1>
+</revision>
+</page>

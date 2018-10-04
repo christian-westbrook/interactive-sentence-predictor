@@ -1,0 +1,27 @@
+<page>
+<title>Ancient civilization</title>
+<ns>0</ns>
+<id>873</id>
+<redirect title="Civilization" />
+<revision>
+<id>769390808</id>
+<parentid>627877764</parentid>
+<timestamp>2017-03-09T06:29:55Z</timestamp>
+<contributor>
+<username>AddWittyNameHere</username>
+<id>19382112</id>
+</contributor>
+<comment>Convert deprecated template.</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Civilization]]
+
+{{Rcat shell|
+{{R from merge}}
+{{R long}}
+{{R subtopic}}
+{{R p}}
+}}</text>
+<sha1>77sbzmfsinbiions1ed17ib8jxiind9</sha1>
+</revision>
+</page>

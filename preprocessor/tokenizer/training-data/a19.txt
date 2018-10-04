@@ -1,0 +1,27 @@
+<page>
+<title>ArtificalLanguages</title>
+<ns>0</ns>
+<id>42</id>
+<redirect title="Constructed language" />
+<revision>
+<id>769390206</id>
+<parentid>626556798</parentid>
+<timestamp>2017-03-09T06:21:07Z</timestamp>
+<contributor>
+<username>AddWittyNameHere</username>
+<id>19382112</id>
+</contributor>
+<comment>Convert deprecated template.</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Constructed language]]
+
+{{Rcat shell|
+{{R from move}}
+{{R from misspelling|&lt;small&gt;''(see also)''&lt;/small&gt; [[Artificial language]]s}}
+{{R from CamelCase}}
+{{Unprintworthy redirect}}
+}}</text>
+<sha1>6qnb2tq7rjujtj93zx0iws8ebhcslgn</sha1>
+</revision>
+</page>

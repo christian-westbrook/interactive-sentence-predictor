@@ -1,0 +1,51 @@
+<page>
+<title>Asa</title>
+<ns>0</ns>
+<id>1197</id>
+<revision>
+<id>788789596</id>
+<parentid>788500024</parentid>
+<timestamp>2017-07-03T14:10:00Z</timestamp>
+<contributor>
+<username>Bernie44</username>
+<id>13841666</id>
+</contributor>
+<comment>/* People */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">{{About|the word and the name &quot;Asa&quot;|the initialism or acronym|ASA (disambiguation){{!}}'''''ASA'''''}}
+{{wiktionary|ASA|Asa|asa}}
+'''Asa''' may refer to:
+
+{{tocright}}
+== People ==
+* [[Asa (name)]], a given name (including a list of persons with the name)
+* [[Asa people]], an ethnic group of Tanzania
+* [[Asa language]], of the Asa people
+* Asa, god of the [[Kamba people]] ethnic group in Kenya
+* [[Aṣa]] (born 1982), Nigerian French singer-songwriter and recording artist
+* [[Asa of Judah]], a king of Judah according to the Bible
+* [[Asa (rapper)]] (born 1980), Finnish rapper
+* [[Asa Keisar]] (born 1973), an Israeli Jewish advocate for veganism
+
+== Places ==
+* [[Asa, Iran]], in South Khorasan Province
+* [[Asa, Kwara]], a Local Government Area in Kwara State, Nigeria
+* [[Asa River (disambiguation)]], multiple rivers with the name
+
+== Other ==
+* [[Asa Shigure]], character in the ''Shuffle!'' media franchise
+* [[Asa (album)|''Asa'' (album)]], 2013 Falkenbach album
+* [[Asa (raga)]], Indian format of musical rules
+* Ása, genitive of [[Æsir]], the predominant group among the Norse gods
+* [[Asa Station]], Japanese railway station in San'yō-Onoda, Yamaguchi
+* Asa, or [[naboot]], a staff used in Egyptian stick fencing
+* Asa. a song by [[Catfish and the Bottlemen]]
+
+==See also==
+* [[ASA (disambiguation)]]
+* [[Åsa (disambiguation)]]
+{{disambiguation}}</text>
+<sha1>9bwq3ck5lk20u5gnjx9tvaffv1n07sv</sha1>
+</revision>
+</page>

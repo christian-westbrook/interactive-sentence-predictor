@@ -1,0 +1,21 @@
+<page>
+<title>Allotropes</title>
+<ns>0</ns>
+<id>1195</id>
+<redirect title="Allotropy" />
+<revision>
+<id>578940619</id>
+<parentid>528472839</parentid>
+<timestamp>2013-10-27T11:12:03Z</timestamp>
+<contributor>
+<username>Graham87</username>
+<id>194203</id>
+</contributor>
+<minor />
+<comment>1 revision from [[:nost:Allotropes]]: import old edit, see [[User:Graham87/Import]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Allotropy]]</text>
+<sha1>gf40ob6dfvd5pr6o6curxoqqyyxrbpv</sha1>
+</revision>
+</page>

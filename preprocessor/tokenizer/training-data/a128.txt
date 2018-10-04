@@ -1,0 +1,19 @@
+<page>
+<title>Arithmetic and logic unit</title>
+<ns>0</ns>
+<id>644</id>
+<redirect title="Arithmetic logic unit" />
+<revision>
+<id>375387155</id>
+<parentid>15899172</parentid>
+<timestamp>2010-07-25T15:56:11Z</timestamp>
+<contributor>
+<username>Rich Farmbrough</username>
+<id>82835</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Arithmetic logic unit]]</text>
+<sha1>fmjpx9gnvs391rwlh9jx80n8eb04ecf</sha1>
+</revision>
+</page>

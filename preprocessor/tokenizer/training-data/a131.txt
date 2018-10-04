@@ -1,0 +1,224 @@
+<page>
+<title>America the Beautiful</title>
+<ns>0</ns>
+<id>651</id>
+<revision>
+<id>802273021</id>
+<parentid>802249296</parentid>
+<timestamp>2017-09-25T02:39:14Z</timestamp>
+<contributor>
+<username>BilCat</username>
+<id>2043601</id>
+</contributor>
+<comment>Undid revision 802249296 by [[Special:Contributions/203.213.115.1|203.213.115.1]] ([[User talk:203.213.115.1|talk]]) better before, and a redirect was easily created</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">{{Other uses|America the Beautiful (disambiguation)}}
+{{Redirect|Materna}}
+{{refimprove|date = November 2013}}
+{{Use mdy dates|date=June 2013}}
+{{Infobox musical composition &lt;!-- See Wikipedia:WikiProject_Songs --&gt;
+| name           = &quot;America the Beautiful&quot;
+| image          = 5 America, the Beautiful.png
+| caption        = Sheet music
+| composer       = [[Samuel A. Ward]]
+| genre           = [[Patriotic song]]
+| text         = by [[Katharine Lee Bates]]
+| published      = 1910 (words with music)
+}}
+{{Listen|type=music|filename=America the Beautiful (US Navy Band).ogg|title=&quot;America the Beautiful&quot;|description=Performed by the [[United States Navy Band]] and Sea Chanters, arr. Carmen Dragon
+|filename2=America (US Army Brass).ogg|title2=&quot;America the Beautiful&quot;|description2=[[United States Army Band]] Brass version}}[[File:Grace Church Newark plaque.jpg|thumb|Historical marker at [[Grace Church (Newark)|Grace Church in Newark]] where [[Samuel A. Ward|Samuel Ward]] worked as organist, and wrote and perfected the tune &quot;Materna&quot; for America the Beautiful.]]
+
+&quot;'''America the Beautiful'''&quot; is an American [[patriotic song]]. The lyrics were written by [[Katharine Lee Bates]], and the music was composed by church organist and choirmaster [[Samuel A. Ward]] at [[Grace Church (Newark)|Grace Episcopal Church]] in Newark, New Jersey.&lt;ref&gt;{{Cite web|url=http://www.nj.com/news/index.ssf/2016/03/america_the_beautiful_began_in_newark_di_ionno.html#incart_river_index|title='America the Beautiful' began in Newark {{!}} Di Ionno|access-date=2016-09-18}}&lt;/ref&gt;
+
+Bates originally wrote the words as a poem, &quot;Pikes Peak&quot;, first published in the [[Fourth of July]] edition of the church periodical ''The Congregationalist'' in 1895. At that time, the poem was titled &quot;America&quot; for publication.
+
+Ward had originally written the music, &quot;Materna&quot;, for the hymn &quot;[[O Mother dear, Jerusalem]]&quot; in 1882, though it was not first published until 1892.&lt;ref&gt;{{cite book|last=McKim|first=LindaJo|title=The Presbyterian Hymnal Companion|url=https://books.google.com/books?id=kde8yd0INHsC&amp;pg=PA379|page=379|publisher=John Knox Press|location=Louisville, Kentucky|accessdate=2012-06-22|year=1993|isbn=9780664251802}} (McKim notes that Ward mailed a friend a postcard in which he stated the hymn had been composed in 1882, however).&lt;/ref&gt; Ward's music combined with the Bates poem was first published in 1910 and titled ''America the Beautiful''.
+
+The song is one of the most popular of the many American patriotic songs.&lt;ref&gt;{{cite web|url=http://lcweb2.loc.gov/diglib/ihas/loc.natlib.ihas.100010615/full.html |title=Materna (O Mother Dear, Jerusalem) / Samuel Augustus Ward [hymnal&amp;#93;:Print Material Full Description: Performing Arts Encyclopedia, Library of Congress |publisher=Lcweb2.loc.gov |date=2007-10-30 |accessdate=2011-08-20}}&lt;/ref&gt;
+
+==History==
+[[File:Americathebeautiful.jpg|left|thumb|upright|Commemoration plaque atop [[Pikes Peak]] in July 1999]]
+
+In 1893, at the age of 33, Bates, an English professor at [[Wellesley College]], had taken a train trip to [[Colorado Springs, Colorado|Colorado Springs]], Colorado, to teach a short summer school session at [[Colorado College]].&lt;ref&gt;{{Cite news|url=http://articles.latimes.com/2001/nov/09/news/cl-1924|title=A Stirring Story Behind 'America the Beautiful'|last=COONEY|first=BETH|date=2001-11-09|work=Los Angeles Times|access-date=2017-08-21|language=en-US|issn=0458-3035}}&lt;/ref&gt; Several of the sights on her trip inspired her, and they found their way into her poem, including the [[World's Columbian Exposition]] in [[Chicago]], the &quot;White City&quot; with its promise of the future contained within its alabaster buildings;&lt;ref&gt;{{Cite web|url=http://www.uh.edu/engines/epi1238.htm|title=No. 1238: 1893 Exhibition|website=www.uh.edu|access-date=2017-08-21}}&lt;/ref&gt; the wheat fields of America's heartland [[Kansas]], through which her train was riding on July 16; and the majestic view of the [[Great Plains]] from high atop [[Pikes Peak]].&lt;ref&gt;{{Cite news|url=https://www.loc.gov/item/ihas.200000001/|title=America the Beautiful|last=|first=|date=|work=The Library of Congress|access-date=2017-08-21|archive-url=|archive-date=|dead-url=|language=en}}&lt;/ref&gt;
+
+On the pinnacle of that mountain, the words of the poem started to come to her, and she wrote them down upon returning to her hotel room at the original [[Antlers Hilton Hotel|Antlers Hotel]]. The poem was initially published two years later in ''The Congregationalist'' to commemorate [[Independence Day (United States)|the Fourth of July.]] It quickly caught the public's fancy. Amended versions were published in 1904 and 1911.
+
+The first known melody written for the song was sent in by Silas Pratt when the poem was published in ''The Congregationalist.'' By 1900, at least 75 different melodies had been written.&lt;ref name=&quot;Collins2009&quot;&gt;{{cite book|url=https://books.google.com/books?id=3SXYDQAAQBAJ|title=Stories Behind the Hymns That Inspire America: Songs That Unite Our Nation|author=Ace Collins|date=30 August 2009|publisher=Zondervan|isbn=978-0-310-86685-5}}&lt;/ref&gt; A [[hymn tune]] composed by [[Samuel A. Ward]] was generally considered the best music as early as 1910 and is still the popular tune today. Just as Bates had been inspired to write her poem, Ward, too, was inspired to compose his tune. The tune came to him while he was on a ferryboat trip from [[Coney Island]] back to his home in [[New York City]], after a leisurely summer day in 1882, and he immediately wrote it down. Supposedly, he was so anxious to capture the tune in his head, he asked fellow passenger friend Harry Martin for his shirt cuff to write the tune on. He composed the tune for the old hymn &quot;O Mother Dear, Jerusalem&quot;, retitling the work &quot;Materna&quot;. Ward's music combined with Bates's poem were first published together in 1910 and titled &quot;America the Beautiful&quot;.&lt;ref&gt;{{cite book
+|title=Songs Sung Red, White, and Blue: The Stories Behind America's Best-Loved Patriotic Songs
+|first=Ace |last=Collins
+|page=19
+|publisher=Harper
+|year=2003
+|isbn= 0-06-051304-7
+|url=https://books.google.com/books?id=kKsA1Qi8BBgC&amp;pg=PA19#v=onepage&amp;f=false}}&lt;/ref&gt;
+
+Ward died in 1903, not knowing the national stature his music would attain since the music was only first applied to the song in 1904. Bates was more fortunate since the song's popularity was well established by the time of her death in 1929.&lt;ref name=&quot;Collins2009&quot; /&gt;
+
+At various times in the more than 100 years that have elapsed since the song was written, particularly during the [[John F. Kennedy]] administration, there have been efforts to give &quot;America the Beautiful&quot; legal status either as a national hymn or as a national anthem equal to, or in place of, &quot;[[The Star-Spangled Banner]]&quot;, but so far this has not succeeded. Proponents prefer &quot;America the Beautiful&quot; for various reasons, saying it is easier to sing, more melodic, and more adaptable to new orchestrations while still remaining as easily recognizable as &quot;[[The Star-Spangled Banner]]&quot;. Some prefer &quot;America the Beautiful&quot; over &quot;The Star-Spangled Banner&quot; due to the latter's war-oriented imagery. Others prefer &quot;The Star-Spangled Banner&quot; for the same reason. While that national dichotomy has stymied any effort at changing the tradition of the national anthem, &quot;America the Beautiful&quot; continues to be held in high esteem by a large number of Americans.{{citation needed|date=February 2016}}
+
+This song was used as the background music of the television broadcast of the [[Tiangong-1]] launch.&lt;ref&gt;https://www.theguardian.com/world/2011/sep/30/china-launch-america-the-beautiful&lt;/ref&gt;
+
+The song is often included in songbooks in a wide variety of religious congregations in the United States.
+{{Clear}}
+
+==Lyrics==
+{| style=&quot;white-space:nowrap&quot;
+|+'''America. A Poem for July 4.'''
+|&lt;poem&gt;Original poem (1893)&lt;ref&gt;{{cite journal |title=America. A Poem for July 4 |journal=The American Kitchen Magazine |year=1897 |last=Bates |first=Katherine Lee |volume=7 |page=151 |url=https://books.google.com/books?id=uXbOAAAAMAAJ&amp;pg=PA151#v=onepage&amp;q&amp;f=false|accessdate=2016-05-13 }}&lt;/ref&gt;
+
+O beautiful for halcyon skies,
+For amber waves of grain,
+For purple mountain majesties
+Above the enameled plain!
+America! America!
+God shed His grace on thee,
+Till souls wax fair as earth and air
+And music-hearted sea!
+
+O beautiful for pilgrim feet
+Whose stern, impassioned stress
+A thoroughfare for freedom beat
+Across the wilderness!
+America! America!
+God shed His grace on thee
+Till paths be wrought through wilds of thought
+By pilgrim foot and knee!
+
+O beautiful for glory-tale
+Of liberating strife,
+When once or twice, for man's avail,
+Men lavished precious life!
+America! America!
+God shed His grace on thee
+Till selfish gain no longer stain,
+The banner of the free!
+
+O beautiful for patriot dream
+That sees beyond the years
+Thine alabaster cities gleam
+Undimmed by human tears!
+America! America!
+God shed His grace on thee
+Till nobler men keep once again
+Thy whiter jubilee!&lt;/poem&gt;
+|&lt;poem style=&quot;margin-left:1em;&quot;&gt;1904 version{{citation needed|date=February 2016}}
+&amp;nbsp;
+O beautiful for spacious skies,
+For amber waves of grain,
+For purple mountain majesties
+Above the fruited plain!
+America! America!
+God shed His grace on thee,
+And crown thy good with brotherhood
+From sea to shining sea!
+
+O beautiful for pilgrim feet
+Whose stern impassioned stress
+A thoroughfare for freedom beat
+Across the wilderness.
+America! America!
+God mend thine ev'ry flaw,
+Confirm thy soul in self-control,
+Thy liberty in law.
+
+O beautiful for glorious tale
+Of liberating strife,
+When valiantly for man's avail
+Men lavish precious life.
+America! America!
+May God thy gold refine
+Till all success be nobleness,
+And ev'ry gain divine.
+
+O beautiful for patriot dream
+That sees beyond the years
+Thine alabaster cities gleam
+Undimmed by human tears.
+America! America!
+God shed His grace on thee,
+And crown thy good with brotherhood
+From sea to shining sea.&lt;/poem&gt;
+|&lt;poem style=&quot;margin-left:1em;&quot;&gt;1911 version&lt;ref&gt;[https://archive.org/details/americabeautiful00baterich Bates, Katharine Lee (1911). ''America the Beautiful and Other Poems''.  New York: Thomas Y. Crowell Company, pp. 3-4.]&lt;/ref&gt;
+&amp;nbsp;
+O beautiful for spacious skies,
+For amber waves of grain,
+For purple mountain majesties
+Above the fruited plain!
+America! America!
+God shed His grace on thee
+And crown thy good with brotherhood
+From sea to shining sea!
+
+O beautiful for pilgrim feet,
+Whose stern, impassioned stress
+A thoroughfare for freedom beat
+Across the wilderness!
+America! America!
+God mend thine every flaw,
+Confirm thy soul in self-control,
+Thy liberty in law!
+
+O beautiful for heroes proved
+In liberating strife,
+Who more than self their country loved
+And mercy more than life!
+America! America!
+May God thy gold refine,
+Till all success be nobleness,
+And every gain divine!
+
+O beautiful for patriot dream
+That sees beyond the years
+Thine alabaster cities gleam
+Undimmed by human tears!
+America! America!
+God shed His grace on thee
+And crown thy good with brotherhood
+From sea to shining sea!&lt;/poem&gt;
+|}
+
+==Popular versions==
+In 1976, while the United States celebrated its bicentennial, a soulful version popularized by [[Ray Charles]] peaked at number 98 on the US R&amp;B Charts,&lt;ref&gt;[[Ray Charles discography]]&lt;/ref&gt; and is included on the soundtrack for the movie ''[[The Sandlot]]''.
+
+Three different renditions of the song have entered the [[Hot Country Songs]] charts. The first was by [[Charlie Rich]], which went to number 22 in 1976.&lt;ref&gt;{{cite book|last=Whitburn|first=Joel|title=Hot Country Songs 1944 to 2008|publisher=Record Research, Inc|year=2008|page=350|isbn=0-89820-177-2}}&lt;/ref&gt; A second, by [[Mickey Newbury]], peaked at number 82 in 1980.&lt;ref&gt;Whitburn, p. 297&lt;/ref&gt; An [[all-star]] version of &quot;America the Beautiful&quot; performed by [[country music|country]] singers [[Trace Adkins]], [[Sherrié Austin]], [[Billy Dean]], [[Vince Gill]], [[Carolyn Dawn Johnson]], [[Toby Keith]], [[Brenda Lee]], [[Lonestar]], [[Lyle Lovett]], [[Lila McCann]], [[Lorrie Morgan]], [[Jamie O'Neal]], [[The Oak Ridge Boys]], [[Collin Raye]], [[Kenny Rogers]], [[Keith Urban]] and [[Phil Vassar]] reached number 58 in July 2001. The song re-entered the chart following the [[September 11 attacks]].&lt;ref&gt;Whitburn, p. 24&lt;/ref&gt;
+
+A [[punk rock]] adaptation of the song was recorded in 1976 by [[New York City|New York]] band [[The Dictators]], and released on their album Every Day is Saturday.&lt;ref&gt;[https://www.discogs.com/Dictators-Every-Day-Is-Saturday/release/2656919 Dictators discography]&lt;/ref&gt;
+
+Popularity of the song increased greatly following the September 11 attacks; at some sporting events it was sung in addition to the traditional singing of the national anthem. During the first taping of the ''[[Late Show with David Letterman]]'' following the attacks, CBS newsman [[Dan Rather]] cried briefly as he quoted the fourth verse.&lt;ref&gt;{{cite news |date=2001-09-18 |work=Salon.com |title=Dan Rather's tears; Journalists don't cry on camera. That was before last week. |url=http://archive.salon.com/ent/tv/feature/2001/09/18/rather/index.html |first=Stephanie |last=Zacharek}}&lt;/ref&gt;
+
+For [[Super Bowl XLVIII]], [[The Coca-Cola Company]] aired a multilingual version of the song, sung in several different languages.  The commercial received some criticism on social media sites, such as Twitter and Facebook, and from some conservatives, such as [[Glenn Beck]].&lt;ref&gt;{{Cite web|url=http://www.nydailynews.com/entertainment/tv-movies/coca-cola-super-bowl-ad-angers-conservatives-article-1.1600849|title=Coca Cola's Super Bowl ad angers conservatives|website=NY Daily News|access-date=2016-05-05}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=https://www.usatoday.com/story/news/nation-now/2014/02/03/coca-cola-ad-super-bowl-racism/5177463/|title=Coca-Cola Super Bowl ad: Can you believe this reaction?|website=USA TODAY|access-date=2016-05-06}}&lt;/ref&gt;&lt;ref&gt;{{cite news| url=http://time.com/3773/coca-colas-its-beautiful-super-bowl-ad-brings-out-some-ugly-americans/ | work=Time | first=James | last=Poniewozik | title=Coca-Cola's &quot;It's Beautiful&quot; Super Bowl Ad Brings Out Some Ugly Americans | date=February 2, 2014}}&lt;/ref&gt; Despite the controversies, Coca-Cola later reused the Super Bowl ad during [[Super Bowl LI]], the opening ceremonies of the [[2014 Winter Olympics]] and [[2016 Summer Olympics]] and in patriotic holidays.&lt;ref&gt;[http://www.coca-colacompany.com/press-center/company-statements/its-beautiful-commercial &quot;It's Beautiful&quot; Commercial] by the Coca-Cola Company Press Center. February 5, 2017&lt;/ref&gt;&lt;ref name=&quot;sbnation-cocacolaagain&quot;&gt;{{cite web|title=Coca-Cola ran a Super Bowl commercial about diversity and inclusion and people are mad|url=http://www.sbnation.com/nfl/2017/2/5/14517202/coca-cola-america-the-beautiful-add-boycott-twitter|website=SB Nation|accessdate=6 February 2017}}&lt;/ref&gt;
+
+==Idioms==
+&quot;From sea to shining sea&quot;, originally used in the charters of some of the English Colonies in North America, is an American [[idiom]] meaning &quot;from the [[Atlantic Ocean]] to the [[Pacific Ocean]]&quot; (or vice versa). Other songs that have used this phrase include the American patriotic song &quot;[[God Bless the USA]]&quot; and [[Schoolhouse Rock]]'s &quot;Elbow Room&quot;. The phrase and the song are also the namesake of the [[Shining Sea Bikeway]], a [[bike path]] in Bates's hometown of [[Falmouth, Massachusetts]]. The phrase is similar to the Latin phrase &quot;''{{Lang|la|[[A Mari Usque Ad Mare]]}}''&quot; (&quot;From sea to sea&quot;), which serves as the official motto of [[Canada]].&lt;ref&gt;{{cite web|last1=Martin|first1=Gary|title=From sea to shining sea|url=http://www.phrases.org.uk/meanings/from%20sea%20to%20shining%20sea.html|website=Phrases.org|accessdate=24 July 2014}}&lt;/ref&gt;
+
+&quot;Purple mountain majesties&quot; refers to the shade of the [[Pikes Peak]] in [[Colorado Springs, Colorado]], which inspired Bates to write the poem.&lt;ref&gt;http://www.americanheritage.org/Elementary_Extraction_15-America_the_Beautiful_TX.pdf {{webarchive |url=https://web.archive.org/web/20120904222648/http://www.americanheritage.org/Elementary_Extraction_15-America_the_Beautiful_TX.pdf |date=September 4, 2012 }}&lt;/ref&gt;
+
+==Books==
+[[Lynn Sherr]]'s 2001 book ''America the Beautiful'' discusses the origins of the song and the backgrounds of its authors in depth. The book points out that the poem has the same meter as that of &quot;[[Auld Lang Syne]]&quot;; the songs can be sung interchangeably. Additionally, Sherr discusses the evolution of the lyrics, for instance, changes to the original third verse written by Bates.&lt;ref&gt;{{cite book |title=America the Beautiful: The Stirring True Story Behind Our Nation's Favorite Song |first=Lynn |last=Sherr |publisher=PublicAffairs |location=New York |year=2001 |isbn=978-1-58648-085-1 |url=https://books.google.com/books?id=HdSmeAv3v-oC&amp;pg=PA78#v=onepage&amp;q=&amp;f=false |page=78 |accessdate=June 6, 2013}}&lt;/ref&gt; The song appears in [[Ellen Raskin]]'s ''[[The Westing Game]]''.
+
+==References==
+{{Reflist}}
+
+==Further reading==
+
+*Collins, Ace. ''Songs Sung, Red, White, and Blue: The Stories Behind America's Best-Loved Patriotic Songs''.  HarperResource, 2003.  {{ISBN|0060513047}}
+
+==External links==
+{{Commons category|Katharine Lee Bates America the Beautiful}}
+{{Wikisource}}
+* [http://memory.loc.gov/cocoon/ihas/loc.natlib.ihas.200000001/default.html MP3 and RealAudio recordings available at the United States Library of Congress]
+* {{cantorion|pieces/3049/America_the_Beautiful_(Materna)|America the Beautiful}}
+* [http://hymntime.com/tch/htm/o/b/f/obfsskis.htm Words, sheet music &amp; MIDI file] at the Cyber Hymnal
+* [http://www.springsgov.com/Page.asp?NavID=5138 America the Beautiful Park] in Colorado Springs named for Katharine Lee Bates' words.
+* [http://web.me.com/highlandsarchives/The_Highlands_Archives/America.html Archival collection] of America the Beautiful lantern slides from the 1930s.
+* [http://www.traditional-songs.com/download_score.php?name=America%20the%20Beautiful&amp;country=Usa Another free sheet music]
+
+{{List of official United States national symbols}}
+
+[[Category:1895 songs]]
+[[Category:American patriotic songs]]
+[[Category:Pikes Peak]]</text>
+<sha1>da92z3lo0ino6vx3bz56dc1f6zall79</sha1>
+</revision>
+</page>

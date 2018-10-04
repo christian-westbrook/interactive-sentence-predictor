@@ -1,0 +1,106 @@
+<page>
+<title>Alien</title>
+<ns>0</ns>
+<id>579</id>
+<revision>
+<id>800589049</id>
+<parentid>800588955</parentid>
+<timestamp>2017-09-14T13:36:12Z</timestamp>
+<contributor>
+<username>Swpb</username>
+<id>1921264</id>
+</contributor>
+<comment>/* See also */</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">{{pp-pc1}}
+{{pp-vandalism|expiry=03:13, 1 November 2017|small=yes}}
+{{Wiktionary|alien|aliens}}
+'''Alien''' primarily refers to:
+* [[Extraterrestrial life]], life which does not originate from Earth
+** Specifically, intelligent extraterrestrial beings. See [[List of alleged extraterrestrial beings]].
+* [[Alien (law)]], a person in a country who is not a national of that country
+
+'''Alien(s)''', or '''The Alien(s)''' may also refer to:
+
+{{TOC right}}
+
+==Science and technology==
+&lt;!--keep at top--&gt;
+* [[Introduced species]], a species not native to its environment
+* [[Alien (software)]], a Linux program
+* [[AliEn (ALICE Environment)]], a grid framework
+* [[Alien Technology]], a manufacturer of RFID technology
+* ''Aliens'', a newsletter of the IUCN [[Invasive Species Specialist Group]]
+
+==Arts and entertainment==
+* [[Alien (franchise)|''Alien'' (franchise)]], a media franchise
+** [[Alien (creature in Alien franchise)|Alien (creature in ''Alien'' franchise)]]
+
+===Films===
+* [[Alien (film)|''Alien'' (film)]], a 1979 film by Ridley Scott
+* [[Aliens (film)|''Aliens'' (film)]], the 1986 sequel by James Cameron
+* ''[[Alien 3]]'', third film in the series from 1992 by David Fincher
+* [[The Alien (unreleased film)|''The Alien'' (unreleased film)]], an incomplete 1960s Indian-American film
+* [[The Alien (2016 film)|''The Alien'' (2016 film)]], a 2016 Mexican film
+
+===Literature===
+* [[Alien (literary concept)]]
+* [[Aliens (Tappan Wright novel)|''Aliens'' (Tappan Wright novel)]], a 1902 novel by Mary Tappan Wright
+* [[The Alien (Animorphs)|''The Alien'' (Animorphs)]], the eighth book in the ''Animorphs'' series
+* [[Alien novels]], an extension of the ''Alien'' franchise
+
+===Music===
+====Performers====
+* [[Alien (band)]], a 1980s Swedish rock group
+* [[The Aliens (Australian band)]], a 1970s new wave group
+* [[The Aliens (Scottish band)]], a 2005–present rock group
+
+====Albums====
+* [[Alien (Strapping Young Lad album)|''Alien'' (Strapping Young Lad album)]]
+* [[Alien (Tankard album)|''Alien'' (Tankard album)]]
+* [[Alien (soundtrack)|''Alien'' (soundtrack)]]
+* [[Aliens (soundtrack)|''Aliens'' (soundtrack)]]
+
+====Songs====
+* [[Alien (Britney Spears song)|&quot;Alien&quot; (Britney Spears song)]]
+* [[Alien (Pennywise song)|&quot;Alien&quot; (Pennywise song)]]
+* [[Alien (Third Day song)|&quot;Alien&quot; (Third Day song)]]
+* [[Aliens (Coldplay song)|&quot;Aliens&quot; (Coldplay song)]]
+* &quot;My Alien&quot;, a song by Simple Plan on the album ''[[No Pads, No Helmets... Just Balls]]''
+* &quot;Alien&quot;, a song by Bush on the album ''[[Sixteen Stone]]''
+* &quot;Alien&quot;, a song by Erasure on the album ''[[Loveboat (album)|Loveboat]]''
+* &quot;Alien&quot;, a song by Japan on the album ''[[Quiet Life]]''
+* &quot;Alien&quot;, a song by Lamb on the album ''[[Fear of Fours]]''
+* &quot;Alien&quot;, a song by Nerina Pallot on the album ''[[Dear Frustrated Superstar]]''
+* &quot;Alien&quot;, a song by P-Model on the album ''[[Landsale (P-Model album)|Landsale]]''
+* &quot;Alien&quot;, a song by Thriving Ivory on [[Thriving Ivory (album)|their self-titled album]]
+* &quot;Alien&quot;, a song by Tokio Hotel on the album ''[[Humanoid (album)|Humanoid]]''. Also, fans of the band call themselves Aliens
+* &quot;The Aliens&quot;, a song by [[Warlord (band)|Warlord]]
+
+===Video games===
+* [[Alien (1984 video game)|''Alien'' (1984 video game)]], based on the film
+* [[Aliens (video game)|''Aliens'' (video game)]], based on the sequel of the film
+* [[Aliens (Kaypro video game)|''Aliens'' (Kaypro video game)]], a text-only clone of ''Space Invaders'' written for the CP/M operating system
+
+===Other media===
+* [[The Aliens (TV series)|''The Aliens'' (TV series)]], 2016 British sci-fi television series
+* [[Aliens (Dark Horse Comics line)|''Aliens'' (Dark Horse Comics line)]]
+
+==Other uses==
+* [[Alien (shipping company)]], a Russian company
+* [[Alien Sun]] (born 1974), Singaporean actress
+* ''Alien'', a perfume by [[Thierry Mugler#Fragrances|Thierry Mugler]]
+
+==See also==
+* [[Astrobiology]], the study of hypothetical alien life
+* [[List of Alien and Predator games|List of ''Alien'' and ''Predator'' games]]
+* [[Alians]], an Islamic order
+* ''[[ATLiens]]'', a 1996 album by OutKast
+* {{Lookfrom|Alien}}
+* {{Intitle|Alien}}
+
+{{disambiguation}}</text>
+<sha1>keouuh2j3ek6dqjckt2mf5f43as29iz</sha1>
+</revision>
+</page>

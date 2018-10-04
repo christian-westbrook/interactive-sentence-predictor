@@ -1,0 +1,65 @@
+<page>
+<title>Arecales</title>
+<ns>0</ns>
+<id>994</id>
+<revision>
+<id>802891666</id>
+<parentid>802891574</parentid>
+<timestamp>2017-09-29T02:49:43Z</timestamp>
+<contributor>
+<ip>2601:200:8100:BFE0:ECCE:DDCF:5710:6CAE</ip>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">{{Automatic taxobox
+| taxon = Arecales
+| image = Beetle palm with nut bunch.jpg
+| image_caption = ''[[Areca catechu]]''
+| fossil_range = {{fossil range|80}}[[Late Cretaceous]] - Recent
+| authority = [[Edward Ffrench Bromhead|Bromhead]]
+| subdivision_ranks = Families
+| subdivision =
+*[[Arecaceae]]
+*[[Dasypogonaceae]]
+| diversity =
+206 genera
+}}
+
+'''Arecales''' is an [[order (biology)|order]] of [[flowering plant]]s. The order has been widely recognised only for the past few decades; until then, the accepted name for the order including these plants was [[Principes (botany)|Principes]].
+
+== Taxonomy==
+
+The [[Cronquist system]] of 1981 assigned the order to the subclass [[Arecidae]] in the class [[Liliopsida]] (= [[monocotyledons]]).
+
+The [[Thorne system (1992)]] and the [[Dahlgren system]] assigned the order to the superorder Areciflorae, also called [[Arecanae]] in the subclass [[Liliidae]] (= monocotyledons), with the single family Arecaceae.
+
+The [[APG II system]] of 2003 recognised the order and placed it in the clade [[commelinids]] in the [[monocots]] and uses this circumscription:
+
+* order Arecales
+*: family [[Arecaceae]], alternative name [[Palmae]]
+
+This was unchanged from the [[APG system]] of 1998, although it used the spelling &quot;commelinoids&quot; instead of commelinids.
+
+The [[APG IV system]] of 2016 places [[Dasypogonaceae]] in this order, after studies shown Dasypogonaceae as sister to Arecaceae.&lt;ref name=&quot;apgiv&quot;&gt;{{Citation |last=Angiosperm Phylogeny Group |year=2016 |title=An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG IV |journal=Botanical Journal of the Linnean Society |volume= |issue= |pages= |url=http://onlinelibrary.wiley.com/doi/10.1111/boj.12385/full |accessdate=2016-04-01 |doi=10.1111/boj.12385}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{wikispecies-inline}}
+* [https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Tree&amp;id=40551&amp;lvl=3&amp;lin=f&amp;keep=1&amp;srchmode=1&amp;unlock NCBI Taxonomy Browser]
+{{commons category|position=left|Arecales}}
+
+{{taxonbar}}
+
+
+[[Category:Arecales| ]]
+[[Category:Palms| ]]
+[[Category:Angiosperm orders]]
+[[Category:Extant Late Cretaceous first appearances]]
+[[Category:Late Cretaceous plants]]
+
+[[es:Arecales]]</text>
+<sha1>2rwsg5gg0l3h7080crt6uwh6eaih1d0</sha1>
+</revision>
+</page>

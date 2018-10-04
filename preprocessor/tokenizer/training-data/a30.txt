@@ -1,0 +1,25 @@
+<page>
+<title>AtlasShruggedCharacters</title>
+<ns>0</ns>
+<id>58</id>
+<redirect title="List of Atlas Shrugged characters" />
+<revision>
+<id>783822333</id>
+<parentid>346112496</parentid>
+<timestamp>2017-06-04T21:47:56Z</timestamp>
+<contributor>
+<username>Tom.Reding</username>
+<id>9784415</id>
+</contributor>
+<minor />
+<comment>+{{R category shell}} using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[List of Atlas Shrugged characters]]
+
+{{Redirect category shell|1=
+{{R from CamelCase}}
+}}</text>
+<sha1>0tplqo7vw9dmxz406yssndtg2iqppd1</sha1>
+</revision>
+</page>

@@ -1,0 +1,25 @@
+<page>
+<title>Analysis of variance/Random effects models</title>
+<ns>0</ns>
+<id>1061</id>
+<redirect title="Analysis of variance" />
+<revision>
+<id>783826895</id>
+<parentid>629649517</parentid>
+<timestamp>2017-06-04T22:25:47Z</timestamp>
+<contributor>
+<username>Tom.Reding</username>
+<id>9784415</id>
+</contributor>
+<minor />
+<comment>+{{R category shell}} using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Analysis of variance]]
+
+{{Redirect category shell|1=
+{{R from subpage}}
+}}</text>
+<sha1>rfn062lnsw8xpdx3fpvvzygb3tcwrii</sha1>
+</revision>
+</page>

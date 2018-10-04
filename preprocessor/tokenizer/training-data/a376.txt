@@ -1,0 +1,25 @@
+<page>
+<title>Aal</title>
+<ns>0</ns>
+<id>1035</id>
+<redirect title="AAL" />
+<revision>
+<id>783826881</id>
+<parentid>319152617</parentid>
+<timestamp>2017-06-04T22:25:42Z</timestamp>
+<contributor>
+<username>Tom.Reding</username>
+<id>9784415</id>
+</contributor>
+<minor />
+<comment>+{{R category shell}} using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[AAL]]
+
+{{Redirect category shell|1=
+{{R from other capitalisation}}
+}}</text>
+<sha1>0sfwt8m9t1m8t4v7go8lzmm0luvj9dx</sha1>
+</revision>
+</page>

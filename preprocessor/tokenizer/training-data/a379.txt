@@ -1,0 +1,45 @@
+<page>
+<title>Northern cavefish</title>
+<ns>0</ns>
+<id>1043</id>
+<revision>
+<id>797172194</id>
+<parentid>777408334</parentid>
+<timestamp>2017-08-25T10:44:57Z</timestamp>
+<contributor>
+<username>Hohenloh</username>
+<id>7374882</id>
+</contributor>
+<comment>No longer a stub</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">{{speciesbox
+| name          = Northern cavefish
+| image         = Amblyopsis spelaea.jpg
+| image_upright = 1.2
+| status        = NT
+| status_system = IUCN3.1
+| status_ref    = &lt;ref name=IUCN&gt;{{IUCN2014.3|assessor=NatureServe |year=2013|id=1080|title=Amblyopsis spelaea|downloaded=15 December 2014}}&lt;/ref&gt;
+| genus         = Amblyopsis
+| species       = spelaea
+| authority     = [[James Ellsworth De Kay|DeKay]], 1842
+}}
+
+The '''northern cavefish''' or '''northern blindfish''', ''Amblyopsis spelaea'', is found [[Cavefish|in caves]] through [[Kentucky]] and southern [[Indiana]]. It is listed as a threatened species in the United States and the [[IUCN]] lists the species as near threatened.
+
+During a 2013 study of ''Amblyopsis spelaea'', scientists found that the species was divided into two distinct evolutionary lineages: one north of the [[Ohio River]], in Indiana, and one south of the river, in [[Kentucky]].  The southern population retained the name ''A. spelaea'' and the northern was re-designated ''[[Amblyopsis hoosieri]]'' in a 2014 paper published in the journal ''[[ZooKeys]]''.&lt;ref name=&quot;ZooKeys&quot;&gt;{{cite journal |last=Chakrabarty |first=Prosanta |last2=Prejean |first2=Jacques A. |last3=Niemiller |first3=Matthew L. |date=May 29, 2014 |title=The Hoosier cavefish, a new and endangered species (Amblyopsidae, ''Amblyopsis'') from the caves of southern Indiana |url=http://zookeys.pensoft.net/articles.php?id=3824 |journal=[[ZooKeys]] |publisher=Pensoft |issue=412 |pages=41–57 |doi=10.3897/zookeys.412.7245 |accessdate=January 23, 2015 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |last=Howard |first=Brian Clark |date=May 30, 2014 |title=Blind Hoosier Cavefish: Freshwater Species of the Week |url=http://voices.nationalgeographic.com/2014/05/30/blind-hoosier-cavefish-freshwater-species-of-the-week/ |website=[[National Geographic (magazine)|National Geographic]] |accessdate=January 23, 2015 }}&lt;/ref&gt; Neither species is found north of the [[White River (Indiana)|White River]], flowing east to west south of [[Bedford, Indiana]].
+
+==References==
+{{Reflist}}
+* {{FishBase species|genus=Amblyopsis|species=spelaea|year=2005|month=10}}
+
+{{taxonbar}}
+
+[[Category:Amblyopsidae]]
+[[Category:Cave fish]]
+[[Category:Fish of North America|Cavefish, Northern]]
+[[Category:Fish of the United States]]
+[[Category:Vulnerable fauna of the United States]]</text>
+<sha1>ko51oo4g9lt6gesah3rcrba8upzp6dq</sha1>
+</revision>
+</page>

@@ -1,0 +1,21 @@
+<page>
+<title>Argument form</title>
+<ns>0</ns>
+<id>668</id>
+<redirect title="Logical form" />
+<revision>
+<id>601305580</id>
+<parentid>522627918</parentid>
+<timestamp>2014-03-26T05:06:22Z</timestamp>
+<contributor>
+<username>DavidLeighEllis</username>
+<id>18632153</id>
+</contributor>
+<minor />
+<comment>[[Wikipedia:Categories for discussion/Log/2014 February 24#Category:Philosophy redirects|cfd]], category will be deleted</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Logical form]]</text>
+<sha1>aiyybe37p81wt9v601exwhw2ywqmgw2</sha1>
+</revision>
+</page>

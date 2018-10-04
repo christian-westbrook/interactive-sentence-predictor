@@ -1,0 +1,18 @@
+<page>
+<title>Albert Arnold Gore/Criticisms</title>
+<ns>0</ns>
+<id>622</id>
+<redirect title="Al Gore" />
+<revision>
+<id>474180759</id>
+<parentid>179567488</parentid>
+<timestamp>2012-01-31T08:56:09Z</timestamp>
+<contributor>
+<ip>96.251.199.116</ip>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Al Gore]]</text>
+<sha1>fg41brd0hupt0bisglocp3dz06qqcfz</sha1>
+</revision>
+</page>

@@ -1,0 +1,69 @@
+<page>
+<title>Algorithms (journal)</title>
+<ns>0</ns>
+<id>742</id>
+<revision>
+<id>753239590</id>
+<parentid>736029596</parentid>
+<timestamp>2016-12-06T00:23:55Z</timestamp>
+<contributor>
+<username>OAbot</username>
+<id>28481209</id>
+</contributor>
+<minor />
+<comment>Added 1 access icon in citations. [[User talk:OAbot|Feedback]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">{{Use dmy dates|date=June 2013}}
+{{Infobox journal
+| title = Algorithms
+| editor = Henning Fernau
+| discipline = [[Algorithm]]s
+| abbreviation = Algorithms
+| publisher = [[MDPI]]
+| country =
+| frequency = Quarterly
+| history = 2008-present
+| openaccess = Yes
+| website = http://www.mdpi.com/journal/algorithms
+| ISSN = 1999-4893
+| OCLC = 405716627
+}}
+'''''Algorithms''''' is a [[Peer review|peer-reviewed]] [[open access]] [[mathematics journal]]  concerning design, analysis, and experiments on [[algorithm]]s.&lt;ref name=about&gt;
+{{cite web
+| last =
+| first =
+| authorlink =
+| coauthors =
+| title = About Algorithms
+| work = Algorithms
+| publisher =[[MDPI]]
+| date = 2013
+| url = http://www.mdpi.com/journal/algorithms/about
+| format =
+| doi =
+| accessdate =2013-07-18}}&lt;/ref&gt; The journal is published by [[MDPI]] and was established in 2008 by founding [[editor-in-chief]] is [[Kazuo Iwama (computer scientist)|Kazuo Iwama]].&lt;ref&gt;{{citation|title=Editor's Foreword|volume=1|issue=1|journal=Algorithms|page=1|year=2008|doi=10.3390/a1010001|first=Kazuo|last=Iwama|authorlink=Kazuo Iwama (computer scientist)|doi-access=free}}.&lt;/ref&gt; Its current editor-in-chief is Henning Fernau.
+
+== Abstracting and indexing ==
+The journal is abstracted and indexed in [[Chemical Abstracts Service]], [[Compendex]], [[DBLP Computer Science Bibliography]], [[Inspec]], [[MathSciNet]], [[Scopus]], and [[Zentralblatt MATH]].
+
+== See also ==
+*''[[ACM Transactions on Algorithms]]''
+*''[[Algorithmica]]''
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|http://www.mdpi.com/journal/algorithms}}
+
+[[Category:Computer science journals]]
+[[Category:Open access journals]]
+[[Category:Multidisciplinary Digital Publishing Institute academic journals]]
+[[Category:Quarterly journals]]
+[[Category:English-language journals]]
+[[Category:Publications established in 2008]]
+[[Category:Mathematics journals]]</text>
+<sha1>grdtatv8agqx7l2m3h19nuncmwjn2c5</sha1>
+</revision>
+</page>

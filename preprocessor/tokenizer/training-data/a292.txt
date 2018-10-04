@@ -1,0 +1,20 @@
+<page>
+<title>AgoraNomic</title>
+<ns>0</ns>
+<id>908</id>
+<redirect title="Nomic" />
+<revision>
+<id>15899421</id>
+<parentid>1013936</parentid>
+<timestamp>2003-06-08T23:53:32Z</timestamp>
+<contributor>
+<username>Eloquence</username>
+<id>52</id>
+</contributor>
+<minor />
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Nomic]]</text>
+<sha1>es8qgxii9ygd01ou6oe74as9mukzxlk</sha1>
+</revision>
+</page>

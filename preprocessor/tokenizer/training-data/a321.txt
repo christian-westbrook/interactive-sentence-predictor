@@ -1,0 +1,20 @@
+<page>
+<title>Automated Alice/I</title>
+<ns>0</ns>
+<id>945</id>
+<redirect title="Automated Alice" />
+<revision>
+<id>213318061</id>
+<parentid>15899457</parentid>
+<timestamp>2008-05-18T20:29:35Z</timestamp>
+<contributor>
+<username>AaronSw</username>
+<id>20842</id>
+</contributor>
+<comment>fix redirect</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Automated Alice]]</text>
+<sha1>gziuhnlbnlyrqldmd1xaq8a9sd44y5h</sha1>
+</revision>
+</page>

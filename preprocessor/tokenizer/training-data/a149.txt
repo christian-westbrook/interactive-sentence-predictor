@@ -1,0 +1,91 @@
+<page>
+<title>Affirming the consequent</title>
+<ns>0</ns>
+<id>675</id>
+<revision>
+<id>798482849</id>
+<parentid>778325183</parentid>
+<timestamp>2017-09-02T06:25:56Z</timestamp>
+<contributor>
+<username>Parcly Taxel</username>
+<id>13854216</id>
+</contributor>
+<minor />
+<comment>/* Examples */ Link Catch-22</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">{{Use dmy dates|date=June 2013}}
+'''Affirming the consequent''', sometimes called '''converse error''', '''fallacy of the converse''' or '''confusion of necessity and sufficiency''', is a [[formal fallacy]] of inferring the [[converse (logic)|converse]] from the original statement. The corresponding argument has the general [[argument form|form]]:
+
+:&lt;math&gt;\frac{P \to Q, Q}{\therefore P}&lt;/math&gt;
+
+An argument of this form is [[validity|invalid]], i.e., the conclusion can be false even when statements 1 and 2 are true.  Since ''P'' was never asserted as the ''only'' sufficient condition for ''Q'', other factors could account for ''Q'' (while ''P'' was false).&lt;ref&gt;{{cite web
+|url = http://www.fallacyfiles.org/afthecon.html
+|title = Affirming the Consequent
+|website = Fallacy Files
+|publisher  = Fallacy Files
+|accessdate = 9 May 2013
+}}&lt;/ref&gt;&lt;ref&gt;{{cite book |chapter=Confusion of a Necessary with a Sufficient Condition |page=150 |first=T. Edward |last=Damer |title=Attacking Faulty Reasoning |edition=4th |publisher=Wadsworth |location= |year=2001 |isbn= }}&lt;/ref&gt;
+
+To put it differently, if ''P'' implies ''Q'', the '''only''' inference that can be made is ''non-Q'' implies ''non-P''.  (''Non-P'' and ''non-Q'' designate the opposite propositions to ''P'' and ''Q''.)  This is known as logical [[contraposition]]. Symbolically:
+
+&lt;math&gt;(P \to Q)\leftrightarrow (\neg Q \to \neg P)&lt;/math&gt;
+
+The name ''affirming the [[consequent]]'' derives from the premise ''Q'', which affirms the &quot;then&quot; clause of the [[indicative conditional|conditional]] premise.
+
+==Examples==
+'''Example 1'''
+
+One way to demonstrate the invalidity of this argument form is with a counterexample with true premises but an obviously false conclusion.  For example:
+
+:If someone owns [[United States Bullion Depository|Fort Knox]], then he is [[Wealth|rich]].
+:[[Bill Gates]] is rich.
+:Therefore, Bill Gates owns Fort Knox.
+
+Owning Fort Knox is not the ''only'' way to be rich.  Any number of other ways exist to be rich.
+
+However, one can affirm with certainty that &quot;if someone is not rich&quot; (''non-Q''), then &quot;this person does not own Fort Knox&quot; (''non-P''). This is the [[contrapositive]] of the first statement, and it must be true if and only if the original statement is true.
+
+'''Example 2'''
+
+Arguments of the same form can sometimes seem superficially convincing, as in the following example:
+
+:If I have the [[flu]], then I have a [[sore throat]].
+:I have a sore throat.
+:Therefore, I have the flu.
+
+But having the flu is not the ''only'' cause of a sore throat since many illnesses cause sore throat, such as the [[common cold]] or [[strep throat]].
+
+Affirming the consequent is commonly used in [[rationalization (psychology)|rationalization]], and thus appears as a [[coping mechanism]] in some people.
+
+'''Example 3'''
+
+In ''[[Catch-22]]'',&lt;ref name=&quot;:0&quot;&gt;{{Cite book|title=Catch-22|last=Heller|first=Joseph|publisher=Vintage|year=1994|isbn=0-09-947731-9|location=|pages=438, 8}}&lt;/ref&gt; the chaplain is interrogated for supposedly being 'Washinton Irving'/'Irving Washington', who has been blocking out large portions of soldier's letters home. The colonel has found such a letter, but with the Chaplain's name signed.
+
+:'You can read, though, can't you?' the colonel persevered sarcastically. 'The author signed his name.'
+:'That's my name there.'
+:'Then you wrote it. Q.E.D.'
+
+''P'' in this case is 'The chaplain signs his own name', and ''Q'' 'The chaplain's name is written'. The chaplain's name may be written, but he did not necessarily write it, as the colonel falsely concludes ''(and in fact he did not, as in the novel, Yossarian signed the name''&lt;ref name=&quot;:0&quot; /&gt;'')''.
+
+==See also==
+* [[Confusion of the inverse]]
+* [[Denying the antecedent]]
+* [[ELIZA effect]]
+* [[Fallacy of the single cause]]
+* [[Fallacy of the undistributed middle]]
+* [[Inference to the best explanation]]
+* ''[[Modus ponens]]''
+* ''[[Modus tollens]]''
+* ''[[Post hoc ergo propter hoc]]''
+* [[Necessity and sufficiency]]
+
+==References==
+{{reflist}}
+
+{{Formal fallacy}}
+
+[[Category:Propositional fallacies]]</text>
+<sha1>5t1j2svo0voqm4mpoghqcask5r72okr</sha1>
+</revision>
+</page>

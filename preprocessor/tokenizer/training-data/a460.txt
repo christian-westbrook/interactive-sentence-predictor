@@ -1,0 +1,20 @@
+<page>
+<title>Alternative history</title>
+<ns>0</ns>
+<id>1190</id>
+<redirect title="Alternate history" />
+<revision>
+<id>633948875</id>
+<parentid>628308954</parentid>
+<timestamp>2014-11-15T15:38:29Z</timestamp>
+<contributor>
+<username>JHunterJ</username>
+<id>842922</id>
+</contributor>
+<comment>redirect; none of the other topics are referred to as alternative history or alternate history, according to their articles</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Alternate history]]</text>
+<sha1>9qdl0mdpve479vhu1nsaehwxrdngsap</sha1>
+</revision>
+</page>

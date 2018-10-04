@@ -1,0 +1,139 @@
+<page>
+<title>Augustin-Jean Fresnel</title>
+<ns>0</ns>
+<id>1141</id>
+<revision>
+<id>802981394</id>
+<parentid>801585887</parentid>
+<timestamp>2017-09-29T18:30:13Z</timestamp>
+<contributor>
+<username>Anonymous from the 21st century</username>
+<id>8430773</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">{{Redirect|Fresnel}}
+{{Infobox scientist
+| name              = Augustin-Jean Fresnel
+| image             = Augustin Fresnel.jpg
+| caption           = Augustin-Jean Fresnel
+| birth_date        = {{Birth date|df=yes|1788|5|10}}
+| birth_place       = [[Broglie, Eure|Broglie]], [[Kingdom of France]]&lt;br&gt;(now [[Eure]], France)
+| death_date        = {{death date and age|df=yes|1827|7|14|1788|5|10}}
+| death_place       = [[Ville-d'Avray]], [[Bourbon Restoration|Kingdom of France]]&lt;br&gt;(now [[Hauts-de-Seine]], France)
+| residence         = [[France]]
+| nationality       = [[France|French]]
+| field             = [[physics]], [[engineering]]
+| work_institutions =
+| alma_mater        = [[École Polytechnique]]&lt;br&gt;[[École Nationale des Ponts et Chaussées|École des Ponts et Chaussées]]
+| doctoral_advisor  =
+| doctoral_students =
+| known_for         = [[Wave optics]]&lt;br&gt;[[Fresnel equations]]&lt;br&gt;[[Fresnel diffraction]]&lt;br&gt;[[Fresnel lens]]
+| influences        =
+| influenced        =
+| prizes            = [[Rumford Medal]] {{small|(1824)}}
+| footnotes         =
+| signature         =
+}}
+
+'''Augustin-Jean Fresnel''' ({{IPAc-en|f|r|eɪ|ˈ|n|ɛ|l}} {{respell|fray|NEL|'}}; {{IPA-fr|ɔ.ɡy.stɛ̃ ʒɑ̃ fʁɛ.nɛl|lang}}; 10 May 1788 – 14 July 1827) was a [[France|French]] [[engineer]] and [[physicist]] who contributed significantly to the establishment of the theory of [[wave|wave optics]]. Fresnel studied the behaviour of light both theoretically and experimentally.
+
+He is perhaps best known as the [[inventor]] of the [[Fresnel lens]], first adopted in [[lighthouse]]s while he was a French commissioner of lighthouses, and found in many applications today. His equations on waves and [[reflectivity]], the [[Fresnel equations]], also form the basis for many applications in [[computer graphics]] today – for instance, the rendering of water.
+
+==Personal life and education==
+Fresnel was the son of an architect, born at [[Broglie, Eure|Broglie]] (in present-day [[Eure]]). He received a rigorous Catholic upbringing from his parents, who were involved in the [[Jansenism|Jansenist]] movement.&lt;ref name=&quot;APS&quot;&gt;{{cite web|url=https://www.aps.org/publications/apsnews/201607/physicshistory.cfm|title=July 1816: Fresnel’s Evidence for the Wave Theory of Light|publisher=[[American Physical Society]]|accessdate=8 May 2017}}&lt;/ref&gt; His early progress in learning was slow, and he still could not read when he was eight years old. At thirteen he entered the École Centrale in [[Caen]], and at sixteen and a half the [[École Polytechnique]], where he acquitted himself with distinction. From there he went to the [[École Nationale des Ponts et Chaussées|École des Ponts et Chaussées]].
+
+He made many contributions to the development of the field of [[Optical physics|optical science]]. Some of his papers were not printed by the [[Académie des Sciences]] until many years after his death. But as he wrote to [[Thomas Young (scientist)|Young]] in 1824: in himself &quot;that sensibility, or that vanity, which people call love of glory&quot; had been blunted. &quot;All the compliments,&quot; he says, &quot;that I have received from [[François Arago|Arago]], [[Pierre Simon, Marquis de Laplace|Laplace]] and [[Jean-Baptiste Biot|Biot]] never gave me so much pleasure as the discovery of a theoretic truth, or the confirmation of a calculation by experiment&quot;.{{sfn|Chisholm|1911}}
+
+Fresnel has been described as a man with interest in religious questions and deep faith in God.&lt;ref&gt;Graves, Dan. 1996. ''Scientists of Faith: Forty-eight Biographies of Historic Scientists and Their Christian Faith''. Kregel Publications. pp. 102-103&lt;/ref&gt;&lt;ref&gt;Varadaraja Raman. 2005. ''Variety in Religion and Science: Daily Reflections''. iUniverse. p. 390&lt;/ref&gt;&lt;ref&gt;Kneller, Karl Alois. 1911. ''[https://archive.org/stream/christianitylead00knelrich#page/146/mode/2up Christianity and the leaders of modern science; a contribution to the history of culture in the nineteenth century&quot;]''. &quot;The Theory of Light&quot;. pp. 147-148&lt;/ref&gt; As a form of consolation, he took religion very seriously especially during his illness.&lt;ref&gt;[http://www.encyclopedia.com/topic/Augustin_Jean_Fresnel.aspx Fresnel, Augustin Jean]''. Complete Dictionary of Scientific Biography | 2008 |&lt;/ref&gt;&lt;ref&gt;Charles George Herbermann. 1913. ''The Catholic Encyclopedia: An International Work of Reference on the Constitution, Doctrine, Discipline, and History of the Catholic Church, Volume 6''. Universal Knowledge Foundation. p. 280&lt;/ref&gt;
+
+He spent much of his life in Paris, and died of [[tuberculosis]] at [[Ville-d'Avray]], near Paris.{{sfn|Chisholm|1911}} His is one of the [[List of the 72 names on the Eiffel Tower|72 names inscribed on the Eiffel Tower]]. The writer [[Prosper Mérimée]] (1803-1870) was his first cousin.
+
+==Career==
+[[File:David d'Angers - Fresnel.jpg|thumb|left|150px|Bust of Augustin Fresnel by [[David d'Angers]].]]
+[[File:Fresnel Lens at Point Arena Lighthouse Museum.jpg|thumb|right|First-order lighthouse [[Fresnel lens]], on display at the Point Arena Lighthouse Museum, [[Point Arena Lighthouse]], [[Mendocino County, California]] ]]
+He served as an engineer successively in the departments of [[Vendée]], [[Drôme]] and [[Ille-et-Vilaine]]; but having supported the [[Bourbon house|Bourbons]] in 1814 he lost his appointment on [[Napoleon]]'s return to power.{{sfn|Chisholm|1911}} He appears to have begun his research in optics around 1814, when he prepared a paper on the [[aberration of light]], although it was never published. In 1815, on the second restoration of the monarchy, he obtained a post as engineer in [[Paris]].
+
+In 1818 he wrote a treatise on [[diffraction]],&lt;ref&gt;{{Cite book|last=Fresnel|first=Augustin|year=1819|chapter=Memoir on the Diffraction of Light|title=The Wave Theory of Light – Memoirs by Huygens, Young and Fresnel|publisher=American Book Company|pages=79–145|url=https://books.google.com/?id=_0hWAAAAMAAJ&amp;dq=memoir%20of%20fresnel&amp;pg=PA79#v=onepage&amp;q&amp;f=false}}&lt;/ref&gt; for which he received the prize of the [[French Academy of Sciences|Académie des Sciences]] at Paris the following year. He was the first to construct a special type of lens, now called a [[Fresnel lens]], as a substitute for mirrors in lighthouses. In 1819, he was nominated to be a commissioner of lighthouses.  In 1823 he was unanimously elected a member of the academy. In 1825 he became a Fellow of the [[Royal Society of London]].  In 1827, the time of his last illness, the Royal Society of London awarded him the [[Rumford Medal]].{{sfn|Chisholm|1911}}
+
+His discoveries and mathematical deductions, building on experimental work by [[Thomas Young (scientist)|Thomas Young]], extended the [[Huygens' principle|wave theory]] of [[light]] to a large class of [[optical phenomenon|optical phenomena]], especially, to the [[Birefringence|double-refraction]] property of [[Iceland Spar]], or [[calcite]].&lt;ref name=&quot;Whittaker&quot;&gt;[[E. T. Whittaker|Whittaker, E. T.]], ''A History of the Theories of Aether and Electricity''. Dublin University Press, 1910.&lt;/ref&gt;
+
+In 1817, Young had proposed a small transverse component to light, while yet retaining a far larger longitudinal component. Fresnel, by the year 1821, was able to show by mathematical methods that [[polarization (waves)|polarization]] could be explained only if light was ''entirely'' transverse, with no longitudinal vibration whatsoever.&lt;ref&gt;{{Cite book|last=Fresnel|first=Augustin|year=1819|chapter=On the Action of Rays of Polarized Light upon Each Other|title=The Wave Theory of Light – Memoirs by Huygens, Young and Fresnel|publisher=American Book Company|pages=145–56|url=https://books.google.com/?id=_0hWAAAAMAAJ&amp;dq=memoir%20of%20fresnel&amp;pg=PA145#v=onepage&amp;q&amp;f=false}}&lt;/ref&gt; He proposed the [[aether drag hypothesis]] to explain a lack of variation in astronomical observations. His use of two plane mirrors of metal, forming with each other an angle of nearly 180°, allowed him to avoid the diffraction effects caused (by the apertures) in the experiment of [[Francesco Maria Grimaldi|F. M. Grimaldi]] on [[Interference (wave propagation)|interference]]. This allowed him to conclusively account for the phenomenon of interference in accordance with the wave theory.{{citation needed|date=May 2015}}
+
+===Fresnel bright spot===
+{{main | Spot of Arago}}
+
+The ''Fresnel bright spot'',&lt;ref&gt;&quot;Although this phenomenon is often called Poisson's spot, Poisson probably was not happy to have seen it because it supported the wave model of light. The spot is sometimes called Fresnel's spot because it is a direct consequence of his work, and Arago's spot because Arago devised the experiment that confirmed its existence.&quot; Katz, Debora M., ''Physics for Scientists and Engineers: Foundations and Connections, Advance Edition, Volume 2,'' Cengage Learning, 2015. {{ISBN|1305537203}}&lt;/ref&gt; also referred to as the &quot;Poisson spot&quot;,&lt;ref&gt;{{citation |last1=Law |first1=Jonathan |last2=Rennie |first2=Richard |chapter=Poisson's Spot |title=A Dictionary of Physics |publisher=Oxford University Press |year=2015 |page=444 |isbn=978-0198714743 |id=SBN-10: 0198714742}}&lt;/ref&gt;&lt;ref name=&quot;hecht and zajac&quot;&gt;{{citation |last1=Hecht |first1=Eugene |last2=Zajac |first2=Alfred |title=Optics |publisher=Addison Wesley |edition=1st |year=1974 |chapter= 10.3, &quot;Diffraction,&quot; |page=374 |isbn=0-201-02835-2}}&lt;/ref&gt; or the &quot;Spot of Arago&quot;, is a bright point that appears at the center of a circular object's [[shadow]] due to [[Fresnel diffraction]].&lt;ref name=&quot;pedrotti2007&quot;&gt;{{Citation
+| last =Pedrotti | first =Frank L.
+| last2 =Pedrotti | first2 =Leno S.
+| last3 =Pedrotti | first3 =Leno M.
+| year =2007
+| title =Introduction to Optics
+| edition =3rd
+| publication-place =Upper Saddle River, New Jersey
+| publisher =Pearson Education
+| page =315
+| isbn =0-13-149933-5}}&lt;/ref&gt;&lt;ref name=&quot;walker2008&quot;&gt;{{Citation
+| last =Walker | first = Jearl
+| year =2008
+| title =Fundamentals of Physics
+| edition = 8th
+| publisher =John Wiley &amp; Sons
+| page =992
+| isbn =978-0-470-04472-8}}&lt;/ref&gt;&lt;ref name=&quot;ohanian1989&quot;&gt;{{Citation
+| last =Ohanian | first = Hans
+| year =1989
+| title =Physics
+| edition = 2nd
+| publisher =W.W. Norton
+| page =984
+| isbn =0-393-95786-1}}&lt;/ref&gt;&lt;ref name=&quot;hecht2002&quot;&gt;{{Citation
+| last =Hecht | first = Eugene
+| year =2002
+| title =Optics
+| edition = 4th
+| publisher = Pearson Education
+| page =494
+| isbn =0-321-18878-0}}&lt;/ref&gt; The experimental demonstration of the existence of Fresnel's spot, predicted to be a consequence of Fresnel's 1818 wave theory by [[Siméon Denis Poisson|Poisson]], played an key role in the proof of the wave nature of light, and is a common way to demonstrate that light behaves as a wave.
+
+===Polarized light research===
+[[Image:fresnel rhomb.svg|thumb | right | 200px | A diagram of a Fresnel rhomb (blue). Incoming light, if linearly polarized at 45° with respect to the [[plane of incidence]] (along the page) has the relative phase of its ''s'' and ''p'' [[polarization (waves)|polarization]] components altered at two reflections, outputting a [[circularly polarized]] beam.&lt;ref name=&quot;Fresnel1823&quot; /&gt;]]
+With [[François Arago]] he studied the laws of the interference of polarized rays. He obtained circularly polarized light by means of a rhombus of glass, known as a [[Fresnel rhomb]], having obtuse angles of 126° and acute angles of 54°.&lt;ref name=&quot;Fresnel1823&quot;&gt;A. Fresnel (1832) &quot;Mémoire sur les modifications que la réflexion imprime à la lumière polarisée&quot; (Memoir on the alterations that reflection imparts to polarized light), ''Mémoires de l'Académie des sciences de l'Institute de France'', vol. 11, pages 373-434.  (Note:  This manuscript was submitted to the ''Institute'' on 10 November 1817 and was read to the ''Institute'' on 7 January 1823.)&lt;/ref&gt; The [[Fresnel–Arago laws]] are three laws which summarise some of the more important properties of [[Interference (wave propagation)|interference]] between light of different states of [[polarization (waves)|polarization]]. The laws are as follows:&lt;ref&gt;{{cite web|url=http://scienceworld.wolfram.com/physics/Fresnel-AragoLaws.html|title=Fresnel-Arago Laws -- from Eric Weisstein's World of Physics|first=Weisstein, Eric|last=W.|website=scienceworld.wolfram.com}}&lt;/ref&gt;
+* Two [[orthogonal]], [[Coherence (physics)|coherent]] linearly [[Polarization (waves)|polarized]] waves cannot interfere.
+* Two parallel coherent linearly polarized waves will interfere in the same way as [[Sunlight|natural light]].
+* The two constituent orthogonal linearly polarized states of natural light cannot interfere to form a readily observable interference pattern, even if rotated into alignment (because they are incoherent).
+
+The [[Fresnel equations]] describe the behaviour of [[light]] when moving between [[medium (optics)|media]] of differing [[refractive index|refractive indices]]. When light moves from a medium of a given [[refractive index]] ''n''&lt;sub&gt;1&lt;/sub&gt; into a second medium with refractive index ''n''&lt;sub&gt;2&lt;/sub&gt;, both [[reflection (physics)|reflection]] and [[refraction]] of the light may occur.
+
+The [[Fresnel diffraction]] equation is an approximation of [[Kirchhoff's diffraction formula|Kirchhoff-Fresnel diffraction]] that can be applied to the propagation of waves in the [[near and far field|near field]].&lt;ref&gt;[[Max Born|M. Born]] &amp; E. Wolf, Principles of Optics, 1999, Cambridge University Press, Cambridge&lt;/ref&gt;  It is used to calculate the [[diffraction pattern]] created by waves passing through an aperture or around an object, when viewed from relatively close to the object.  In contrast the diffraction pattern in the [[near and far field|far field]] region is given by the [[Fraunhofer diffraction]] equation.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Wikiquote-inline}}
+*{{OL author|2296238A}}
+
+{{Authority control}}
+
+{{Use dmy dates|date=March 2017}}
+
+{{DEFAULTSORT:Fresnel, Augustin-Jean}}
+[[Category:French civil engineers]]
+[[Category:École Polytechnique alumni]]
+[[Category:École des Ponts ParisTech alumni]]
+[[Category:Corps des ponts]]
+[[Category:1788 births]]
+[[Category:1827 deaths]]
+[[Category:People from Eure]]
+[[Category:Burials at Père Lachaise Cemetery]]
+[[Category:19th-century deaths from tuberculosis]]
+[[Category:French Roman Catholics]]
+[[Category:French physicists]]
+[[Category:Optical physicists]]
+[[Category:Members of the French Academy of Sciences]]
+[[Category:Infectious disease deaths in France]]
+[[Category:Foreign Members of the Royal Society]]</text>
+<sha1>nvaryuoeajvqxrxv6ompmmw7r1ktl8w</sha1>
+</revision>
+</page>

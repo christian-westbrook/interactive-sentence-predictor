@@ -1,0 +1,26 @@
+<page>
+<title>AyersMusicPublishingCompany</title>
+<ns>0</ns>
+<id>60</id>
+<redirect title="Atlas Shrugged" />
+<revision>
+<id>783822349</id>
+<parentid>74467467</parentid>
+<timestamp>2017-06-04T21:48:06Z</timestamp>
+<contributor>
+<username>Tom.Reding</username>
+<id>9784415</id>
+</contributor>
+<minor />
+<comment>+{{R category shell}} using [[Project:AWB|AWB]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Atlas Shrugged]]
+
+{{Redirect category shell|1=
+{{R from CamelCase}}
+{{R from phrase}}
+}}</text>
+<sha1>fhand8amezprl2tn5z4ldgs9sp49sq7</sha1>
+</revision>
+</page>

@@ -1,0 +1,21 @@
+<page>
+<title>Ameboid stage</title>
+<ns>0</ns>
+<id>583</id>
+<redirect title="Amoeba" />
+<revision>
+<id>627604814</id>
+<parentid>625443490</parentid>
+<timestamp>2014-09-29T22:26:05Z</timestamp>
+<contributor>
+<username>Invadibot</username>
+<id>15934865</id>
+</contributor>
+<minor />
+<comment>Bot: Fixing double redirect to [[Amoeba]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text xml:space="preserve">#REDIRECT [[Amoeba]]</text>
+<sha1>31ad9nr0bdq92bic2plgomlo1q8sy0n</sha1>
+</revision>
+</page>
