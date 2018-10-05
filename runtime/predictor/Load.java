@@ -6,6 +6,7 @@
 // Abstract		: This program loads a HashMap of unigrams, bigrams, and trigrams for use by the
 //				  predictor. Miscellaneous metrics are also loaded.
 //=================================================================================================
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;

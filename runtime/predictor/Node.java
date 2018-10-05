@@ -1,5 +1,4 @@
 
-
 public class Node {
 	
 	private String val;

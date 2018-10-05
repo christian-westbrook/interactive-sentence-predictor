@@ -1,6 +1,9 @@
 #!/bin/sh
 
-chmod +x ./build.sh
-./build.sh
+set -e
 
-java NatLangPredGUI
+chmod +x ./voce/build.sh
+./voce/build.sh
+
+javac -cp .:./lib/* *.java
+java -cp .:./lib/* GUI
