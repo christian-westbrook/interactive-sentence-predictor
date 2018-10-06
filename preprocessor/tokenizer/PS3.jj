@@ -102,7 +102,8 @@ SKIP : {
 | < "<" > : IN_HTML
 | < OPERATOR : ["+","-","*","/"]|("&gt;") >
 | < PUNCTUATION : (","|"?"|"!"|":"|"'"|"-"|".")+>
-| < MISC  : ~[] > // If we're missing a large number of tokens, move this.
+| < SPECIAL_ENTITY : ("&"(["a"-"z","A"-"Z"])+";"|"&#"(["0"-"9"])+";") >
+| < MISC  : ~[] > // If we're missing too many tokens, move this.
 
 }
 
