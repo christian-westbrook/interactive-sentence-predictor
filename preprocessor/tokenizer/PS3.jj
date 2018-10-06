@@ -103,7 +103,6 @@ SKIP : {
 | < OPERATOR : ["+","-","*","/"]|("&gt;") >
 | < PUNCTUATION : (","|"?"|"!"|":"|"'"|"-"|".")+>
 | < SPECIAL_ENTITY : ("&"(["a"-"z","A"-"Z"])+";"|"&#"(["0"-"9"])+";") >
-| < MISC  : ~[] > // If we're missing too many tokens, move this.
 
 }
 
@@ -125,6 +124,7 @@ TOKEN : {
 
   < WORD2       : (["a"-"z","A"-"Z"])+"'"(["a"-"z","A"-"Z"])+ >
 | < WORD        : (["a"-"z","A"-"Z"])+ >
+| < MISC  : ~[] >
 
 }
 
