@@ -12,6 +12,8 @@ public class CLTest {
         Predictor p;
         String bRes;
         String tRes;
+        int uniN;
+        int uniV;
         
         if(args != null) {
         
@@ -23,7 +25,10 @@ public class CLTest {
                 bigrams = l.getBigrams();
                 trigrams = l.getTrigrams();
 
-                p = new Predictor(unigrams, bigrams, trigrams);
+                uniN = l.getUnigramsN();
+                uniV = l.getUnigramsV();
+
+                p = new Predictor(unigrams, bigrams, trigrams,uniN,uniV);
                 
                 String speech = "";
                 

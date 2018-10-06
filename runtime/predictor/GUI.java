@@ -23,6 +23,8 @@ public class GUI extends javax.swing.JFrame {
     HashMap<String, Integer> trigrams;
     Load l;
     Predictor p;
+    int uniN;
+    int uniV;
     int row;
 
     public GUI() {
@@ -35,12 +37,10 @@ public class GUI extends javax.swing.JFrame {
         bigrams = l.getBigrams();
         trigrams = l.getTrigrams();
 
-        //TEST DATA USING HAND WRITTEN CSV
-        //unigrams = TestLoad.loadNGrams("./data/unigrams.csv");
-        //bigrams = TestLoad.loadNGrams("./data/bigrams.csv");
-        //trigrams = TestLoad.loadNGrams("./data/trigrams.csv");
+        uniN = l.getUnigramsN();
+        uniV = l.getUnigramsV();
 
-        p = new Predictor(unigrams, bigrams, trigrams);
+        p = new Predictor(unigrams, bigrams, trigrams,uniN,uniV);
 
         row = 0;
 

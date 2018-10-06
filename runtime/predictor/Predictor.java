@@ -16,22 +16,21 @@ public class Predictor {
     HashMap<String, Integer> unigrams;
     HashMap<String, Integer> bigrams;
     HashMap<String, Integer> trigrams;
-    HashMap<String, Integer> misc;
+    int uniN;
+    int uniV;
 
-    public Predictor(HashMap<String, Integer> unigrams, HashMap<String, Integer> bigrams, HashMap<String, Integer> trigrams) {
+    public Predictor(HashMap<String, Integer> unigrams, HashMap<String, Integer> bigrams, HashMap<String, Integer> trigrams, int uniN, int uniV) {
 
         this.unigrams = unigrams;
         this.bigrams = bigrams;
         this.trigrams = trigrams;
-
-        misc = new HashMap<>();
-
-        calcMisc(unigrams, "UNI_N", "UNI_V");
-        //calcMisc(bigrams,"BI_N","BI_V");
-        //calcMisc(trigrams,"TRI_N","TRI_V");
+        
+        this.uniN = uniN;
+        this.uniV = uniV;
 
     }
 
+    /*
     public void calcMisc(HashMap<String, Integer> hm, String key1, String key2) {
 
         Iterator i = hm.entrySet().iterator();
@@ -48,7 +47,7 @@ public class Predictor {
         misc.put(key1, n);
         misc.put(key2, v);
 
-    }
+    }*/
 
     // ===========================================================================================================
     // Accepts input from Voce, a single string.
@@ -84,17 +83,18 @@ public class Predictor {
 
         Node n;
         String fmt;
+        double res ;
 
         if (count > 0) {
 
             n = bigramMLE(w1);
                 
             if(n == null) {
-                prob = prob + Math.log(0.0);
-            } else {
-                prob = prob + n.getProb();
+                sb.append("N-gram not recognized.");
+                return;
             }
 
+            prob = prob + n.getProb();
             sb.append(n.getVal() + " ");
 
             buildBigramResult(sb, n.getVal(), prob, --count);
@@ -172,6 +172,11 @@ public class Predictor {
             if (n == null) {
 
                 n = bigramMLE(w2);
+                
+                if( n == null ) {
+                    sb.append("N-gram not recognized.");
+                    return;
+                }
 
             }
 
@@ -215,7 +220,7 @@ public class Predictor {
              * function. So, we're looking for negative exponents closest to zero.
              */
             // .size() isn't an adequate solution. We need N in this case.
-            log = Math.log10((double) unigrams.get(s) / misc.get("UNI_N"));
+            log = Math.log10((double) unigrams.get(s) / uniN );
 
             if (log > min) {
 
@@ -254,7 +259,7 @@ public class Predictor {
                 e = s.split(" ")[1];
 
                 // .size() isn't an adequate solution, we would need V in this case.
-                log = Math.log10(((double) bigrams.get(s) + 1) / (unigrams.get(w1) + misc.get("UNI_V")));
+                log = Math.log10(((double) bigrams.get(s) + 1) / (unigrams.get(w1) + uniV));
 
                 if (log > min) {
 
@@ -291,7 +296,7 @@ public class Predictor {
         if (unigrams.containsKey(w1)) {
             // P( w2 | w1) = 0 , if w2 is unknown.
             // If we know w1 but don't know w2, the probability would be 1 in Laplace Smoothing.
-            res = Math.log10(((double) freq + 1) / (unigrams.get(w1) + (misc.get("UNI_V") + 1)));
+            res = Math.log10(((double) freq + 1) / (unigrams.get(w1) + (uniV + 1)));
         }
 
         return res;
