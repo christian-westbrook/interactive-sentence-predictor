@@ -102,56 +102,45 @@ SKIP : {
 | < "<" > : IN_HTML
 | < OPERATOR : ["+","-","*","/"]|("&gt;") >
 | < PUNCTUATION : (","|"?"|"!"|":"|"'"|"-"|".")+>
+| < MISC  : ~[] > // If we're missing a large number of tokens, move this.
 
 }
 
-// Look for tokens with a specific pattern or meaning.
+// Skip tokens that can't be easily recognized by Voce.
 
-TOKEN : {
+SKIP : {
   
   < EMAIL: (["a"-"z","A"-"Z","0"-"9"])+"@"((".")?["a"-"z","A"-"Z","0"-"9"])+ >
 | < DOMAIN : "@"((".")?["a"-"z","A"-"Z"])+ >
 | < PHONE_NUMBER :  (("(")?["0"-"9"]["0"-"9"]["0"-"9"](")")?(< SPACE >|"-"|".")+)+["0"-"9"]["0"-"9"]["0"-"9"]["0"-"9"] >
 | < EQUATION : ((["0"-"9"])+(< SPACE >)?(< OPERATOR >)?(< SPACE >)?)+(< SPACE >)?("="(< SPACE >)?(["0"-"9"](".")?)+)? >
-| < WORD3 : (< WORD >)?"<"("/")?((" "|"\\s")+)?("strong"|"sub")((" "|"\\s")+)?">" > : SPECIAL_WORD
+| < NUMBER      : ((".")?(["0"-"9"])+(",")?)+ >
 
 }
 
-// Look for general tokens.
+// We're specifically looking for words.
 
 TOKEN : {
 
   < WORD2       : (["a"-"z","A"-"Z"])+"'"(["a"-"z","A"-"Z"])+ >
 | < WORD        : (["a"-"z","A"-"Z"])+ >
-| < NUMBER      : ((".")?(["0"-"9"])+(",")?)+ >
-| < MISC  : ~[] >
 
 }
 
-// Some attempt to address the issue of tags between characters.
-
-< SPECIAL_WORD > MORE : {
-
-  < WORD4 : "<"("/")?((" "|"\\s")+)?("strong"|"sub")((" "|"\\s")+)?">" > : DEFAULT
-| < MISC_SP : ~[] >
-
-}
-
-// We'll skip arbitrary parts of HTML tags. If we see a quote, we'll accept the enclosed text.
+// We'll skip whole HTML tags.
 
 < IN_HTML > SKIP : {
  
   < ">" > : DEFAULT
 | < PRE     : "pre"(">")? > : IN_PRE
 | < CLOSETAG    : "/"(< SPACE >)?(["a"-"z"])+(< SPACE >)?(">")? > : DEFAULT
-| < (["a"-"z"])+(< SPACE >)*("=")(< SPACE >)*"\""> : IN_HTML_QUOTE
 | < STYLETAG : "style" > : IN_STYLE
 | < OPENTAG     : (["a"-"z","A"-"Z"])+ >
 | < ~[] >
 
 }
 
-// Skip anything within style tags.
+// Skip anything between style tags.
 
 < IN_STYLE > SKIP : {
 
@@ -165,6 +154,8 @@ TOKEN : {
 < IN_PRE > SKIP : {
 
   < CLOSE_PRE : "</"(< SPACE >)?"pre"(< SPACE >)?(">")? > : DEFAULT
+| < ASSIGNMENT : (["a"-"z","A"-"Z"])+" = "(["a"-"z","A"-"Z","0"-"9"])+ >
+| < COND : (["a"-"z","A"-"Z","0"-"9"])+("<"|">"|"==")(["a"-"z","A"-"Z","0"-"9"])+ >
 | < MISC_PRE : ~[] >
 
 }
@@ -173,27 +164,5 @@ TOKEN : {
 
    < WORD_PRE : (["a"-"z","A"-"Z"])+ >
 |  < FUNCTION : ((".")?(["a"-"z","A"-"Z"]))+ >
-|  < ASSIGNMENT : (["a"-"z","A"-"Z"])+" = "(["a"-"z","A"-"Z","0"-"9"])+ >
-|  < COND : (["a"-"z","A"-"Z","0"-"9"])+("<"|">"|"==")(["a"-"z","A"-"Z","0"-"9"])+ >
-
-}
-
-// Rules that handle information found between quotes.
-
-< IN_HTML_QUOTE > SKIP : {
-
-  < "\"" > : IN_HTML
-| < CLOSETAG > : DEFAULT
-| < SPEC      :((["a"-"z","A"-"Z","0"-"9"])+("-"|"/"){1})+(["a"-"z","A"-"Z","0"-"9"])+ >
-| < LINK      : (("http"|"https")"://")?((["a"-"z","A"-"Z","0"-"9","-",".","_"])+("."|"/"){1})+(["a"-"z","A"-"Z","0"-"9"])+ >
-| < ~[] >
-
-}
-
-< IN_HTML_QUOTE > TOKEN : {
-
-  < EMAIL_QT: (["a"-"z","A"-"Z","0"-"9","_","."])+"@"((".")?["a"-"z","A"-"Z","0"-"9"])+ >
-| < WORD >
-| < NUMBER >
 
 }
