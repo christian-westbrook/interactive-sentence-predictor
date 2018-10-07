@@ -65,11 +65,11 @@ Repository: https://github.com/christian-westbrook/interactive-sentence-predicto
 	│   ├── Utils.java
 	│   ├── build.sh
 	│   └── genMethodSignatures.bat
-        ├── CLTest.java
+	├── CLTest.java
 	├── GUI.java
 	├── Load.java
-        ├── Node.java
-        ├── Predictor.java
+	├── Node.java
+	├── Predictor.java
 	└── run.sh
 
 10 directories, 37 files
