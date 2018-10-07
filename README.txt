@@ -14,8 +14,7 @@ Repository: https://github.com/christian-westbrook/interactive-sentence-predicto
 
 2. RUNTIME APPLICATION
 
-	To load the runtime application, find run.sh in the predictor directory and execute it. 
-	If you only want to compile all files in the predictor directory, execute build.sh.
+	To load the runtime application, find run.sh in the predictor directory and execute it.
 
 	The run.sh script will launch a GUI. Press the 'listen' button to start SST recognition. 
 	Once the application recognizes a long enough sentence, it will begin to build a sentence.
@@ -52,19 +51,25 @@ Repository: https://github.com/christian-westbrook/interactive-sentence-predicto
 	│   ├── jsapi.jar
 	│   ├── sphinx4.jar
 	│   ├── voce.jar
-	│   ├── WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar
-        ├── Load.java
-        ├── NatLangPredGUI.java
+	│   ├── readme.txt
+	│   ├── voce.config.xml
+	│   ├──WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar
+	│   └── gram
+	│   	├── final.gram
+	│   	└── digits.gram
+	├── voce
+	│   ├── MANIFEST.MF
+	│   ├── SpeechInterface.java
+	│   ├── SpeechRecognizer.java
+	│   ├── SpeechSynthesizer.java
+	│   ├── Utils.java
+	│   ├── build.sh
+	│   ├── genMethodSignatures.bat
+        ├── CLTest.java
+	├── GUI.java
+	├── Load.java
         ├── Node.java
         ├── Predictor.java
-        ├── SpeechInterface.java
-        ├── SpeechRecognizer.java
-        ├── SpeechSynthesizer.java
-        ├── TestLoad.java
-        ├── Utils.java
-	├── build.sh
 	└── run.sh
 
-8 directories, 32 files
-
-
+10 directories, 37 files
