@@ -64,7 +64,7 @@ Repository: https://github.com/christian-westbrook/interactive-sentence-predicto
 	│   ├── SpeechSynthesizer.java
 	│   ├── Utils.java
 	│   ├── build.sh
-	│   ├── genMethodSignatures.bat
+	│   └── genMethodSignatures.bat
         ├── CLTest.java
 	├── GUI.java
 	├── Load.java
