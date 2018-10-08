@@ -131,7 +131,6 @@ public class Builder {
                         bigrams.put(ngram,freq);
 					}
 					
-					
 					bw2.write(ngram + "\n");
                 }
 			

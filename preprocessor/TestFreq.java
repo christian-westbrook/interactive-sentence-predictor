@@ -140,6 +140,9 @@ public class TestFreq {
                     if(freq != test) {
                         res++;
                     }
+                    
+                } else {
+                    res++;
                 }
         
             }
@@ -160,9 +163,9 @@ public class TestFreq {
         int b = checkCounts(bigrams, "./ngrams/bigrams_freq.txt");
         int t = checkCounts(trigrams, "./ngrams/trigrams_freq.txt");
         
-        System.out.println("UNIGRAMS ERROR: "+u);
-        System.out.println("BIGRAMS ERROR: "+b);
-        System.out.println("TRIGRAMS ERROR: "+t);
+        System.out.println("UNIGRAMS ERROR COUNT: "+u);
+        System.out.println("BIGRAMS ERROR COUNT: "+b);
+        System.out.println("TRIGRAMS ERROR COUNT: "+t);
 
     }
 
