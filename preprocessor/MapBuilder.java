@@ -19,9 +19,9 @@ import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-public class Builder 
-{
-    private HashMap<String, Integer> unigrams;
+public class MapBuilder
+{	
+	private HashMap<String, Integer> unigrams;
 	private HashMap<String, Integer> bigrams;
 	private HashMap<String, Integer> trigrams;
 	
@@ -31,83 +31,24 @@ public class Builder
 	private int[] ugrams;
 	private int[] bgrams;
 	private int[] tgrams;
-
-    public Builder() 
-    {
-
-        nGramBuilder();
-
-        // Initialize HashMaps
-        unigrams = new HashMap<String, Integer>();
-        bigrams = new HashMap<String, Integer>();
-        trigrams = new HashMap<String, Integer>();
-			
-        // Functions
-        ugrams = mapBuilder(unigrams,"./ngrams/unigrams_freq.txt");
-        bgrams = mapBuilder(bigrams,"./ngrams/bigrams_freq.txt");
-        tgrams = mapBuilder(trigrams,"./ngrams/trigrams_freq.txt");
-			
-        computeMetrics();
-        write();
-        
-    }
-
-    private void nGramBuilder()
+	
+	public MapBuilder()
 	{
-		try
-		{
-			// Open the tokens file
-			File tokens = new File("./tokenizer/output/tokens.out");
-			FileReader fr = new FileReader(tokens);
-			BufferedReader br = new BufferedReader(fr);
-			BufferedWriter bw1 = new BufferedWriter(new FileWriter("./ngrams/unigrams.txt"));
-			BufferedWriter bw2 = new BufferedWriter(new FileWriter("./ngrams/bigrams.txt"));
-			BufferedWriter bw3 = new BufferedWriter(new FileWriter("./ngrams/trigrams.txt"));
-		
-			// Create three word variables for building ngrams
-			String w1 = "", w2 = "", w3 = "";
-		
-			// Iterate through lines in the tokens file
-			String line = "";
-			while((line = br.readLine()) != null)
-			{
-				// Shift words back through the variables
-				w1 = w2;
-				w2 = w3;
-				w3 = line.toLowerCase();
+			// Initialize HashMaps
+			unigrams = new HashMap<String, Integer>();
+			bigrams = new HashMap<String, Integer>();
+			trigrams = new HashMap<String, Integer>();
 			
-				//If all three words are filled, add a trigram
-				if(!w1.equals("") && !w2.equals("") && !w3.equals(""))
-					bw3.write(w1 + " " + w2 + " " + w3 + "\n");
+			// Functions
+			ugrams = mapBuilder(unigrams,"./ngrams/unigrams_freq.txt");
+			bgrams = mapBuilder(bigrams,"./ngrams/bigrams_freq.txt");
+			tgrams = mapBuilder(trigrams,"./ngrams/trigrams_freq.txt");
 			
-				// If the last two words are filled, add a bigram
-				if(!w2.equals("") && !w3.equals(""))
-					bw2.write(w2 + " " + w3 + "\n");
-			
-				// If the last word is filled, add a unigram
-				if(!w3.equals(""))
-					bw1.write(w3 + "\n");
-			}
-		
-			br.close();
-			bw3.close();
-			bw2.close();
-			bw1.close();
-		
-		}
-		catch (FileNotFoundException ex)
-		{
-			ex.printStackTrace();
-			System.exit(1);
-		}
-		catch (IOException ex)
-		{
-			ex.printStackTrace();
-			System.exit(1);
-		}
+			computeMetrics();
+			write();
 	}
-
-    private int[] mapBuilder(HashMap<String,Integer> map, String filename)
+	
+	private int[] mapBuilder(HashMap<String,Integer> map, String filename)
 	{
         BufferedReader br;
 		String read;
@@ -130,7 +71,7 @@ public class Builder
 
             }
             
-            // Since we've already consolidated them, we can just add them up.
+            // Since we've already sorted them & cosolidated them, we can just count each one for V.
             res[0] += freq;
             res[1]++;
 		
@@ -198,10 +139,9 @@ public class Builder
 			System.exit(1);
 		}
 	}
-
-    public static void main(String[] args)
+	
+	public static void main(String[] args)
 	{
-		new Builder();
+		new MapBuilder();
 	}
-
 }
