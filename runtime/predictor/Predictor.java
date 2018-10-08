@@ -30,25 +30,6 @@ public class Predictor {
 
     }
 
-    /*
-    public void calcMisc(HashMap<String, Integer> hm, String key1, String key2) {
-
-        Iterator i = hm.entrySet().iterator();
-        int n = 0;
-        int v = 0;
-
-        while (i.hasNext()) {
-
-            n += (int) ((Map.Entry) i.next()).getValue();
-            v++;
-
-        }
-
-        misc.put(key1, n);
-        misc.put(key2, v);
-
-    }*/
-
     // ===========================================================================================================
     // Accepts input from Voce, a single string.
     // ===========================================================================================================
@@ -237,8 +218,7 @@ public class Predictor {
 
     // ===========================================================================================================
     // Calculate bigram MLE from a single word input. This is called after the input
-    // from Voce is split
-    // into fragments we can use.
+    // from Voce is split into fragments we can use.
     // ===========================================================================================================
     public Node bigramMLE(String w1) {
 
@@ -276,6 +256,8 @@ public class Predictor {
             }
 
         }
+        
+        
 
         return res;
 
@@ -286,18 +268,19 @@ public class Predictor {
         double res = Math.log10(0.0);
         String s;
         int freq = 0;
+        int u = 0;
 
         s = w1 + " " + w2;
 
-        if (bigrams.containsKey(s)) {
+        if (bigrams.get(s) != null) {
             freq = bigrams.get(s);
         }
 
-        if (unigrams.containsKey(w1)) {
-            // P( w2 | w1) = 0 , if w2 is unknown.
-            // If we know w1 but don't know w2, the probability would be 1 in Laplace Smoothing.
-            res = Math.log10(((double) freq + 1) / (unigrams.get(w1) + (uniV + 1)));
+        if (unigrams.get(w1) != null) {
+            u = unigrams.get(w1);
         }
+        
+        res = Math.log10(((double) freq + 1) / ( u + (uniV + 1)));
 
         return res;
 
@@ -305,8 +288,7 @@ public class Predictor {
 
     // ===========================================================================================================
     // Calculate trigram MLE from a single word input. This is called after the
-    // input from Voce is split
-    // into fragments we can use.
+    // input from Voce is split into fragments we can use.
     // ===========================================================================================================
     public Node trigramMLE(String w1, String w2) {
 
@@ -355,7 +337,7 @@ public class Predictor {
 
         s = w1 + " " + w2 + " " + w3;
 
-        if (trigrams.containsKey(s) && bigrams.containsKey(w1 + " " + w2)) {
+        if (trigrams.get(s) != null && bigrams.get(w1 + " " + w2) != null ) {
             res = Math.log10((double) trigrams.get(s) / bigrams.get(w1 + " " + w2));
         }
 
