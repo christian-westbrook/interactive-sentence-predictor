@@ -1,3 +1,10 @@
+//=================================================================================================
+// Program		: Interactive Sentence Predictor
+// Class		: GramFreq.java
+// Developer	: Renae Fisher
+// Abstract		: 
+//=================================================================================================
+
 import java.io.Serializable;
 
 public class GramFreq implements Serializable {
