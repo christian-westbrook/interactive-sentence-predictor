@@ -1,3 +1,10 @@
+//=================================================================================================
+// Program		: Interactive Sentence Predictor
+// Class		: GramComparator.java
+// Developer	: Renae Fisher
+// Abstract		: 
+//=================================================================================================
+
 import java.io.Serializable;
 import java.util.Comparator;
 
