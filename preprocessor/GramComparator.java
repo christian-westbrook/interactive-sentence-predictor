@@ -1,6 +1,6 @@
 //=================================================================================================
 // Program		: Interactive Sentence Predictor Preprocessor
-// Class		: GramFreq.java
+// Class		: GramComparator.java
 // Developer	: Renae Fisher
 // Abstract		: This is used to create special HashMaps for the Predictor.
 //=================================================================================================
