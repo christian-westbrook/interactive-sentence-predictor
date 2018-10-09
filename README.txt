@@ -1,9 +1,22 @@
-﻿Interactive Sentence Predictor
-Copyright © Renae Fisher, Zachary Rowton, and Christian Westbrook 2018. All rights reserved.
+Interactive Sentence Predictor
+Copyright (c) 2018 Renae Fisher, Zachary Rowton, and Christian Westbrook. All rights reserved.
 
 Repository: https://github.com/christian-westbrook/interactive-sentence-predictor.git
 
-1. PREPROCESSOR
+1. INTRODUCTION
+
+The Interactive Sentence Predictor (ISP) is a natural language processing system that generates likely continuations of partial sentences.
+
+2. EXECUTION
+
+	A. EXECUTE ENTIRE SYSTEM
+	
+	To run the whole system, find the run.sh script in the root directory and execute it.
+	The training data located in ./preprocessor/tokenizer/training-data will be used to
+	build the language models. The accuracy and speed of the system is largely dependent
+	on the input training data.
+	
+	B. EXECUTE PREPROCESSOR ONLY
 
 	To run the preprocessor first place any training data in the
 	directory ./preprocessor/tokenizer/training-data.
@@ -12,9 +25,9 @@ Repository: https://github.com/christian-westbrook/interactive-sentence-predicto
 
 	The output data is accessible by the runtime application.
 
-2. RUNTIME APPLICATION
+	C. EXECUTE RUNTIME APPLICATION ONLY
 
-	To load the runtime application, find run.sh in the predictor directory and execute it.
+	To execute the runtime application, find run.sh in the predictor directory and execute it.
 
 	The run.sh script will launch a GUI. Press the 'listen' button to start SST recognition. 
 	Once the application recognizes a long enough sentence, it will begin to build a sentence.
