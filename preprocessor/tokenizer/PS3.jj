@@ -136,6 +136,7 @@ TOKEN : {
 | < PRE     : "pre"(">")? > : IN_PRE
 | < CLOSETAG    : "/"(< SPACE >)?(["a"-"z"])+(< SPACE >)?(">")? > : DEFAULT
 | < STYLETAG : "style" > : IN_STYLE
+| < ASPEECH : "a"(" ")?"name"(" ")?"="(" ")?"\"speech"(["0"-"9"])+ > : IN_ASPEECH
 | < OPENTAG     : (["a"-"z","A"-"Z"])+ >
 | < ~[] >
 
@@ -145,7 +146,16 @@ TOKEN : {
 
 < IN_STYLE > SKIP : {
 
-  < CLOSETAG_STYLE    : "/"(< SPACE >)?"style"(< SPACE >)?(">")? > : DEFAULT
+  < CLOSETAG_STYLE : "/"(< SPACE >)?"style"(< SPACE >)?(">")? > : DEFAULT
+| < ~[] >
+
+}
+
+// Skip a particular tag.
+
+< IN_ASPEECH > SKIP : {
+
+  < CLOSETAG_ASPEECH    : "/"(< SPACE >)?"a"(< SPACE >)?(">")? > : DEFAULT
 | < ~[] >
 
 }

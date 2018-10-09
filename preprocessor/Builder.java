@@ -17,12 +17,19 @@ import java.util.HashMap;
 import java.io.ObjectOutputStream;
 import java.io.FileOutputStream;
 import java.io.FileNotFoundException;
+import java.util.PriorityQueue;
+import java.util.Map;
+import java.util.Iterator;
 
 public class Builder {
 
     private HashMap<String, Integer> unigrams;
 	private HashMap<String, Integer> bigrams;
 	private HashMap<String, Integer> trigrams;
+	
+	private HashMap<String, PriorityQueue> bigramsPredict;
+	private HashMap<String, PriorityQueue> trigramsPredict;
+	private PriorityQueue<GramFreq> pq;
 	
 	private int n;
 	private int v;
@@ -36,6 +43,8 @@ public class Builder {
 	private int trigramsN;
 	private int trigramsV;
 	
+	boolean debug = false;
+	
 	public Builder()
 	{
         // Initialize HashMaps
@@ -43,6 +52,9 @@ public class Builder {
         bigrams = new HashMap<String, Integer>();
         trigrams = new HashMap<String, Integer>();
         
+        bigramsPredict = new HashMap<String, PriorityQueue>();
+        trigramsPredict = new HashMap<String, PriorityQueue>();
+
         unigramsN = 0;
         unigramsV = 0;
         bigramsN = 0;
@@ -52,6 +64,8 @@ public class Builder {
         
         // Functions
         mapBuilder();
+        makePredictMap(bigrams,bigramsPredict,1);
+        makePredictMap(trigrams,trigramsPredict,2);
         computeMetrics();
         write();
         
@@ -66,16 +80,20 @@ public class Builder {
 			FileReader fr = new FileReader(tokens);
 			BufferedReader br = new BufferedReader(fr);
 			
-			// For debugging purposes.--------------------------------------------------------
-			BufferedWriter bw1 = new BufferedWriter(new FileWriter("./ngrams/unigrams.txt"));
-			BufferedWriter bw2 = new BufferedWriter(new FileWriter("./ngrams/bigrams.txt"));
-			BufferedWriter bw3 = new BufferedWriter(new FileWriter("./ngrams/trigrams.txt"));
-            //--------------------------------------------------------------------------------
+			BufferedWriter bw1 = null;
+			BufferedWriter bw2 = null;
+			BufferedWriter bw3 = null;
+			
+			if(debug) {
+                bw1 = new BufferedWriter(new FileWriter("./ngrams/unigrams.txt"));
+                bw2 = new BufferedWriter(new FileWriter("./ngrams/bigrams.txt"));
+                bw3 = new BufferedWriter(new FileWriter("./ngrams/trigrams.txt"));
+			}
             
 			// Create three word variables for building ngrams
 			String w1 = "", w2 = "", w3 = "";
 			
-			// Used for temporary storage.
+			// Used for temporary storage
 			String ngram;
 			int freq;
 		
@@ -108,7 +126,8 @@ public class Builder {
 					
 					}
 					
-					bw3.write(ngram + "\n");
+					if(debug)
+                        bw3.write(ngram + "\n");
 
                 }
 			
@@ -131,7 +150,8 @@ public class Builder {
                         bigrams.put(ngram,freq);
 					}
 					
-					bw2.write(ngram + "\n");
+					if(debug)
+                        bw2.write(ngram + "\n");
                 }
 			
 				// If the last word is filled, add a unigram
@@ -153,15 +173,21 @@ public class Builder {
                         unigrams.put(ngram,freq);
                     }
 				
-					bw1.write(ngram + "\n");
+					if(debug) 
+                        bw1.write(ngram + "\n");
 
                 }
 			}
 		
 			br.close();
-			bw3.close();
-			bw2.close();
-			bw1.close();
+			
+			if(debug) {
+			
+                bw3.close();
+                bw2.close();
+                bw1.close();
+			
+			}
 		
 		}
 		catch (FileNotFoundException ex)
@@ -190,6 +216,9 @@ public class Builder {
 			File uFile 	= new File("./data/unigrams.map");
 			File bFile 	= new File("./data/bigrams.map");
 			File tFile 	= new File("./data/trigrams.map");
+			
+			File bpFile = new File("./data/bigramsPredict.map");
+			File tpFile = new File("./data/trigramsPredict.map");
 			
 			// Write the unigrams table
 			uFile.createNewFile();
@@ -222,6 +251,19 @@ public class Builder {
 					  + trigramsV + "\n");
 			mbw.close();
 			
+			// Write bigramsPredict and TrigramsPredict to disk.
+			bpFile.createNewFile();
+			FileOutputStream bpos = new FileOutputStream(bpFile);
+			ObjectOutputStream bpoos = new ObjectOutputStream(bpos);
+			bpoos.writeObject(bigramsPredict);
+			bpoos.close();
+			
+			tpFile.createNewFile();
+			FileOutputStream tpos = new FileOutputStream(tpFile);
+			ObjectOutputStream tpoos = new ObjectOutputStream(tpos);
+			tpoos.writeObject(trigramsPredict);
+			tpoos.close();
+			
 		}
 		catch (IOException ex)
 		{
@@ -230,10 +272,52 @@ public class Builder {
 		}
 	}
 	
+	public void makePredictMap( HashMap<String,Integer> hm, HashMap<String,PriorityQueue> hmPQ, int n) {
+	
+        Iterator i = hm.entrySet().iterator();
+        StringBuilder sb;
+        Map.Entry m;
+        String[] tmp;
+
+        while (i.hasNext()) {
+
+            m = (Map.Entry) i.next();
+
+            tmp = m.getKey().toString().split(" ");
+            
+            sb = new StringBuilder();
+            
+            for(int s = 0; s < n; s++) {
+                sb.append(tmp[s]);
+                
+                if(s < n-1) {
+                    sb.append(" ");
+                }
+            }
+            
+            if (!hmPQ.containsKey(sb.toString())) {
+
+                pq = new PriorityQueue(1, new GramComparator());
+                pq.add(new GramFreq(tmp[tmp.length-1], (int) m.getValue()));
+
+                hmPQ.put(sb.toString(), pq);
+
+            } else {
+
+                pq = hmPQ.get(sb.toString());
+                pq.add(new GramFreq(tmp[tmp.length-1], (int) m.getValue()));
+
+                hmPQ.put(sb.toString(), pq);
+
+            }
+
+        }
+	
+	}
+	
 	public static void main(String[] args)
 	{
 		new Builder();
 	}
-
 
 }

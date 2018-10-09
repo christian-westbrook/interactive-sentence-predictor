@@ -10,23 +10,31 @@
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
+import java.util.PriorityQueue;
 
 public class Predictor {
 
     HashMap<String, Integer> unigrams;
     HashMap<String, Integer> bigrams;
     HashMap<String, Integer> trigrams;
+    private HashMap<String, PriorityQueue> bigramsPredict;
+	private HashMap<String, PriorityQueue> trigramsPredict;
+	Load l;
     int uniN;
     int uniV;
 
-    public Predictor(HashMap<String, Integer> unigrams, HashMap<String, Integer> bigrams, HashMap<String, Integer> trigrams, int uniN, int uniV) {
+    public Predictor() {
 
-        this.unigrams = unigrams;
-        this.bigrams = bigrams;
-        this.trigrams = trigrams;
-        
-        this.uniN = uniN;
-        this.uniV = uniV;
+        l = new Load();
+
+        unigrams = l.getUnigrams();
+        bigrams = l.getBigrams();
+        trigrams = l.getTrigrams();
+        bigramsPredict = l.getBigramsPredict();
+        trigramsPredict = l.getTrigramsPredict();
+
+        uniN = l.getUnigramsN();
+        uniV = l.getUnigramsV();
 
     }
 
@@ -178,91 +186,70 @@ public class Predictor {
     }
 
     // ===========================================================================================================
-    // Calculate unigram MLE. I'm not sure if we actually need this.
-    // ===========================================================================================================
-    public Node unigramMLE() {
-
-        Node res = new Node("", Double.NEGATIVE_INFINITY); // Technically a zero probability. Either this or return
-        // null, & check for null.
-        String s;
-        double min = Double.NEGATIVE_INFINITY;
-        double log;
-
-        Iterator i = unigrams.entrySet().iterator();
-
-        while (i.hasNext()) {
-
-            s = ((Map.Entry) i.next()).getKey().toString();
-
-            /*
-             * LOG PROBABILITY NOTES: Probabilities occur between zero and one. The smallest
-             * probability is 0 and the greatest is 1. In Java, the range of a log
-             * probability is -infinity to 0. Fractions return negative value from a log
-             * function. So, we're looking for negative exponents closest to zero.
-             */
-            // .size() isn't an adequate solution. We need N in this case.
-            log = Math.log10((double) unigrams.get(s) / uniN );
-
-            if (log > min) {
-
-                min = log;
-                res.setValues(s, min);
-
-            }
-
-        }
-
-        return res;
-
-    }
-
-    // ===========================================================================================================
     // Calculate bigram MLE from a single word input. This is called after the input
     // from Voce is split into fragments we can use.
     // ===========================================================================================================
     public Node bigramMLE(String w1) {
 
+        PriorityQueue<GramFreq> pq;
+        GramFreq g;
         Node res = null;
-        String s;
-        String e;
-        double min = Double.NEGATIVE_INFINITY;
         double log;
+        int freq = 1;
 
-        Iterator i = bigrams.entrySet().iterator();
+        pq = bigramsPredict.get(w1);
 
-        while (i.hasNext()) {
+        if (pq != null) {
 
-            s = ((Map.Entry) i.next()).getKey().toString();
+            g = pq.peek();
 
-            if (s.matches(w1 + " .+")) {
-
-                e = s.split(" ")[1];
-
-                // .size() isn't an adequate solution, we would need V in this case.
-                log = Math.log10(((double) bigrams.get(s) + 1) / (unigrams.get(w1) + uniV));
-
-                if (log > min) {
-
-                    min = log; 
-                    
-                    if(res == null) {
-                        res = new Node(e,min);
-                    } else {
-                        res.setValues(e, min);
-                    }
-                    
-                }
-
-            }
-
+            log = Math.log10(((double) g.getFreq() + 1) / (unigrams.get(w1) + uniV));
+            res = new Node(g.getWx(), log);
+            
         }
         
-        
+        if(res == null) {
+            res = searchBigramList();
+        }
 
         return res;
 
     }
 
+    // ===========================================================================================================
+    // Find another bigram if bigramMLE returns null.
+    // ===========================================================================================================
+    public Node searchBigramList() {
+
+        Node res = new Node("",0.0);
+        String s;
+        String[] e;
+        double min = Double.NEGATIVE_INFINITY;
+        double log;
+
+        Iterator i = bigrams.entrySet().iterator();
+
+        while (i.hasNext() ) {
+
+            s = ((Map.Entry) i.next()).getKey().toString();
+            
+            e = s.split(" ");
+
+            log = Math.log10( ((double) bigrams.get(s) + 1) / (unigrams.get(e[1]) + uniV) );
+
+            if (log > min) {
+
+                min = log;
+                res.setValues(e[1], min);
+
+            }
+
+        }
+
+        return res;
+
+    }
+    
     public double bigramLogProb(String w1, String w2) {
 
         double res = Math.log10(0.0);
@@ -280,7 +267,7 @@ public class Predictor {
             u = unigrams.get(w1);
         }
         
-        res = Math.log10(((double) freq + 1) / ( u + (uniV + 1)));
+        res = Math.log10(((double) freq + 1) / ( u + (uniV)));
 
         return res;
 
@@ -292,42 +279,25 @@ public class Predictor {
     // ===========================================================================================================
     public Node trigramMLE(String w1, String w2) {
 
+        PriorityQueue<GramFreq> pq;
+        GramFreq g;
         Node res = null;
-        String s;
-        String e;
-        double min = Double.NEGATIVE_INFINITY;
         double log;
+        int freq = 1;
 
-        Iterator i = trigrams.entrySet().iterator();
+        pq = trigramsPredict.get(w1 + " " + w2);
 
-        while (i.hasNext()) {
+        if (pq != null) {
 
-            s = ((Map.Entry) i.next()).getKey().toString();
+            g = pq.peek();
 
-            if (s.matches(w1 + " " + w2 + " .+")) {
-                
-                e = s.split(" ")[2];
-
-                log = Math.log10((double) trigrams.get(s) / bigrams.get(w1 + " " + w2));
-
-                if (log > min) {
-
-                    min = log;
-                    
-                    if(res == null) {
-                        res = new Node(e, min);
-                    } else {
-                        res.setValues(e, min);
-                    }
-
-                }
-
-            }
+            log = Math.log10((double) g.getFreq() / bigrams.get(w1 + " " + w2));
+            res = new Node(g.getWx(), log);
 
         }
 
         return res;
-
+        
     }
 
     public double trigramLogProb(String w1, String w2, String w3) {

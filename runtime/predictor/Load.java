@@ -13,6 +13,7 @@ import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.ObjectInputStream;
 import java.util.HashMap;
+import java.util.PriorityQueue;
 
 public class Load {
 
@@ -20,6 +21,9 @@ public class Load {
     private HashMap<String, Integer> bigrams;
     private HashMap<String, Integer> trigrams;
 
+    private HashMap<String, PriorityQueue> bigramsPredict;
+	private HashMap<String, PriorityQueue> trigramsPredict;
+    
     private int n;
     private int v;
 
@@ -56,6 +60,17 @@ public class Load {
             File mFile = new File("./data/metrics.dat");
             FileReader mfr = new FileReader(mFile);
             BufferedReader bfr = new BufferedReader(mfr);
+            
+            // Load predict maps
+            FileInputStream bpis = new FileInputStream("./data/bigramsPredict.map");
+            ObjectInputStream bpois = new ObjectInputStream(bpis);
+            bigramsPredict = (HashMap<String, PriorityQueue>) bpois.readObject();
+            bpois.close();
+            
+            FileInputStream tpfis = new FileInputStream("./data/trigramsPredict.map");
+            ObjectInputStream tpois = new ObjectInputStream(tpfis);
+            trigramsPredict = (HashMap<String, PriorityQueue>) tpois.readObject();
+            tpois.close();
 
             String[] metrics = bfr.readLine().split(",");
 
@@ -87,6 +102,14 @@ public class Load {
 
     public HashMap getTrigrams() {
         return trigrams;
+    }
+    
+    public HashMap getBigramsPredict(){
+        return bigramsPredict;
+    }
+    
+    public HashMap getTrigramsPredict(){
+        return trigramsPredict;
     }
 
     public int getN() {

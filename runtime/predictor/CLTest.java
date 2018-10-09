@@ -5,10 +5,6 @@ public class CLTest {
 
     public static void main(String[] args) {
         
-        HashMap<String, Integer> unigrams;
-        HashMap<String, Integer> bigrams;
-        HashMap<String, Integer> trigrams;
-        Load l;
         Predictor p;
         String bRes;
         String tRes;
@@ -19,16 +15,7 @@ public class CLTest {
         
             if(args.length >= 3) {
             
-                l = new Load();
-
-                unigrams = l.getUnigrams();
-                bigrams = l.getBigrams();
-                trigrams = l.getTrigrams();
-
-                uniN = l.getUnigramsN();
-                uniV = l.getUnigramsV();
-
-                p = new Predictor(unigrams, bigrams, trigrams,uniN,uniV);
+                p = new Predictor();
                 
                 String speech = "";
                 

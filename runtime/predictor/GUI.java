@@ -21,7 +21,6 @@ public class GUI extends javax.swing.JFrame {
     HashMap<String, Integer> unigrams;
     HashMap<String, Integer> bigrams;
     HashMap<String, Integer> trigrams;
-    Load l;
     Predictor p;
     int uniN;
     int uniV;
@@ -31,16 +30,7 @@ public class GUI extends javax.swing.JFrame {
 
         initComponents();
 
-        l = new Load();
-
-        unigrams = l.getUnigrams();
-        bigrams = l.getBigrams();
-        trigrams = l.getTrigrams();
-
-        uniN = l.getUnigramsN();
-        uniV = l.getUnigramsV();
-
-        p = new Predictor(unigrams, bigrams, trigrams,uniN,uniV);
+        p = new Predictor();
 
         row = 0;
 
@@ -138,7 +128,7 @@ public class GUI extends javax.swing.JFrame {
             // here.  For this sample, we'll just sleep for a little bit.
             try {
 
-                Thread.sleep(50);
+                Thread.sleep(500);
 
             } catch (InterruptedException e) {
                 

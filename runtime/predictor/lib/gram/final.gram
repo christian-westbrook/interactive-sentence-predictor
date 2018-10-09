@@ -6,4 +6,9 @@
 
 grammar digits;
 
-public <people> = (i | they | he | she | him | her | them | it | my) *;
+public <statement1> = <question> <abstract>;
+public <question> = what is;
+public <abstract> = (love|death|life|hell|heaven);
+public <statement2> = i am a <role>;
+public <self> = i am a;
+public <role> = (student|teacher|lover|husband|wife|son|daughter);
