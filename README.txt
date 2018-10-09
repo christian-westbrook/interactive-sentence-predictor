@@ -22,10 +22,17 @@ Repository: https://github.com/christian-westbrook/interactive-sentence-predicto
 3. FILE MANIFEST
 
 .
+├── run.sh
+├── README.txt
 ├── preprocessor
 │   ├── Builder.class
 │   ├── Builder.java
+│   ├── GramComparator.java
+│   ├── GramFreq.java
+│   ├──TestFreq.java
+│   ├── debug.sh
 │   ├── run.sh
+│   ├── ngrams
 │   └── tokenizer
 │       ├── output
 │       │   └── tokens.out
@@ -35,7 +42,6 @@ Repository: https://github.com/christian-westbrook/interactive-sentence-predicto
 │           ├── 2.html
 │           ├── 3.html
 │           └── 4.html
-├── README.txt
 └── runtime
     └── predictor
         ├── data
@@ -65,6 +71,8 @@ Repository: https://github.com/christian-westbrook/interactive-sentence-predicto
 	│   ├── Utils.java
 	│   ├── build.sh
 	│   └── genMethodSignatures.bat
+	├── GramComparator.java
+	├── GramFreq.java
 	├── CLTest.java
 	├── GUI.java
 	├── Load.java
@@ -72,4 +80,4 @@ Repository: https://github.com/christian-westbrook/interactive-sentence-predicto
 	├── Predictor.java
 	└── run.sh
 
-10 directories, 37 files
+11 directories, 46 files
