@@ -1,3 +1,11 @@
+//=================================================================================================
+// Program		: Interactive Sentence Predictor Preprocessor
+// Class		: TestFreq.java
+// Developer	: Renae Fisher
+// Abstract		: This class can be used to test frequencies generated using sort | uniq -c 
+//                  against the data added to the hashmaps. Be sure to set debug to "true" in
+//                  the builder class & run debug.sh .
+//=================================================================================================
 
 import java.io.BufferedReader;
 import java.io.File;
