@@ -11,6 +11,8 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 import java.util.PriorityQueue;
+import java.util.ArrayList;
+import java.util.Random;
 
 public class Predictor {
 
@@ -221,6 +223,10 @@ public class Predictor {
     // ===========================================================================================================
     public Node searchBigramList() {
 
+        ArrayList<Map.Entry> a = new ArrayList<>(); 
+        Map.Entry m;
+        Random rand = new Random();
+        int ind;
         Node res = new Node("",0.0);
         String s;
         String[] e;
@@ -231,8 +237,8 @@ public class Predictor {
 
         while (i.hasNext() ) {
 
-            s = ((Map.Entry) i.next()).getKey().toString();
-            
+            m = (Map.Entry)i.next();
+            s = m.getKey().toString();
             e = s.split(" ");
 
             log = Math.log10( ((double) bigrams.get(s) + 1) / (unigrams.get(e[1]) + uniV) );
@@ -240,11 +246,29 @@ public class Predictor {
             if (log > min) {
 
                 min = log;
-                res.setValues(e[1], min);
 
+                if(a.size() > 50) {
+                
+                    a.remove(0);
+                    a.add(m);
+                
+                } else {
+                    a.add(m);
+                }
+                
             }
 
         }
+
+        ind = rand.nextInt(a.size());
+
+        m = a.get(ind);
+        s = m.getKey().toString();
+        e = s.split(" ");
+            
+        log = Math.log10( ((double) bigrams.get(s) + 1) / (unigrams.get(e[1]) + uniV) );
+        
+        res.setValues(e[1],log);
 
         return res;
 
